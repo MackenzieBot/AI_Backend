@@ -1,16 +1,17 @@
 n,query,,answer,source
-1,How do I increase the strength of my internet connection?”,,"Here are a few things you can do to increase the strength of internet connection:
+0,How do I increase the strength of my internet connection?”,,"Here are a few things you can do to increase the strength of internet connection:
 1) Reset your router 
 2) Use an Ethernet Cable
 3) Purchase a new router
 4) Add a WI-FI extender. ",https://www.allconnect.com/blog/boost-your-wi-fi-signal-to-get-the-most-out-of-your-high-speed-internet-connection
-2,How do I reset my router?,,"To reset your router:
+1,How do I reset my router?,,"To reset your router:
 
 Locate the Reset button on the back of your router        
 
 With the router powered on, use the pointed end of a paperclip or similar object to press and hold the Reset button for 15 seconds 
        
 Wait for the router to fully reset and power back on        ",
+2,,,,
 3,,,,
 4,,,,
 5,,,,
@@ -33,57 +34,62 @@ Wait for the router to fully reset and power back on        ",
 22,,,,
 23,,,,
 24,,,,
-25,,,,
-26,How do I get rid of a virus on my network?,,"1. Run a complete network scan to check for malicous files or programs. Make sure that antivirus and anti-malware software scan are up to date.  2. Back up all your system files using the necessary tools. 3. Confine all suspicious, irregular files. Isolating them will prevent their exchange with other files. Then disinfect or completely wipe all files. ",https://www.a-b-s.com/common-network-issues-solutions
-27,What if the IP address is already in use? ,,,
-28,,,,
-29,,,,
-30,,,,
-31,,,,
-32,,,,
-33,,,,
-34,,,,
-35,,,,
-36,,,,
-37,,,,
-38,,,,
-39,,,,
-40,,,,
-41,,,,
-42,,,,
-43,,,,
+25,How do I get rid of a virus on my network?,,"1. Run a complete network scan to check for malicous files or programs. Make sure that antivirus and anti-malware software scan are up to date.  2. Back up all your system files using the necessary tools. 3. Confine all suspicious, irregular files. Isolating them will prevent their exchange with other files. Then disinfect or completely wipe all files. ",https://www.a-b-s.com/common-network-issues-solutions
+26,What if the network has slow connectivity?,,"1. The most common error is transfer of large files, so a limit should be placed on the size. ",https://ophtek.com/what-are-the-most-common-computer-network-problems/
+27,What if I have an IP conflict? ,,1. Each PC has a personal IP address on your network. Sometimes however two pcs can be assigned to the same IP address. If this occurs the best option is to reset the router and assign new IP addresses to every pc on the network.,https://ophtek.com/what-are-the-most-common-computer-network-problems/
+28,Why am I unable to connect to the local printer? ,,1. This problem is often caused by a sharing issue whereby different security settings between PCs and the printers fail to agree with each other. 2. When this occurs it’s recommended that you check firewall settings and that your Windows network adapters have printer sharing enabled. ,https://ophtek.com/what-are-the-most-common-computer-network-problems/
+29,How do I connect to the wifi? ,,1. Select network icon on taskbar. 2. Choose wifi network you want to connect to. Then connect. 3. Type the network password and click next. ,https://support.microsoft.com/en-us/windows/connect-to-a-wi-fi-network-in-windows-10-1f881677-b569-0cd5-010d-e3cd3579d263
+30,What is wifi?,,"Wi-Fi is a wireless networking technology that allows devices such as computers (laptops and desktops), mobile devices (smart phones and wearables), and other equipment (printers and video cameras) to interface with the Internet.","https://www.cisco.com/c/en/us/products/wireless/what-is-wifi.html#:~:text=Wi%2DFi%20is%20a%20wireless,to%20interface%20with%20the%20Internet.&text=Internet%20connectivity%20occurs%20through%20a%20wireless%20router."
+31,What is bluetooth? ,,Bluetooth is a wireless technology that allows the exchange of data between different devices.,https://www.businessinsider.com/what-is-bluetooth
+32,What is an IP address? ,,An IP address is a unique address that identifies a device on the internet or a local network.,https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address
+33,What is a computer network?,,"Computer networking refers to connected computing devices (such as laptops, desktops, servers, smartphones, and tablets) and an ever-expanding array of IoT devices (such as cameras, door locks, doorbells, refrigerators, audio/visual systems, thermostats, and various sensors) that communicate with one another.",https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html
+34,What is the OSI model?,,OSI model stands for Open System Interconnection. It’s a reference model which describes that how different applications will communicate to each other over the computer network.,https://www.educba.com/computer-network-interview-questions/
+35,What is a hub? ,,Hub will broadcast all data to every port. It has a common connection point for all devices.,https://www.educba.com/computer-network-interview-questions/
+36,What is a switch?,,Switch will create the dynamic connection and provide information to the requesting port.,https://www.educba.com/computer-network-interview-questions/
+37,What is HTTP? ,,HTTP stands for Hyper Text Transfer Protocol and the port for this is 80. This protocol is responsible for web content.,https://www.educba.com/computer-network-interview-questions/
+38,What is Firewall?,,Firewall is a concept of a security system that will helps computers to protect it with unauthorized access or any cyber-attack.,https://www.educba.com/computer-network-interview-questions/
+39,What is a node? ,,"A node is a basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes.",https://en.wikipedia.org/wiki/Node_(computer_science)
+40,What is data storage?,,,
+41,Should I change the automatic/default network settings on my computer?,,Misconfiguration is the cause of as many as 80% of unplanned network outages on a device. Do not alter default settings without consulting multiple sources.,https://www.prescientsolutions.com/blog/prevent-7-common-causes-network-failures/
+42,What are the advantages of using a VPN?,,"A VPN will secure your network so that applications and websites cannot keep track of your online activity and target you with ads. A VPN can also encrypt the sensitive data you enter on websites (such as credit card numbers, etc.) so that hackers cannot intercept it. Additionally, a VPN will protect your computer when using a public WiFi network (hackers connected to the same WiFi network will not be able to access your computer). Finally, a VPN will thwart geo-blockers.",https://www.fortinet.com/resources/cyberglossary/benefits-of-vpn
+43,What are the different types of VPN?,,"VPNs come in two main types, remote acess VPNs and site-to-site VPNs. A remote access VPN permits a user to connect to a private network remotely. This is often the VPN an employee will use when working from home to access company files and resources from a private company network. Additionally, private or home users will use this type of VPN to bypass regional internet restrictions by appearing from another location or to enhance internet security and privacy. A site-to-site VPN is generally used by businesses to connect the network of one office location to the network of another office location.",https://www.geeksforgeeks.org/types-of-virtual-private-network-vpn-and-its-protocols/
 44,,,,
 45,,,,
 46,,,,
 47,,,,
 48,,,,
 49,,,,
-50,,,,
-51,My wifi isn't working,,"Reboot your router. Turn your router off. Disconnect it from power for at least 30 seconds. Then, plug it back in and turn it on. If rebooting your router did not work, try rebooting your Mac. Power off your Mac, then power back on and try reconnecting. If this is unsuccessful, try forgetting your current network.
+50,My Wi-Fi isn't working,,"Reboot your router. Turn your router off. Disconnect it from power for at least 30 seconds. Then, plug it back in and turn it on. If rebooting your router did not work, try rebooting your Mac. Power off your Mac, then power back on and try reconnecting. If this is unsuccessful, try forgetting your current network.
 On a Mac, go to System>Preferences > Network. Select Wifi and then Advanced. Press (-) and select Remove. Try connecting to the network and entering the network password again.","https://www.macworld.co.uk/how-to/fix-wifi-problems-3605043/#:~:text=Reboot%20your%20router&text=Make%20sure%20your%20router%20is,consider%20using%20the%205GHz%20band"
-52,What do I do when an error says my IP address is duplicated/already in use?,,"On a Mac, select ""System Preferences."" Then click on ""Network"" and select ""Wi-Fi"" on the left side of the window. Then click on ""Advanced."" Select the ""TCP/IP"" tab and then click ""Renew DHCP Lease"" on the right side of the window.",https://www.a-b-s.com/common-network-issues-solutions
-53,How do I connect to devices through Bluetooth?,,"On a Mac, select ""System Preferences."" Then select ""Bluetooth."" Follow the external device's connection instructions. Then, the device should appear under the list of devices. Select the device.",NA
-54,,,,
-55,,,,
-56,,,,
-57,,,,
-58,,,,
-59,,,,
-60,,,,
-61,,,,
-62,,,,
-63,,,,
-64,,,,
-65,,,,
-66,,,,
-67,,,,
-68,,,,
-69,,,,
-70,,,,
-71,,,,
-72,,,,
-73,,,,
-74,,,,
+51,What do I do when an error says my IP address is duplicated/already in use?,,"On a Mac, select ""System Preferences."" Then click on ""Network"" and select ""Wi-Fi"" on the left side of the window. Then click on ""Advanced."" Select the ""TCP/IP"" tab and then click ""Renew DHCP Lease"" on the right side of the window.",https://www.a-b-s.com/common-network-issues-solutions
+52,How do I connect to devices through Bluetooth?,,"On a Mac, select ""System Preferences."" Then select ""Bluetooth."" Follow the external device's connection instructions. Then, the device should appear under the list of devices. Select the device.",NA
+53,What do I do when the VPN won't connect?,,"Here are a few things you can do to increase the strength of internet connection:
+1. Check your internet connection
+2. Check your login credentials
+3. Change the VPN server connection (VPNs often offer a group of servers you can connect to - try connecting to a different server)
+4. Restart the VPN software                                                       5. Check that your VPN software is up-to-date",https://www.lifewire.com/vpn-not-connecting-2377980
+54,How do I connect to a hotspot with my Mac?,,"On your Mac, choose the Apple () menu > System Preferences, then click Bluetooth and make sure Bluetooth is on. Select the device providing Personal Hotspot, click Connect, then follow the onscreen instructions.","https://support.apple.com/en-us/HT203302#:~:text=On%20your%20Mac%2C%20choose%20Apple,then%20follow%20the%20onscreen%20instructions."
+55,Who is using my wifi and causing connectivity problems?,,"To find out who’s on your network, log in to your router’s interface (use your cell phone if you can’t get Wi-Fi on your computer) and look for a list labeled with a term like “DHCP clients,” “connected devices,” or “attached devices.” Usually the name of the devices being used are included on the list (example: “Peter’s iPhone,” “Rebecca’s Macbook."")",https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide
+56,Where do I put my modem?,Best location for modem,"Keep it visible. Do not place inside or behind cabinets or furniture, and make sure modem vents are not blocked to prevent overheating. Also, position your modem upright with the space around the vents cleared. Allow at least 4 ft of space between your modem and other wireless devices, appliances, electronics, and metal, concrete, or glass.",https://www.rogers.com/customer/support/article/where-to-place-your-modem
+57,What is my IP address?,,"Google ""What is my IP address."" Google will return your public IP address.",https://www.google.com/search?q=what+is+my+ip+address&oq=what+is+my+ip+address&aqs=chrome..69i57.5616j0j4&sourceid=chrome&ie=UTF-8
+58,"My internet/wifi, TV, and phone aren't working",,Call your Internet Service Provider to see if there is an outage in your area.,N/A
+59,How do I make my Mac remember a Wifi network?,,"Open System Preferences from the  Apple menu. Go to “Network”, then choose “Wi-Fi” from the menu. Choose the ""Advanced” button in the corner. Then, within the “Wi-Fi” tab, check the setting for “Remember networks this computer has joined.” Choose to Apply the settings, then close System Preferences",https://osxdaily.com/2012/02/15/fix-for-mac-os-x-not-remembering-wireless-networks/
+60,How do I change my network password?,,"Use an internet browser on Mac or PC to open your router's configuration page by typing in your router's default IP address (often written along the underside of the router). Then log into your router using its username and password (often found along the underside of the router or from the router's manufacturer or your internet service provider). Click on the ""Wireless"" or ""Wireless Security"" option. Then, in the ""Wi-Fi Password"" or ""Key"" box, type in the password you want to set. Scroll down and click ""Save.""",https://www.businessinsider.com/how-to-change-wifi-password
+61,How do I change the name of my network?,,"Use an internet browser on Mac or PC to open your router's configuration page by typing in your router's default IP address (often written along the underside of the router). Then log into your router using its username and password (often found along the underside of the router or from the router's manufacturer or your internet service provider). Click on the ""Wireless"" or ""Wireless Security"" option. Then, in the ""Wi-Fi Network Name"" or ""SSID"" box, type in the WiFi name you want to set. Scroll down and click ""Save.""",https://www.businessinsider.com/how-to-change-wifi-password
+62,What internet service provider should I use?,,"Common internet service providers include Xfinity, AT&T Internet, Verizon, Spectrum, CenturyLink, Frontier, Cox, Suddenlink, Sparklight, Mediacom, Windstream, WOW, Optimum, Earthlink, Rise Broadband, Consolodated Communications, TDS Telecom, Google Fiber, HughesNet, and Viasat",https://www.practicalecommerce.com/20-Top-Internet-Service-Providers
+63,Does an Ethernet cord make a faster internet connection than Wi-Fi?,,"Yes, an Ethernet cord will provide you with a faster, more consistent internet connection. Ethernet connections can reach speeds of up to 10 Gb/s and even the most common Ethernet cord provides a consistent internet speed of up to 1 Gb/s. Most WiFi connections have maximum speeds of 866.7 Mb/s or 150 Mb/s (based on 802.11ac or 802.11n standards, respectively).",https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/
+64,What are the advantages of using an Ethernet connection?,,"Ethernet connections will allow for faster internet speeds than Wi-Fi connections. Additionally, Wi-Fi signals may experience interference and drop at times. Ethernet connections will allow for consistent internet access.",https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/
+65,What is an Ethernet connection?,,Ethernet cables allow you to physically connect a device to a network. This allows for faster internet speeds and more reliable connectivity.,"https://www.comms-express.com/blog/what-does-an-ethernet-cable-do/#:~:text=Ethernet%20is%20a%20way%20of,devices%20in%20a%20physical%20space.&text=Ethernet%20cables%20are%20a%20type,internet%20and%20network%2Denabled%20devices."
+66,What is a VPN?,,"A VPN (Virtual Private Network) allows you to preserve online privacy and anonymity by creating a private network from a public internet connection. VPNs create a data tunnel between your local network and an exit node in another location, which could be thousands of miles away, making it seem as if you’re in another place. They also encrypt your data.",https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html
+67,What is an IP address?,,"An IP address is a unique address that identifies a device on the internet or a local network. IP stands for ""Internet Protocol,"" which is the set of rules governing the format of data sent via the internet or local network. IP addresses contain location information and make devices accessible for communication.",https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address
+68,What is a router?,,Your modem is a box that connects your home network to the wider Internet. A router is a box that lets all of your wired and wireless devices use that Internet connection at once and also allows them to talk to one another without having to do so over the Internet.,https://www.nytimes.com/wirecutter/blog/modem-vs-router/
+69,What is a modem?,,Your modem is a box that connects your home network to the wider Internet. A router is a box that lets all of your wired and wireless devices use that Internet connection at once and also allows them to talk to one another without having to do so over the Internet.,https://www.nytimes.com/wirecutter/blog/modem-vs-router/
+70,What do I need to set up Wi-Fi in my house?,,"In order to set up Wi-Fi in your house, you will need to select an internet service provider, modem, router, Ethernet cables, and surge protectors/extension cords.",https://www.mymove.com/broadband/guides/wifi-for-home-move/
+71,Does a hotspot use cellular data?,,"Some cell carriers will simply count your hotspot data use against your cell phone plan's overall data limit.  Alternatively, many plans include a limited amount of designated high-speed hotspot data that isn't counted against your overall data. Usually, this applies to unlimited plans offered by the major carriers. You might see hotspot data limits ranging anywhere between 20GB to 100GB per month. Once you hit your limit, your hotspot data speeds will be slowed. In either scenario, your mobile hotspot doesn't cost any extra unless your plan has a data cap. If your hotspot usage puts you over your monthly data limit, you'll pay for the extra data you use.","https://www.whistleout.com/CellPhones/Guides/How-Much-Data-Does-Hotspot-Use#:~:text=as%20a%20hotspot.-,How%20Much%20Data%20Do%20Hotspots%20Use%3F,doing%20on%20your%20other%20devices."
+72,Does having Bluetooth on drain my laptop's battery?,,Bluetooth only uses your device's battery when it is actively being used.,"https://chipolo.net/en-us/blogs/bluetooth-drains-your-phone-battery-myth-or-fact#:~:text=This%20widespread%20misinterpretation%20has%20a,it%20is%20being%20actively%20used."
+73,How fast should my internet be if I'm working online?,,You should have at least 10 Mbps of download speed and 1 Mbps of upload speed of dedicated internet bandwidth for each person working from home.,"https://www.highspeedinternet.com/resources/how-much-internet-speed-to-work-from-home#:~:text=What%20is%20a%20good%20internet,the%20same%20time%20without%20interruptions."
+74,How do I check my internet speed?,,"Google ""check my internet speed.""
+Google will check your internet speed in under 30 seconds through Measurement Lab.",https://www.google.com/search?q=check+my+internet+speed&ei=bSmwYIKpNK2F9PwP8KKvEA&oq=check+my+internet+speed&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAguEMcBEKMCOgUIABCxAzoLCC4QsQMQxwEQowI6CAgAELEDEIMBOgIILjoFCAAQyQM6BwgAELEDEEM6BQgAEJIDOgUIABCRAlCMPliSVWDbVWgAcAJ4AIABc4gBhw-SAQQyMi4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjCk6KhgOvwAhWtAp0JHXDRCwIQ4dUDCA4&uact=5
 75,,,,
 76,,,,
 77,,,,
@@ -109,4 +115,3 @@ On a Mac, go to System>Preferences > Network. Select Wifi and then Advanced. Pre
 97,,,,
 98,,,,
 99,,,,
-100,,,,

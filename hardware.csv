@@ -1,7 +1,7 @@
 n,query,,w_answer,m_answer,w_source,m_source
-1,How do I check my PC hardware specifications?,,"To check your PC hardware specs, click on the Windows Start button, then click on Settings (the gear icon). In the Settings menu, click on System. Scroll down and click on About. On this screen, you should see specs for your processor, Memory (RAM), and other system info, including Windows version.","Choose Apple menu > About This Mac. This opens an overview of your Mac, including your Mac model, processor, memory, serial number, and version of macOS. To see the greater detail provided by the System Information app, click the System Report button.
+0,How do I check my PC hardware specifications?,,"To check your PC hardware specs, click on the Windows Start button, then click on Settings (the gear icon). In the Settings menu, click on System. Scroll down and click on About. On this screen, you should see specs for your processor, Memory (RAM), and other system info, including Windows version.","Choose Apple menu > About This Mac. This opens an overview of your Mac, including your Mac model, processor, memory, serial number, and version of macOS. To see the greater detail provided by the System Information app, click the System Report button.
 To open System Information directly, press and hold the Option key and choose Apple menu > System Information. You can also use Spotlight to find System Information, or open it from the Utilities folder of your Applications folder.",https://techguided.com/how-to-check-your-computer-specs/,"https://support.apple.com/en-us/HT203001#:~:text=Choose%20Apple%20menu%20%EF%A3%BF%20%3E%20About,click%20the%20System%20Report%20button."
-2,How to setup new airpods?,,"To connect AirPods to a PC, put your AirPods in the case and press and hold the small button on the back until the status light starts blinking white. Your AirPods should then show up in the ""Add a device"" window in your PC's Bluetooth settings, where you can click to pair and connect.  
+1,How to setup new airpods?,,"To connect AirPods to a PC, put your AirPods in the case and press and hold the small button on the back until the status light starts blinking white. Your AirPods should then show up in the ""Add a device"" window in your PC's Bluetooth settings, where you can click to pair and connect.  
 Here's a full step-by-step breakdown with pictures. 
 1. Put your AirPods in their case and make sure they are charged.
 2. Open Settings on your PC from the Start menu. It's the gear-shaped icon above the power button. You can also type ""Settings"" in the Start menu search box.
@@ -34,7 +34,7 @@ If your AirPods are not connected with your iPhone, you can connect them directl
 6. If asked if you want to improve Siri and Dictation, do one of the following:
     - Share audio recordings: Click Share Audio Recordings to allow Apple to store audio of your Siri and dictation interactions from this Mac. Apple may review a sample of stored audio.
     - Don’t share audio recordings: Click Not Now.",https://support.apple.com/en-gb/guide/mac-help/mchld2f124d1/mac,
-3,How to setup a wireless mouse?,,"Slide off the battery cover in the bottom of the mouse and push the batteries into your wireless device. Some mice are rechargeable. If yours is, place it in the docking station provided with the mouse to charge it.
+2,How to setup a wireless mouse?,,"Slide off the battery cover in the bottom of the mouse and push the batteries into your wireless device. Some mice are rechargeable. If yours is, place it in the docking station provided with the mouse to charge it.
 Purchase a wireless adapter that is compatible with the type of mouse you own. Plug the adapter into the USB port on the computer and press the ""Power"" button to activate it. Within a few seconds of activating the adapter, push the pinhole on the bottom of the wireless mouse with a pencil or pen to activate it. Some receivers plug into the mouse port and come with an adapter. If your computer is equipped with wireless technology, you will not need an adapter and move on to the next step.
 Install the driver software that was provided with the mouse. Reboot the computer so it will recognize the software. Turn on the mouse and allow the computer to recognize the device. Some mice require software to run. Activate the mouse in the software that was provided with the device.","Apple Magic Mouse 2, Magic Keyboard, Magic Keyboard with Numeric Keypad, and Magic Trackpad 2 work wirelessly with your Mac via Bluetooth when they're paired and turned on.
 
@@ -46,7 +46,7 @@ If your devices came with a new iMac, they're already paired with the computer. 
 4. Check the Bluetooth preferences window to see your device's charge level. When the device is charged, unplug it for wireless use. 
 
 If you bought your devices separately — or if they've become unpaired from your Mac — follow next steps below to pair them.",https://itstillworks.com/set-belkin-wireless-travel-mouse-6854273.html,https://support.apple.com/en-us/HT201178
-4,How to setup a wireless keyboard,,"Put the battery in your wireless keyboard. Make sure you install it correctly. You can skip this step if there is built-in battery in your wireless keyboard. Usually the wireless keyboard comes with a unifying receiver. You need to insert the unifying receiver into the USB port on your PC. Turn on your wireless keyboard. the On / Off switch usually can be found on the back or the side of your keyboard.
+3,How to setup a wireless keyboard,,"Put the battery in your wireless keyboard. Make sure you install it correctly. You can skip this step if there is built-in battery in your wireless keyboard. Usually the wireless keyboard comes with a unifying receiver. You need to insert the unifying receiver into the USB port on your PC. Turn on your wireless keyboard. the On / Off switch usually can be found on the back or the side of your keyboard.
 Once you turn on your wireless keyboard, it will start to pair with your PC. If you see any prompted dialog on your computer, just confirm and allow to connect. It may take a while. Wait until your wireless keyboard pair successfully with your PC. 
 You need to test your wireless keyboard when it is connected to your computer. You can open Word or any other word-processing applications and try pressing the keys on your wireless keyboard to see if your wireless keyboard works on your computer.
 If your wireless keyboard won’t type or it fails to connect to your computer, you can check the troubleshooting steps below:
@@ -62,7 +62,7 @@ If your devices came with a new iMac, they're already paired with the computer. 
 4. Check the Bluetooth preferences window to see your device's charge level. When the device is charged, unplug it for wireless use. 
 
 If you bought your devices separately — or if they've become unpaired from your Mac — follow next steps below to pair them.",https://www.drivereasy.com/knowledge/how-to-connect-a-wireless-keyboard-step-by-step/,https://support.apple.com/en-us/HT201178
-5,How do I take a screenshot?,How do I print screen?,"To capture your entire screen, tap the Print Screen (sometimes labeled PrtScn) key. Your screenshot will not be saved as a file, but it will be copied to the clipboard. You'll need to open an image editing tool (such as Microsoft Paint), paste the screenshot in the editor and save the file from there. 
+4,How do I take a screenshot?,How do I print screen?,"To capture your entire screen, tap the Print Screen (sometimes labeled PrtScn) key. Your screenshot will not be saved as a file, but it will be copied to the clipboard. You'll need to open an image editing tool (such as Microsoft Paint), paste the screenshot in the editor and save the file from there. 
 You can also set the PrtScn button to open the Snip & Sketch tool by going to Settings > Ease of Access > Keyboard and toggling on Use the PrtScn button to open screen snipping under Print Screen Shortcut. ","How to take a screenshot on your Mac
 1. To take a screenshot, press and hold these three keys together: Shift, Command, and 3. 
 2. If you see a thumbnail in the corner of your screen, click it to edit the screenshot. Or wait for the screenshot to save to your desktop.
@@ -84,7 +84,7 @@ By default, screenshots save to your desktop with the name ”Screen Shot [date]
 
 
 ","https://www.cnet.com/how-to/7-ways-you-can-take-screenshots-in-windows-10/#:~:text=To%20capture%20your%20entire%20screen%20and%20automatically%20save%20the%20screenshot,to%20the%20Pictures%20%3E%20Screenshots%20folder.","https://support.apple.com/en-us/HT201361#:~:text=To%20take%20a%20screenshot%2C%20press,it%20to%20edit%20the%20screenshot."
-6,How do I change my keyboard language?,,"1. Press the Windows key and the letter I (  + I )
+5,How do I change my keyboard language?,,"1. Press the Windows key and the letter I (  + I )
 2. Click Time & language icon
 3. Click Region and Language on the left list
 4. Click Add a language
@@ -110,7 +110,7 @@ Switch between input sources
 - Use the Fn key or the Globe key: If you set an option in Keyboard preferences to change input sources by using the Fn key or the Globe key (if available on the keyboard), press the key to display a list of your input sources, then continue pressing the key until the input source you want to switch to is selected. The list disappears automatically.
 - To check your settings in Keyboard preferences, choose Apple menu > System Preferences, click Keyboard, then click Keyboard.
 - Use the Touch Bar: If your Mac has a Touch Bar, and you customized the Control Strip by adding the Input Sources button , the Handwriting button , or both, tap the button, then tap the input source you want to use. See Customize the Touch Bar.",https://www.conversationexchange.com/resources/keyboard-language.php,https://support.apple.com/guide/mac-help/type-language-mac-input-sources-mchlp1406/mac
-7,How do I connect my headphones?,My earphones are not working,"Method 1:
+6,How do I connect my headphones?,My earphones are not working,"Method 1:
 
 Run Hardware troubleshooter and checks for common issues and makes sure that any new device or hardware attached to your computer was installed correctly. Follow the below steps:
 1. Press Windows + X keys on the keyboard and select Control Panel.
@@ -140,7 +140,7 @@ Make sure that the headphone that you are using are set as default in the comput
 - Restart your sound controller by opening the “Activity Monitor” and locating “coreaudiod” in the process list. Terminate the process by clicking on the “X,” and it will restart automatically.
 - Update your Mac OS.
 - Try turning off your Bluetooth. Your Mac may try connecting to a Bluetooth device that isn’t in range.","https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware-winpc/headphones-not-detected-in-windows-10/64be9661-b96e-4909-b91b-ee1b5bd44d86#:~:text=Follow%20these%20steps%20to%20check,is%20enabled%20%26%20set%20as%20default.","https://www.alphr.com/headphones-not-working-on-mac-what-to-do/#:~:text=Check%20the%20headphone%20jack%20for,buttons%20at%20the%20same%20time."
-8,How do I adjust screen's brightness?,,"On Windows 10, you can find a quick brightness slider in the Action Center. To access it, click or tap the notification bubble icon that appears to the right of the clock on the taskbar. If you don’t see the slider, click the “Expand” option above the grid of tiles. Click (or touch) and drag the slider to adjust your screen’s brightness.
+7,How do I adjust screen's brightness?,,"On Windows 10, you can find a quick brightness slider in the Action Center. To access it, click or tap the notification bubble icon that appears to the right of the clock on the taskbar. If you don’t see the slider, click the “Expand” option above the grid of tiles. Click (or touch) and drag the slider to adjust your screen’s brightness.
 
 On a touchscreen, you can also swipe in from the right side of your screen to open the Action Center.
 
@@ -158,7 +158,7 @@ Manually adjust brightness
 - On your Mac, choose Apple menu  > System Preferences, click Displays, then click Display.
 - Drag the Brightness slider to adjust the brightness of your display.
 Depending on the type of display connected to your Mac, you may also see a Contrast slider that you can use to adjust the display’s contrast.","https://www.howtogeek.com/241771/how-to-adjust-your-pcs-screen-brightness-manually-and-automatically/#:~:text=You'll%20find%20this%20option,to%20change%20the%20brightness%20level.","https://support.apple.com/guide/mac-help/change-your-displays-brightness-mchlp2704/mac#:~:text=Manually%20adjust%20brightness,click%20Displays%2C%20then%20click%20Display.&text=Drag%20the%20Brightness%20slider%20to%20adjust%20the%20brightness%20of%20your%20display."
-9,How do I use my webcam?,How to connect USB camera?,"Install Your Webcam Software
+8,How do I use my webcam?,How to connect USB camera?,"Install Your Webcam Software
 Before you can use your webcam, install its drivers on your computer. Depending on the webcam, it came with either a disk containing the drivers or with instructions to find the drivers online. If your computer doesn't have a disk drive, go to the ""No Disk"" section of this guide.
 
 Use the Provided Disk
@@ -187,7 +187,7 @@ Boot the MacBook Pro into Mac OS X.
 Step 2
 Insert the webcam's USB cable into an available USB port on the MacBook Pro.
 Open a program to use the webcam with. For example, newer MacBook Pros have an application called ""PhotoBooth"" built into the operating system that works with USB webcams. Also, many messaging programs, such as Skype, have the ability to use USB webcams with their software.",https://www.lifewire.com/install-and-connect-a-webcam-to-your-pc-2640488,https://itstillworks.com/connect-usb-camera-macbook-pro-8162425.html
-10,How do I start Safe Mode?,,"From Settings
+9,How do I start Safe Mode?,,"From Settings
 1. Press Windows logo key  + I on your keyboard to open Settings. If that doesn't work, select the Start  button, then select Settings .
 2. Select Update & Security  > Recovery .
 3. Under Advanced startup, select Restart now.
@@ -224,7 +224,7 @@ Start up a Mac with Apple silicon in safe mode
 4. Press and hold the Shift key, click Continue in Safe Mode, then release the Shift key.
 
 To leave safe mode, restart your Mac normally, without pressing and holding any keys during startup.",https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-10-92c27cff-db89-8644-1ce4-b3e5e56fe234,https://support.apple.com/guide/mac-help/start-up-your-mac-in-safe-mode-mh21245/mac
-11,How do I refresh my computer?,,"Refresh your PC to reinstall Windows and keep your personal files and settings. Refresh also keeps the apps that came with your PC and the apps you installed from the Microsoft Store.
+10,How do I refresh my computer?,,"Refresh your PC to reinstall Windows and keep your personal files and settings. Refresh also keeps the apps that came with your PC and the apps you installed from the Microsoft Store.
 
 1. Swipe in from the right edge of the screen, tap Settings, and then tap Change PC settings.
 (If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, click Settings, and then click Change PC settings.)
@@ -233,7 +233,7 @@ To leave safe mode, restart your Mac normally, without pressing and holding any 
 4. Follow the instructions on the screen.
 
 ",,https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd,
-12,How do I reset my computer?,How to factory reset?,"Reset your PC to reinstall Windows but delete your files, settings, and apps—except for the apps that came with your PC.
+11,How do I reset my computer?,How to factory reset?,"Reset your PC to reinstall Windows but delete your files, settings, and apps—except for the apps that came with your PC.
 
 1. Swipe in from the right edge of the screen, tap Settings, and then tap Change PC settings.
 (If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, click Settings, and then click Change PC settings.)
@@ -250,7 +250,7 @@ To leave safe mode, restart your Mac normally, without pressing and holding any 
 7. Select Quit Disk Utility in the Disk Utilities menu.
 8. A window will then appear giving you the option to reinstall macOS > select Install macOS
 9. After the new macOS is installed, your computer has been successfully factory reset",https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd,https://www.gearpatrol.com/tech/a695665/factory-reset-apple-devices/
-13,How do I restore my computer?,How to undo system changes on PC?,"Restore your PC to undo recent system changes you've made.
+12,How do I restore my computer?,How to undo system changes on PC?,"Restore your PC to undo recent system changes you've made.
 
 1. Swipe in from the right edge of the screen, and then tap Search.
 (If you're using a mouse, point to the upper-right corner of the screen, move the mouse pointer down, and then click Search.)
@@ -259,11 +259,11 @@ To leave safe mode, restart your Mac normally, without pressing and holding any 
 4. Tap or click Open System Restore, and then follow the instructions.
 
 ",,https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd,
-14,Find out how much remaining storage I have?,How much disk space left I have?,"1. Select the Start button, and then select Settings .
+13,Find out how much remaining storage I have?,How much disk space left I have?,"1. Select the Start button, and then select Settings .
 2. Select System > Storage.
 
 ","Choose Apple menu > About This Mac, then click Storage. Each segment of the bar is an estimate of the storage space used by a category of files. Move your pointer over each segment for more detail. Click the Manage button to open the Storage Management window.",https://support.microsoft.com/en-us/windows/find-out-how-much-storage-your-pc-has-c7cbe6ef-267b-6b8a-32d9-01161623ba5a,"https://support.apple.com/en-us/HT206996#:~:text=Find%20out%20how%20much%20storage,by%20a%20category%20of%20files."
-15,How to free up storage space?,How to clear disk?,"Delete files with Storage sense
+14,How to free up storage space?,How to clear disk?,"Delete files with Storage sense
 1. Open the Start  menu and select Settings  > System > Storage. Open Storage settings.
 2. Turn on Storage sense to have Windows delete unneccesary files automatically.
 3. To delete unnecessary files manually, select Change how we free up space automatically. Under Free up space now, select Clean now.
@@ -290,7 +290,7 @@ Even without using the Optimized Storage features described in this article, you
 - Move files to an external storage device.
 - Compress files.
 - Delete unneeded email: In the Mail app, choose Mailbox > Erase Junk Mail. If you no longer need the email in your Trash mailbox, choose Mailbox > Erase Deleted Items.",https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-10-a18fae02-a0fa-8df9-9838-8970f9939de4,"https://support.apple.com/en-us/HT206996#:~:text=Find%20out%20how%20much%20storage,by%20a%20category%20of%20files."
-16,The wheel on my mouse isn't working properly,Mouse wheel not scrolling,"1. Reconnect the mouse. Before doing anything, make sure the issue isn't a temporary one. You can do this by disconnecting the mouse from the USB port and plugging it back in. Whenever you plug in a mouse, it restarts the mouse drivers and this alone could resolve the issue. You might even try using a different USB port. If you're using a wireless mouse, make sure you've connected it properly to your PC.
+15,The wheel on my mouse isn't working properly,Mouse wheel not scrolling,"1. Reconnect the mouse. Before doing anything, make sure the issue isn't a temporary one. You can do this by disconnecting the mouse from the USB port and plugging it back in. Whenever you plug in a mouse, it restarts the mouse drivers and this alone could resolve the issue. You might even try using a different USB port. If you're using a wireless mouse, make sure you've connected it properly to your PC.
 2. Replace the batteries. If you're using a wireless mouse, low battery power is the most common cause of strange mouse behavior. Whether the mouse wheel isn't scrolling or the mouse is otherwise acting erratically, swapping the batteries is a very quick and inexpensive way to rule out this cause.
 3. You might also consider switching to rechargeable batteries so that you can always have fully charged batteries on hand that you swap out on a schedule. This way you don't have to wait until your mouse starts acting up before changing them.
 4. Clean the mouse. Most modern mice don't have rollers to clean anymore, but now the scroll wheel is the one mechanical part. This also means it's the part prone to attracting dirt, dust, and food particles. These slip in through the cracks on the side of the wheel and can lead to the mouse scroll wheel not working. If your mouse is wireless, there are some special wireless mouse cleaning considerations to keep in mind.
@@ -307,7 +307,7 @@ Note: Before moving on to the final step, try using a different mouse to make su
 7. Update mouse drivers. The most effective way to update your mouse driver is to download and install the latest mouse driver from the manufacturer's website.
 Note: Before moving on to the final step, try using a different mouse to make sure that the issue is actually with your system and not a mouse hardware failure. You wouldn't want to take more drastic measures with your computer if all you need is to buy a new mouse.
 8. Fix corrupt system files. At this point, it is possible your system files may be corrupt. Before you try anything drastic, make sure you've installed the latest system updates for Mac OS from the Apple App Store. If all else fails, you may need to do a full Mac OS re-install.",https://www.mcwareitsolutions.com/faq,https://www.lifewire.com/mouse-scroll-fix-5076803
-17,Laptop plugged in but not charging,Battery won't charge,"If your laptop refuses to charge the battery even though it acknowledges that it's plugged in, here's what you need to do:
+16,Laptop plugged in but not charging,Battery won't charge,"If your laptop refuses to charge the battery even though it acknowledges that it's plugged in, here's what you need to do:
 
 1. Open the Device Manager by searching for it or right-clicking the Start button and selecting Device Manager.
 2. Click Batteries on the list to expand it and you should see two items: Microsoft AC Adapter and Microsoft ACPI-Compliant Control Method Battery.
@@ -323,7 +323,7 @@ Note: Before moving on to the final step, try using a different mouse to make su
 - Your computer temporarily paused charging to extend the life of your battery. Your battery may drain to 90% or lower before it begins charging again. To immediately resume charging, you can turn off battery health management in Energy Saver preferences. See the Apple Support article About battery health management in Mac notebooks.
 - Your computer is connected to a power source that gives it enough power to run, but not enough power to charge the battery. For example, your Mac might not charge when it’s connected to a low wattage adapter. You can still use your Mac without draining its battery, but the battery won’t charge, even if you turn off your Mac or put it to sleep.
 - Your computer is running at a very high performance level that uses more power than the power source provides. For example, some apps—such as video editing software and video games—can require more power and drain the battery more quickly.",https://www.cnet.com/how-to/how-to-fix-a-windows-10-laptop-thats-plugged-in-but-isnt-charging/,https://support.apple.com/guide/mac-help/if-your-battery-status-is-not-charging-mh20876/mac
-18,My computer is too noisy,Laptoping making loud noise,"1. Make sure the sound comes from the hard drive
+17,My computer is too noisy,Laptoping making loud noise,"1. Make sure the sound comes from the hard drive
 Usually, when we hear the sound from our computers, it’s a hard drive sound. So when the sound suddenly gets louder, we assume that it’s from the hard drive.
 To check this, you can simply unplug the power and data cables from the hard drive and reboot the system. If you still hear the sound, the issue is not with the hard drive.
 
@@ -337,13 +337,13 @@ Remember to make a back up of your files before replacing it.","The most common 
 If one of your Mac’s temperature sensors is flaky or giving erroneous data then the controller chip might make the fans run at full speed even though the Mac’s temperature is in the normal range. Restarting your Mac could reset the temperature sensor so give that a try. If that doesn’t help then you could reset the SMC using Apple’s instructions.
 
 If your fans are still loud then let’s use the Activity Monitor to see if any application or process is making your Mac’s processor work hard. Go to your Applications folder, locate the Utilities folder and double-click Activity Monitor to open it. Click on the CPU tab and then % CPU column, as depicted in the image below, to put the items using the greatest percentage of the CPU’s ability at the top of the list. In the image below, you can see that Adobe’s Flash Player is using 100% of the CPU. You could quit or Force Quit (if needed) Safari to get Flash Player to stop running.",https://ishapetechnologies.com/computer-problems-solutions/,"https://soundsupport.biz/2016/08/07/how-to-deal-with-loud-fan-noises-on-your-mac/#:~:text=The%20most%20common%20reason%20for,push%20out%20the%20hot%20air.&text=Restarting%20your%20Mac%20could%20reset,so%20give%20that%20a%20try."
-19,My disc drive won't open,How to fix a CD reader not ejecting?,"We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your operating system to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
+18,My disc drive won't open,How to fix a CD reader not ejecting?,"We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your operating system to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
 1. Open File Explorer. Search for it or use the WIN+X menu to open it quickly.
 2. Once open, navigate to the optical drive from the menu on the left. This drive is often auto-named based on what disc is inside the drive but there's usually a small disc icon to help identify it.
 3. Right-click or tap-and-hold the optical drive and choose Eject from the menu that pops open.
 4. File Explorer in Windows 10 showing right-click menu with Eject command highlighted
 7. The drive bay or disc should spin down and eject within seconds.",,https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195,
-20,How to connect to Internet via wire on LAN port?,Connect to internet using Ethernet cable,"1. Connect a LAN cable to the PC's wired LAN port. If there is no LAN port on the side of the laptop computer, use a LAN adapter to connect.
+19,How to connect to Internet via wire on LAN port?,Connect to internet using Ethernet cable,"1. Connect a LAN cable to the PC's wired LAN port. If there is no LAN port on the side of the laptop computer, use a LAN adapter to connect.
 2. Click the Start button on the taskbar and then click Settings.
 3. Click Network and Internet.
 4. In Status, click Network and Sharing Center.
@@ -362,7 +362,7 @@ If your fans are still loud then let’s use the Activity Monitor to see if any 
 5. Click Advanced, click DNS, click the Add button  below DNS Servers, then enter the IP address of your ISP’s DNS server. If your ISP gave you search domain addresses, enter them as well. These may not be needed if you configure your IP settings to use DHCP.
 6. If you were given other settings from your service provider, such as IPv6, proxy server, or additional Ethernet settings, click Advanced to enter them.
 7. Click OK to make the settings active for the Ethernet service.",https://www.samsung.com/ie/support/computing/connecting-to-a-wired-lan-with-windows-10/,https://support.apple.com/guide/mac-help/connect-mac-internet-ethernet-mh11939/mac
-21,How to extend my screen?,How to use a second monitor?,"To get your PC to recognize multiple monitors:
+20,How to extend my screen?,How to use a second monitor?,"To get your PC to recognize multiple monitors:
 Make sure your cables are connected properly to the new monitors, then press Windows logo key  + P to select a display option.
 If you need more help, here's what to do: 
 
@@ -381,7 +381,7 @@ Use extended desktop mode
 5. To set a different display as the primary display, drag the menu bar to the other display. The primary display is where your desktop icons and app windows first appear.
 
 ",https://support.microsoft.com/en-us/windows/set-up-dual-monitors-on-windows-10-3d5c15dc-cc63-d850-aeb6-b41778147554,https://support.apple.com/en-gb/HT202351
-22,How to rotate my screen?,How do I flip my computer screen?,"1. Click the magnifying glass icon in the bottom-left corner of your screen.
+21,How to rotate my screen?,How do I flip my computer screen?,"1. Click the magnifying glass icon in the bottom-left corner of your screen.
 2. Then type “rotate screen” in the search bar and click Open.
 3. Click the Display Orientation drop-down box and choose an option. You will see this option under Scale and layout.
 4. Press Esc on your keyboard if you want to go back to the screen orientation you had before.","Use the button in your Dock or click Apple icon > System Preferences from the menu bar. If you already have your System Preferences open, close and reopen the window to start fresh. Then, follow these steps.
@@ -390,14 +390,14 @@ Use extended desktop mode
 2) Click Displays in the System Preferences window.
 3) Select Display and you should now see an additional option for Rotation.
 4) Click that drop-down menu and select 90, 180, or 270 degrees.","https://www.hellotech.com/guide/for/how-to-rotate-computer-screen-windows-10#:~:text=you%20had%20before.-,How%20to%20Rotate%20Screen%20With%20Keyboard%20Shortcuts,keys%20at%20the%20same%20time.","https://www.idownloadblog.com/2019/11/27/how-to-rotate-mac-screen-upside-down/#:~:text=Rotate%20your%20screen%20in%20System%20Preferences&text=1)%20Hold%20down%20your%20Command,%2C%20180%2C%20or%20270%20degrees"
-23,How to disable touchpad?,How to enable touchpad?,"Press the Windows key, type touchpad, and press Enter. Or, press Windows key+I to open Settings and choose Devices, then Touchpad.
+22,How to disable touchpad?,How to enable touchpad?,"Press the Windows key, type touchpad, and press Enter. Or, press Windows key+I to open Settings and choose Devices, then Touchpad.
 In the Touchpad Settings window, click the Touchpad toggle switch to the On/Off position.","1. Click the Apple logo in the upper left corner and select System Preferences. 
 2. Select Accessibility — not the Trackpad option. 
 3. Now click on the Mouse & Trackpad option on the left menu. If you have a mouse or wireless trackpad connected, simply check the box on the bottom to disable your trackpad. 
 4. If you don't have a mouse connected, but want to disable the trackpad anyway, check the box to ""Enable Mouse Keys"" and then click Options. Then check the box to ""Ignore built-in trackpad when Mouse Keys is on"" and hit OK.
 
 ","https://www.computerhope.com/issues/ch001699.htm#:~:text=Press%20the%20Windows%20key%20%2C%20type,switch%20to%20the%20Off%20position.","https://www.businessinsider.com/how-to-disable-trackpad-on-mac#:~:text=Select%20Accessibility%20%E2%80%94%20not%20the%20Trackpad%20option.&text=3.,bottom%20to%20disable%20your%20trackpad."
-24,How to clean my keyboard?,,"Tap Crumbs Loose, but Don’t Shake Your Laptop
+23,How to clean my keyboard?,,"Tap Crumbs Loose, but Don’t Shake Your Laptop
 You can remove some crumbs and other debris by gently turning your laptop over and lightly tapping it. Don’t shake it or you could damage some of your computer’s hardware. Solid-state laptops and stand-alone keyboards are more durable, but that’s no green light for an earthquake-level shake down. For a less-risky crumb removal (or after the initial shake), try using the sticky end of a Post-it note on the hard-to-remove specks or a piece of adhesive tape.
 
 Get Some Air
@@ -444,38 +444,217 @@ A Few Cleaning Don’ts
 - Don’t try to dry off a wet keyboard in the clothes dryer, or in the oven — unless you’re bored with the keyboard’s desk-friendly, flat shape.
 - Don’t try to clean the keyboard using steel wool, cleaning sponges or spray-on lime and calcium removers — unless you plan to test your memory once all the letters come off the keys.
 - Don’t forget to turn your computer off before attempting to clean a keyboard. Today’s machines are just as prone to pressure- and moisture-induced mechanical errors as their 5- or even 10-year-old ancestors were.",https://newsroom.intel.com/editorials/how-to-clean-gunk-off-your-pc-keyboard/#gs.1qa35j,https://newsroom.intel.com/editorials/how-to-clean-gunk-off-your-pc-keyboard/#gs.1qa35j
-25,,,,,,
-26,,,,,,
-27,,,,,,
+24,Where to find my computer's serial number?,,"Open a Command Prompt window to get started. Press Windows + R, type “cmd” into the Run dialog, and then press Enter.
+At the Command Prompt, type the following command and then press Enter:
+    wmic bios get serialnumber
+You’ll see the computer’s serial number displayed beneath the text “SerialNumber”. This command uses the Windows Management Instrumentation Command-line (WMIC) tool to pull the system’s serial number from its BIOS.
+If you don’t see your PC’s serial number, blame your PC’s manufacturer. The number will only appear here if the PC manufacturer saved it to your computer’s BIOS or UEFI firmware. PC manufacturers don’t always fill in the number properly. In that case, you’ll see something like “0” or “To be filled by O.E.M.” instead of an actual serial number.
+This is also true if you built your own PC because the PC itself won’t have a serial number. However, you can look up the serial number of your motherboard and other components.
+","If your Mac is working properly, finding the serial number is easy. Just click the Apple menu icon at the top of the screen and select “About This Mac”
+You’ll see the serial number displayed along with your Mac’s model number, hardware specifications, and the version of macOS you have installed.",https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/,"https://www.howtogeek.com/294665/how-to-find-your-macs-serial-number-even-if-you-dont-have-your-mac/#:~:text=If%20your%20Mac%20is%20working,select%20%E2%80%9CAbout%20This%20Mac%E2%80%9D.&text=You'll%20see%20the%20serial,of%20macOS%20you%20have%20installed."
+25,How to activate airplane mode?,,"1. Click on the Start button, and then select Settings from the Start menu.
+2. In the Settings window, click on Network & Internet.
+3. In the Network & Internet window, select Airplane mode.
+4. In the Airplane mode area, click on the button to turn on airplane mode. (Note:  In the Wireless devices area, Wi-Fi and Bluetooth are automatically turned off when you turn on Airplane mode.)",,https://uis.georgetown.edu/airplane-mode-2/,
+26,I can't hear any sound,Computer speakers not working,"1. Check your cables and volume. Verify your speakers or headphones are plugged into the proper jacks and the volume is turned up. Then, check your volume levels within Windows by right-clicking the speaker icon in your system tray, then select Volume Mixer from the list of options.
+2. Verify that the current audio device is the system default. If your speakers or headphones use a USB or HDMI port, you might need to make that device your default. To do that:
+- Type sound in the Windows 10 search box, then select Sound from the list of results.
+- Select the Playback tab then select your audio device.
+- Select Set Default.
+3. Restart your PC after an update. A lot of Windows 10 updates require the restart your device after installation, and if you haven't done so yet it could cause your audio problem.
+4. Try a System Restore. If you still have no sound after installing the updates, you could try going back to a previous system restore point. Windows creates one whenever it installs an update for your device, just in case there's a problem.
+5. Run the Windows 10 Audio Troubleshooter. It can diagnose and fix a variety of common sound problems. To use it:
+- Type audio troubleshooter into the Windows 10 search box.
+- Select Find and fix audio playback problems.
+- When the troubleshooter appears, follow the on-screen prompts.
+6. Update your audio driver. If your sound still isn't working, updating your Windows 10 drivers could resolve the problem.
+7. Uninstall and reinstall your audio driver. If updating your Windows 10 audio driver doesn't work, try uninstalling and reinstalling it. Find your sound card in the Device Manager again, then right-click it and select Uninstall. Windows re-installs the driver at the next system reboot.
+","Unplug any headphones or external speakers.
+On your Mac, choose Apple menu  > System Preferences, click Sound, then click Output. Make sure “Internal Speakers” is selected, the “Output volume” slider is not all the way to the left, and the Mute checkbox is not selected.","https://www.lifewire.com/fix-no-sound-windows-10-4587022#:~:text=Update%20your%20audio%20driver.,drivers%20could%20resolve%20the%20problem.&text=If%20updating%20your%20Windows%2010,click%20it%20and%20select%20Uninstall.",https://support.apple.com/guide/mac-help/if-you-cant-hear-sound-from-your-speakers-mchlp1439/mac
+27,My microphone is not working,Microphone not detecting sound,"Make sure apps have access to the microphone
+If your microphone isn't detected after updating Windows 10, you may need to give your apps permission to use it.
+- To let apps access the microphone, select Start  ,then select Settings  > Privacy  > Microphone  . Select Change, then turn on Allow apps to access your microphone.
+- After allowing access to the microphone, you can choose which Microsoft Store apps can access these features under Choose which Microsoft Store apps can access your microphone, and give access to non-Microsoft-Store desktop apps by ensuring that the switch beneath Allow desktop apps to access your microphone is set to On.
+
+Others can't hear me
+Try the following solutions:
+- If your headset has a Mute button, make sure it isn't active.
+- Make sure that your microphone or headset is connected correctly to your computer.
+- Make sure that your microphone or headset is the system default recording device. Here's how to do this in Windows 10:
+    - Select Start , then select Settings  > System > Sound .
+    - In Input, ensure your microphone is selected in Choose your input device.
+    - To test your microphone, speak into it and check Test your microphone to make sure Windows is hearing you.
+
+The microphone volume is too low or does not appear to be working at all
+Try the following solutions:
+- Make sure that the microphone or headset is connected correctly to your computer.
+- Make sure that the microphone is positioned correctly.
+- Increase the volume of your microphone. Here's how to do this in Windows 10:
+    - Select Start  , then select Settings  > System > Sound .
+    - In Input, ensure your microphone is selected under Choose your input device, then select Device Properties.
+    - On the Levels tab of the Microphone Properties window, adjust the Microphone and Microphone Boost sliders as needed, then select OK.
+    - Speak into your microphone while checking under Test your microphone to make sure your settings work. If you see the line moving from left to right, your microphone is working. If you see no change, the microphone is not picking up sound.","Check the Sound Input Settings
+A common cause of microphone problems is a misconfigured sound input. Head to System Preferences > Sound, and then click the “Input” tab. You should see a list of devices you can use as a sound source, including, (hopefully) the microphone you want to use.
+To use a device, such as “Internal Microphone,” click it. If everything goes according to plan, you should see the bars fill up next to “Input Level” as you speak.
+If you don’t see anything, increase the “Input Volume” slider and try speaking again. If the slider is too low, your Mac won’t detect any sound.
+If you want to use your AirPods as your microphone, select “AirPods” from the list. If you’re using an audio interface, select it from the list.
+You might also see entries for other apps you have installed, like “Soundflower” or “Aggregate Device,” but you don’t want to use any of those right now.
+If you see movement in the “Input Level” indicator, that’s a good sign, but more troubleshooting might be necessary to get things working properly.
+
+Another common cause of microphone problems is Apple’s expanded permissions system. It prevents apps from accessing the microphone until you specifically allow it. When apps want to access the microphone, a notification should appear asking you to approve or deny the request.
+If you deny the request, the app won’t be able to access the computer’s mic. It’s often a good idea to deny apps access to your hardware until you’re confident it needs it to function properly.
+Head to System Preferences > Security and Privacy > Privacy, and select “Microphone” from the sidebar. You should see a list of apps that have requested access to your microphone. Any you have approved will have a checkmark next to them, while those you’ve denied will not.","https://support.microsoft.com/en-us/windows/fix-microphone-problems-5f230348-106d-bfa4-1db5-336f35576011#:~:text=Make%20sure%20that%20the%20microphone,connected%20correctly%20to%20your%20computer.&text=On%20the%20Levels%20tab%20of,make%20sure%20your%20settings%20work.","https://www.howtogeek.com/682514/microphone-not-working-on-a-mac-heres-how-to-fix-it/#:~:text=A%20common%20cause%20of%20microphone,microphone%20you%20want%20to%20use.&text=If%20the%20slider%20is%20too,won't%20detect%20any%20sound."
 28,,,,,,
 29,,,,,,
 30,,,,,,
 31,,,,,,
 32,,,,,,
 33,,,,,,
-34,,,,,,
-35,,,,,,
-36,,,,,,
-37,,,,,,
-38,,,,,,
-39,,,,,,
-40,,,,,,
-41,,,,,,
-42,,,,,,
-43,,,,,,
-44,,,,,,
-45,,,,,,
-46,,,,,,
-47,,,,,,
-48,,,,,,
-49,,,,,,
-50,,,,,,
-51,,,,,,
-52,,,,,,
-53,,,,,,
-54,,,,,,
-55,,,,,,
-56,,,,,,
+34,How do you delete partitions on your hard drive?,delete partitions on hard drive,,,,
+35,How to eject a USB safely?,How to take out USB from my computer safely?,"Using Notification Area: 1) In the notification area of the taskbar, click the up arrow to view the items in the systray. Then, right-click the Eject Media icon. 2) A menu lists the removable media you can eject. Click the name of your USB flash drive. In this example, the option to eject the USB flash drive is named ""Eject Cruzer Glide."" After clicking the eject option, wait for a message stating it is safe to remove the hardware before pulling the flash drive out of your computer.
+Using FIle Explorer: 1) Open File Explored by Pressing Windows Key + E. 2) On the left, click This PC. 3) On the right, right-click your USB flash drive. 4) Select Eject.","In Mac: Eject a USB drive in Mac OS. With Command + E keyboard shortcut. 1) Locate the USB drive on your desktop. Click it once to select it. 2) On your keyboard, press command + E to eject the flash drive. Another way is through In Finder. Open the FInder Utility. On the left, locate your USB flash drive under Devices. Click the eject icon to the right of the flash drive.","https://www.computerhope.com/issues/ch001943.htm#:~:text=Open%20File%20Explorer%20by%20pressing,Select%20Eject.","https://www.computerhope.com/issues/ch001943.htm#:~:text=Open%20File%20Explorer%20by%20pressing,Select%20Eject."
+36,"Have to take out CMOS battery in order to start computer, why is that?",Computer won't start unless CMOS Battery is Taken Out and Put Back In, It does sound like a CMOS battery issue or maybe the battery connection on the motherboard. I would start by replacing the battery for sure. It should have a number on it so you can get the right type to replace it with. It wouldn't be hard drive related since you don't need to have a hard drive installed to POST your computer. Once you replace the battery go into the BIOS and make sure all your date and time settings are correct and make sure your hard drive is detected properly etc. If replacing the battery doesn't help then it may be something with the motherboard itself that may require you to replace it.,,https://www.onlinecomputertips.com/q-a/hardware-q-a,
+37,"Recently when turn on the pc I am getting a message ""chassis is open and to Press F1 to continue or Press del to enter bios. I tried it the in bios but problem is not solved.","How to fix the ""Chassis is open"" Error?",On some computers there will be a switch that is tripped when the case is open to alert you of the fact. If you go into the BIOS there should be a setting to reset the alarm. Double check all of your BIOS settings to find the section for the alarm. If you cannot find it you will need to contact the manufacturer to find out where the correct area is.,,https://www.onlinecomputertips.com/q-a/hardware-q-aa,
+38,"When I hit the switch to turn my computer on it goes on for 1 second and then it seems like it looses power and goes off, is there a problem with the power supply, or is it something else?",,"It could be a power supply or possibly the power switch or even the motherboard. You can bypass the power switch by finding where the 2 pin wire connects on the motherboard and unplug it. Then take a flathead screwdriver and short the connection. That is make contact with both pins on the motherboard at the same time to start the computer and see if it stays running. If so you most likely have a bad switch on the case.
+
+Next I would try the power supply. They are cheap and easy to replace. If that doesn't work it may be that you have a bad motherboard.",,https://www.onlinecomputertips.com/q-a/hardware-q-a,
+39,How do I connect TV cable to my computer so I can watch TV on it?,How can I connect my computer to my TV?,To connect your TV to your computer you will need a TV tuner video card or a video card with a TV input which is is a regular video card but it will also have a coaxial cable connector that you can plug your TV cable into. It will usually come with software that you can use to watch TV on your computer. Just make sure whatever card you get supports TV in rather than TV out or has both features.,"Connect one end of the video cable (or an adapter, if necessary) to the computer’s Thunderbolt port , HDMI port, or DVI port , then connect the other end of the cable to the TV’s video input port.
+
+If you need to adjust the resolution on your TV, choose Apple menu  > System Preferences, click Displays, then click Display. Select “Default for display” to automatically use the best resolution, or select Scaled to manually select a resolution.
+
+If you want your HDTV to play audio as well as video from your Mac, choose Apple menu > System Preferences, click Sound, then click Output.
+
+Select your HDTV in the list of devices. If you want to play audio on a different device (such as your computer’s speakers or an AV receiver that’s part of your sound system), select it instead.
+
+Note: If your Mac has a Mini DisplayPort , make sure you use a cable (and adapter, if necessary) that supports both audio and video.",https://www.onlinecomputertips.com/q-a/hardware-q-a,"https://support.apple.com/guide/mac-help/use-your-tv-as-a-display-mchlp1206/mac#:~:text=Connect%20your%20Mac%20to%20your%20TV,the%20TV's%20video%20input%20port."
+40,My computer has started to hum extremely loudly and vibrate. It is usually very quiet when running.,,"When a computer makes a loud humming sound and vibrates many times it is the CDROM spinning because it’s reading a CD. If you have a CD in the drive you should take it out if you aren't using it because the computer will tend to read the CD in the drive for various reasons.
+
+If that's not the case then you may have a fan that is getting noisy or about to go out. There are fans in the power supply, on the processor and usually mounted inside the case. It’s hard to say which one it is without being able to look inside. You may want to open the case and run the computer to see where the noise is coming from. Other than that there are no other moving parts inside the computer except for the hard drive platters which shouldn't be able to vibrate your case.",Get a replacement fan from Apple,https://www.onlinecomputertips.com/q-a/hardware-q-a,https://discussions.apple.com/thread/1661607
+41,How do I reset a BIOS password?,BIOS Password Reset,"There are a couple of ways to try and reset the password. The first thing you can try is to remove the CMOS battery and leave it out for about 20 min and then put it back in. This will clear all the settings and should clear the password too. You will most likely have to reset the system time etc in the BIOS.
+
+Another option is to see if there is a generic password for your brand of computer that you can use to get into the settings and clear the password. Many companies use a standard password just in case something like this happens.
+
+If you can find the motherboard manual then there might be a jumper you can short to clear the BIOS password.",,https://www.onlinecomputertips.com/q-a/hardware-q-a,
+42,"Upon startup I get a message saying low battery voltage, push F1 to continue. I push F1 and everything appears to be OK. Whats the problem?",,It sounds like it's a message about your CMOS battery which is on your motherboard. It stores information such as the date and time and your hardware configuration. They are pretty cheap and easy to replace. You can find them at electronic stores or sites like amazon.com. You can look at it to get the part number and buy a new one and then take it out and replace it. Just make sure the computer is off and unplugged before doing so. Keep in mind that you may have to reset the date and time in the BIOS afterward.,,https://www.onlinecomputertips.com/q-a/hardware-q-a?start=25,
+43,How dangerous is it to have a physically dirty computer?,,The main thing to worry about with a dirty computer is dust on the inside that will cause it to overheat. Dust can act like an insulator keeping the heat in. It can also get into your fans and cause them to fail over time. If you have dirt blocking the case vent holes that that can cause overheating too. If dirt gets into slots like PCI slots then it can affect the connectivity of your components causing problems as well. You should clean your computer once in awhile to keep it running efficiently and to avoid potential problems down the road.,,https://www.onlinecomputertips.com/q-a/hardware-q-a?start=25,
+44,I have problems with starting my PC and it starts with a really loud fan. Usually the loud fan stops but now it just keeps going. Why is that?,,"On many computers the fan spins up much faster during startup and the quiets down in a few seconds or so. If your computer is running hot then the fan may spin faster to try and keep it cool. This may be caused by things such as the environment you are using it in, being really dusty on the inside or if one of the other fans stops working. I would boot up into the BIOS and see if you have a temperature setting that you can watch while the computer is running to see how hot it gets. Or you can use Speccy within Windows to see the temperature. If the temperature stays at a reasonable level but the fan stays on high then it could be a problem with the fan or the controller for the fan's speed and one or the other may need to be replaced.",,https://www.onlinecomputertips.com/q-a/hardware-q-a?start=25,
+45,Why doesn't my card reader show up in My Computer in Windows unless it has pictures on it?,,"By default, Windows will hide removable media drives that don't have anything on them such as card readers. This is most likely done to avoid cluttering up your Explorer view with a bunch of empty card reader slots that aren't being used.
+
+There is a setting you can change so that your card reader drives are always shown in Windows Explorer whether they are empty or not. To do this you need to go to your Folder Options settings. To get there open Windows Explorer or Computer and go to the Tools menu and then choose Folder Options. If you don't have the Tools menu shown then you can click on Organize and then click Layout and check Menu bar to have the menus show up in Windows Explorer.
+
+Once you are in the Folder Options section, click on the View tab and uncheck the box that says Hide empty drives in the Computer folder. You can change other options here to such as having hidden files and folders shown as well as having Windows show file extensions for all files which is very handy. After you make your selections click on Apply to Folders to have the setting applied to all folders you open in the future. And now you should be able to see your card reader drives even when there is nothing in them.",,https://www.onlinecomputertips.com/q-a/hardware-q-a?start=255,
+46,What do I need in order to burn my own CDs?,,"To create or ""burn"" your own CDs, you need three things: 1) an operating system or program that supports CD burning, 2) a CD-burner, and 3) recordable CDs.
+
+Of the three, it is most likely that you already have the first one. All recent versions of Microsoft Windows and Apple's Mac OS support CD burning. Programs like iTunes and Toast can be used if the operating system does not include CD burning functions.
+
+Secondly, you need a CD burner. Technically, this is either a CD-R or CD-RW drive. A basic CD-ROM drive will not burn CDs. CD-R drives can record data on recordable CDs, while CD-RW drives can write and rewrite data onto rewritable CDs as well as record once on regular CD-R discs. CD burners can be either internal (inside the computer) or external devices. If you buy an internal drive, it may be wise to have an authorized technician install it.
+
+Once you have installed the CD burner hardware, you need discs to use with the CD burner. As described earlier, CD-R discs can be recorded once while CD-RW discs can be erased and rewritten multiple times. CD-RW discs can only be used with CD-RW drives. Once you have some blank CD-Rs, just insert one of the discs into your CD burner and follow you operating system's instructions for creating either a data or audio CD.","Insert a blank disc into your optical drive.
+
+If you see a dialogue, click the pop-up menu, then choose Open Finder. Select “Make this action the default” if you want to open the Finder every time you insert a blank disc.
+
+The disc appears on your desktop.
+
+Double-click the disc to open its window, then drag the files and folders you want to burn to the window.
+
+Aliases to the files are placed in the disc’s window. The original files are not moved or deleted.
+
+Note: If you want to burn the same files to discs multiple times, use a burn folder.
+
+Arrange and rename the files.
+
+When the disc is burned, the items on the disc have the same names and locations that they have in the disc window. After the disc is burned, you can’t change the items.
+
+Choose File > Burn [disc], then follow the instructions.
+
+The files that the aliases point to are burned to the disc. In addition, if the folders you add to the disc contain aliases, the files those aliases point to are also burned to the disc.
+
+Note: If you eject the disc without burning it, a burn folder with the items you copied to the disc is created and placed on your desktop. To complete the burn process, click the Burn icon  next to the folder in the Finder sidebar, or press and hold the Control key as you click any disc, then choose Burn Disc from the shortcut menu.",https://pc.net/helpcenter/answers/cd_burning_requirements,https://support.apple.com/en-gb/guide/mac-help/mchl8addfd95/mac
+47,What are the Alt (Option) and Control (Ctrl) keys for?,,"These keys on the keyboard are called ""modifier keys."" They are typically used in conjunction with another key on the keyboard to perform a specific function. For example, in Windows, Alt-F4 (press and hold Alt, then press F4) is often a shortcut to close the active window. Control-C is usually a shortcut to copy selected text or a selected object. Control-V is the shortcut for pasting the copied data.","On the Macintosh, the Command (or Apple) key typically has the same function as the Control key in Windows. The Control key on the Mac can be pressed while clicking the mouse button to perform a right-click. Many programs on both Macs and PCs use mutliple modifier keys for shortcuts for certain operations.",https://pc.net/helpcenter/answers/alt_and_control_keys,https://pc.net/helpcenter/answers/alt_and_control_keys
+48,Why is my mouse jumpy?,,"If the cursor on your screen isn't following the movement of your hand, there's a good chance you've got a dirty mouse. No matter how hard you try, it is basically impossible to keep your mouse pad dust and dirt free. And after hours and hours of rolling on a dirty surface, your mouse ball is bound to pick up some gunk. This grime gets twisted around the rollers inside your mouse and prevents them from rolling smoothly against the mouse ball. Since these rollers are what tell your computer what the mouse is doing, it's not good when they don't roll.
+
+So if your cursor isn't moving how you want it to, before you decide to throw your mouse against the wall, check to see how dirty it is. To check the mouse, twist off the cover on the bottom that holds the ball in. Then take out the ball and examine the rollers. If you can see stuff on them, it's time to clean 'em. To clean the inside of your mouse, you can use a Q-tip or even your fingernails to get the dirt off the rollers. Make sure you clean all the way around them. Then blow inside the mouse to make sure everything gets out.
+
+Finally, wash off the mouse ball with soap and water and dry it. It is also a good idea to clean off your mouse pad. Once you've done all this, you can put the clean ball back in your clean mouse and experience smooth rolling freedom once again.
+
+Of course, if you have an optical mouse, this should never be a problem. =)",,https://pc.net/helpcenter/answers/jumpy_mouse,
+49,"What does it mean when a computer is ""low on resources?""",,"The resources a computer has are mainly processing speed, hard disk storage, and memory. The phrase ""low on resources"" usually means the computer is running out of memory. The best way to prevent this error from coming up is to install more RAM on your machine. Upgrading your RAM is the best performance booster you can give your computer, and it usually doesn't cost a lot.",,https://pc.net/helpcenter/answers/low_on_resources,
+50,Why won't my scanner work?,,"The drivers may have not been installed correctly (this is the most likely problem). Try reinstalling the software that came with the scanner.
+The SCSI ID the scanner is using is already in use. Each SCSI device must have a unique ID or conflicts will happen. To change the ID, select a new number (most likely on the the back of the scanner).
+The scanner or scanner software is incompatible with the computer. Check to see if the computer meets the scanner requirements. Also check for the latest version of drivers at the manufacturer's web site.
+You don't have a good software program to control and import the scans. If the scanner didn't come with any software programs, the best program to use is Adobe Photoshop. If you just need a simple program that won't empty the bank, try Adobe Photoshop LE, Adobe PhotoDeluxe, or Jasc Paintshop Pro.",,https://pc.net/helpcenter/answers/scanner_wont_work,
+51,Why do videos run slow on my computer?,,"First of all, make sure you have the latest driver software for your video card. To get the latest version, you can go to the video card company's web site and download the driver update for free. I would suggest defragmenting the hard drive, since excessive hard disk scanning can prevent smooth audio and video playback.
+
+If neither of these options do the trick, try upgrading to the latest version of the software you are using to play the movies. Finally, if that doesn't work, you might just not have enough hardware power to play the video smoothly. That means you need to actually go buy a new video card if you want smooth, high-quality video.",,https://pc.net/helpcenter/answers/videos_run_slowly,
+52,"What does scalable mean, in reference to a computer?",,"Scalable is synonymous with expandable. A computer with a scalable architecture is able to be upgraded easily and for a long time. When buying network equipment, it is especially important that it is scalable so that it can work with the newer systems that may be added on later. The less scalable your equipment is, the sooner you'll be forced to upgrade.",,,
+53,Can I change my computer's MAC address?,,"Windows users can change the local MAC address of some network cards by opening the Network Connections control panel, right-clicking the current network connection, and selecting ""Properties"". When the Properties window opens, press the ""Configure..."" button, click the Advanced tab, and select the ""Locally Administered Address"" option. You can then enter a new MAC address in the ""Value"" field. Advanced users can also change the local MAC address by manually editing the Windows registry. Once the MAC address has been modified, you will need to restart your computer for the changes to take effect.",Macintosh users can change their local MAC address by running ifconfig in the Terminal application or using a program like ChangeMAC.,https://pc.net/helpcenter/answers/changing_a_mac_address,https://pc.net/helpcenter/answers/changing_a_mac_address
+54,How to connect my fax machine to my computer?,,"Step 1
+Locate the telephone line port on your all-in-one fax machine, commonly found on the side or rear of the device. You can also refer to your fax machine’s user manual for a diagram displaying the location of the telephone line port. Insert the telephone cord in the port.
+
+Step 2
+Insert the other end of the telephone cord in a standard RJ-11 telephone jack.
+
+Step 3
+Connect a USB cable to the USB port of the printer. Connect the other end of the USB cable to your computer’s USB port. If you are connecting the fax machine to a broadband router, connect an Ethernet cable to your fax’s Ethernet port.
+
+Step 4
+Plug in the fax device and turn it on. Power up your host PC.
+
+Step 5
+Insert the driver disc supplied with your fax in your host PC’s CD tray. Your computer will begin an installation process. You must follow the prompts of the installation wizard to install the fax’s operating software on your PC.
+
+Step 6
+Insert the fax’s driver disc in each computer on your office network that will use the fax and follow the installation wizard prompts for installation. Open the fax’s operating program on each computer. You have connected your computer to your fax machine and can send faxes from your PC with the fax program’s user interface.
+","Do one of the following:
+Mac OS X 10.6/10.7: In the Apple menu or the Dock, select System Preferences. Select Print & Fax or Print & Scan, select the FAX option for your product, and select Options & Supplies. Select Utility and select Open Printer Utility.
+Mac OS X 10.4/10.5: In the Apple menu or the Dock, select System Preferences. Select Print & Fax, select the FAX option for your product, and select Open Print Queue or Print Queue. Select Utility.
+Double-click FAX Utility. Select your FAX product in the Printer list.
+Select Fax Settings.
+Follow the prompts that appear on the screen to enter your fax header information and select your fax settings.
+",https://yourbusiness.azcentral.com/connect-fax-pc-2230.html,https://files.support.epson.com/htmldocs/wf545_/wf545_ug/source/faxing/tasks/setup_fax_mac.html
+55,How to connect your phone to a computer?,,"In the search box on the taskbar, type your phone, and then select the Your Phone app from the results.
+
+Select Android from the list of phone models.
+
+You’ll be asked to sign in to your Microsoft account. (You'll need to be signed in to the same Microsoft account on both your Android device and PC in order to link your devices.)
+
+Once you're signed in, you'll be prompted to install or open the companion app on your Android device. To do this, open a web browser on your Android device and then enter the link that's displayed on your PC (www.aka.ms/yourpc). 
+
+For Surface Duo and select Samsung devices, this link will open the Link to Windows app you have preinstalled on your device. For other Android devices, you'll be directed to your app store to download the Your Phone Companion app (companion app). 
+
+Sign in to the companion app with the same Microsoft account that you're signed in to on your PC. The app will then open to a screen that displays a QR code for you to scan — we'll come back to that in a second. 
+
+Once you've signed in, go back to your PC and select the I have the Your Phone Companion app installed on my phone check box. Then select the Pair with QR code button. 
+
+Note: If you'd like to pair your device without using a QR code, select the Pair manually button on your PC instead. On your Android device, you'll be prompted to enter the code displayed on your PC.
+
+A QR code will appear on your PC screen. On your Android device, the companion app should be open to a screen with a camera on it. Use this screen to scan the QR code that's displayed on your PC.
+
+Once your devices are linked, your Android device will prompt you with several device permissions. These permissions help you access content from your phone on your PC. ",,https://support.microsoft.com/en-us/topic/your-phone-app-requirements-and-set-up-cd2a1ee7-75a7-66a6-9d4e-bf22e735f9e3,
+56,How to connect my IPhone to the computer(Apple)?,,,"Connect your device to your Mac.
+
+You can connect your device using a USB or USB-C cable or using a Wi-Fi connection. To turn on Wi-Fi syncing, see Sync content between your Mac and iPhone or iPad over Wi-Fi.
+
+In the Finder  on your Mac, select the device in the Finder sidebar.
+
+A device selected in the Finder sidebar.
+If you connect your device to your Mac using a USB cable and don’t see the device in the Finder sidebar, see If your device doesn’t appear in the sidebar when syncing.
+
+Select a type of content you want to sync in the button bar.
+
+The button bar showing the General button and buttons for contents such as music, movies, TV shows, and more.
+Note: If you use iCloud Photos and Apple Music, your photos and music are synced automatically using iCloud. When you click Music or Photos, no options appear for syncing.
+
+Select the “Sync [content type] onto [device name]” checkbox to turn on syncing for that type of item. For example, select the “Sync movies onto [device name]” checkbox to sync your movies.
+
+“Sync Movies onto [device]” checkbox is selected and the “Automatically include” checkboxes is selected and “all” appears chosen in the pop-up menu.
+With the checkbox selected, syncing is set to transfer all items of that type to your device.
+
+Repeat steps 3 and 4 for each type of content you want to sync.
+
+The bar at the bottom of the window shows how much free space remains on your device after you sync. Move the pointer over the bar to view details about the content you’re syncing.
+
+When you’re ready to sync, click Apply.",,https://support.apple.com/guide/mac-help/sync-music-books-and-more-between-devices-mchlde9a31f1/mac
 57,,,,,,
 58,,,,,,
 59,,,,,,
@@ -485,10 +664,9 @@ A Few Cleaning Don’ts
 63,,,,,,
 64,,,,,,
 65,,,,,,
-66,,,,,,
-67,How to safely eject a hard drive,,"First close any applications currently using your external storage device including any open windows that displays its contents, then locate the ""Safely Remove Hardware"" icon located next to the system clock on the taskbar by the system tray. You may have to expand it by clicking on the arrow. Click on the ""Safely Remove Hardware"" icon to launch the hardware pop-up window, then click your external hard drive's icon or assigned disk letter. Alternatively, if you do not see or are not able to locate the ""Safely Remove Hardware"" icon in the system tray, navigate to the Computer or My Computer from the desktop or Start Menu. When the Computer or My Computer window opens, locate your external storage device. Left-click once to highlight it  then right-click. On the resulting pop-up window, click on Eject. Lastly, Wait for the ""Safe to Remove Hardware"" message to come up and then remove your external storage device.","First, locate your external storage device’s icon on the desktop. Drag the icon to the Trash bin, which will change to an Eject icon. Alternatively, hold the ""Ctrl"" key and left-click your mouse on the external drive’s icon. Click Eject on the pop-up menu. You have safely ejected your external storage device if its icon is no longer visible on the desktop. Disconnect your external storage device from your Mac","https://www.itg.ias.edu/content/safely-ejecting-external-storage-devices#:~:text=When%20the%20Computer%20or%20My,remove%20your%20external%20storage%20device.","https://www.itg.ias.edu/content/safely-ejecting-external-storage-devices#:~:text=When%20the%20Computer%20or%20My,remove%20your%20external%20storage%20device."
-68,How do I connect a local printer to my computer,,"1. Connect the printer to your computer using the USB cable and turn it on. 2. Open the Settings app from the Start menu. 3. Click Devices. 4. Click Add a printer or scanner. 5. If Windows detects your printer, click on the name of the printer and follow the on-screen instructions to finish the installation. And you're done. If Windows doesn't find your connected printer, click on ""The printer that I want isn't listed"" link. Then let the Windows troubleshooting guide help you find your printer. It will search for available printers and help you download the drivers for them. If that doesn't work, head to your printer manufacturer's website and download the drivers and installation tools for your printer.","1. On your Mac, update your software: Choose Apple menu  > System Preferences, click Software Update, then install any software updates listed. Even if no updates appear, this ensures that macOS has the latest information about printer software it can download from Apple. If you don’t do this, you may see a message that software isn’t available when you connect your printer. 2. Prepare your printer: Use the instructions that came with your printer to unpack the printer, install ink or toner, and add paper. Turn on the printer and make sure it’s not displaying any errors. 3. Connect your printer: Connect the USB cable to your Mac. If you see a message prompting you to download new software, make sure to download and install it.",https://www.laptopmag.com/articles/add-printer-windows-10,"https://support.apple.com/guide/mac-help/add-a-printer-mh14004/mac#:~:text=To%20add%20your%20printer%20to,Printers%20list%2C%20then%20click%20Add."
-69,How to do screen mirroring ,,"1. Select Start  > Settings  > System  > Projecting to this PC .
+66,How to safely eject a hard drive,How to safely remove a flash drive,"First close any applications currently using your external storage device including any open windows that displays its contents, then locate the ""Safely Remove Hardware"" icon located next to the system clock on the taskbar by the system tray. You may have to expand it by clicking on the arrow. Click on the ""Safely Remove Hardware"" icon to launch the hardware pop-up window, then click your external hard drive's icon or assigned disk letter. Alternatively, if you do not see or are not able to locate the ""Safely Remove Hardware"" icon in the system tray, navigate to the Computer or My Computer from the desktop or Start Menu. When the Computer or My Computer window opens, locate your external storage device. Left-click once to highlight it  then right-click. On the resulting pop-up window, click on Eject. Lastly, Wait for the ""Safe to Remove Hardware"" message to come up and then remove your external storage device.","First, locate your external storage device’s icon on the desktop. Drag the icon to the Trash bin, which will change to an Eject icon. Alternatively, hold the ""Ctrl"" key and left-click your mouse on the external drive’s icon. Click Eject on the pop-up menu. You have safely ejected your external storage device if its icon is no longer visible on the desktop. Disconnect your external storage device from your Mac","https://www.itg.ias.edu/content/safely-ejecting-external-storage-devices#:~:text=When%20the%20Computer%20or%20My,remove%20your%20external%20storage%20device.","https://www.itg.ias.edu/content/safely-ejecting-external-storage-devices#:~:text=When%20the%20Computer%20or%20My,remove%20your%20external%20storage%20device."
+67,How do I connect a local printer to my computer,How do I connect my printer to my computer,"1. Connect the printer to your computer using the USB cable and turn it on. 2. Open the Settings app from the Start menu. 3. Click Devices. 4. Click Add a printer or scanner. 5. If Windows detects your printer, click on the name of the printer and follow the on-screen instructions to finish the installation. And you're done. If Windows doesn't find your connected printer, click on ""The printer that I want isn't listed"" link. Then let the Windows troubleshooting guide help you find your printer. It will search for available printers and help you download the drivers for them. If that doesn't work, head to your printer manufacturer's website and download the drivers and installation tools for your printer.","1. On your Mac, update your software: Choose Apple menu  > System Preferences, click Software Update, then install any software updates listed. Even if no updates appear, this ensures that macOS has the latest information about printer software it can download from Apple. If you don’t do this, you may see a message that software isn’t available when you connect your printer. 2. Prepare your printer: Use the instructions that came with your printer to unpack the printer, install ink or toner, and add paper. Turn on the printer and make sure it’s not displaying any errors. 3. Connect your printer: Connect the USB cable to your Mac. If you see a message prompting you to download new software, make sure to download and install it.",https://www.laptopmag.com/articles/add-printer-windows-10,"https://support.apple.com/guide/mac-help/add-a-printer-mh14004/mac#:~:text=To%20add%20your%20printer%20to,Printers%20list%2C%20then%20click%20Add."
+68,How to do screen mirroring ,How do I enable screen sharing,"1. Select Start  > Settings  > System  > Projecting to this PC .
 2. Under Add the “Wireless Display” optional feature to project this PC, select Optional features. 
 3. Select Add a feature, then enter “wireless display.” 
 4. Select it from the list of results, then select Install. 
@@ -497,13 +675,13 @@ A Few Cleaning Don’ts
 3.  Check the box next to ""Show mirroring options in the menu bar when available.""
 4.In the menu bar at the top of your Mac's screen, click the AirPlay icon, which looks like a rectangle with an arrow at the bottom. 
 5. In the drop-down, choose the device you want to AirPlay to. 6. A passcode might appear on your device's screen. Enter it in the pop-up on your Mac.  7.  Your Mac should then begin mirroring its screen to the device you selected. ",https://support.microsoft.com/en-us/windows/screen-mirroring-and-projecting-to-your-pc-5af9f371-c704-1c7f-8f0d-fa607551d09c,"https://www.businessinsider.com/airplay-mac#:~:text=Click%20the%20AirPlay%20icon%20in%20the%20menu%20bar%20and%20in,devices%20displaying%20the%20same%20screen."
-70,How to download photos from my phone on to my computer,,"1. Turn your phone on and unlock it. Your PC can’t find the device if the device is locked.
+69,How to download photos from my phone on to my computer,How do I transfer photos from my phone to my computer,"1. Turn your phone on and unlock it. Your PC can’t find the device if the device is locked.
 2. On your PC, select the Start  button and then select Photos to open the Photos app.
 3. Select Import > From a USB device, then follow the instructions. You can pick the items you want to import and select where to save them. Allow a few moments for detection and transfer.","1. Connect your iPhone to your Mac computer with a USB cable. You may be prompted to unlock it with its passcode (your iPhone won't accept Face or Touch ID for this). If a pop-up appears asking if you ""trust"" the computer, choose ""Trust This Computer."" 
 2. The Photos app on your computer should open. If it doesn't, open it manually.
 3. On your Mac, if the screen showing your iPhone photos doesn't open automatically, in the sidebar on the left, under ""Devices,"" select your iPhone. You should see an import screen in Photos that shows the photos you have on your iPhone.
 4. Choose where you want to store your imported photos. At the top of the import window in the center, you'll find a drop-down menu that lets you add the new photos to one of your albums or create a new album for your import. If you do nothing, the transferred photos will go into your Photos library.  5. There are two buttons on the upper-left of the import window. ""Import All New Items"" will transfer every photo you have taken since your last import. To upload only certain photos, click on each photo you want to copy onto your computer and click the ""Import Selected"" button.",https://support.microsoft.com/en-us/windows/import-photos-and-videos-from-an-android-phone-to-pc-aed09800-f826-4d40-a243-7640de229d9d,https://www.businessinsider.com/how-to-transfer-photos-from-iphone-to-computer
-71,How to set up multiple displays on my computer,,"1. Select Start > Settings > System > Display. Your PC should automatically detect your monitors and show your desktop. If you don't see the monitors, select Detect.
+70,How to set up multiple displays on my computer,How do I add another monitor to my computer,"1. Select Start > Settings > System > Display. Your PC should automatically detect your monitors and show your desktop. If you don't see the monitors, select Detect.
 2. In the Multiple displays section, select an option from the list to determine how your desktop will display across your screens.
 3. Once you've selected what you see on your displays, select Keep changes.","1. Connect the two monitors to your Mac and turn them on.
 2. Click the “Apple"" menu and select “System Preferences.” The Apple menu is located in the top corner of your Mac’s screen and is represented by the Apple logo.
@@ -511,7 +689,7 @@ A Few Cleaning Don’ts
 4. Click the “Arrangement” tab, which displays two blue boxes, one representing each of your monitors.
 5. Click the “Mirror Displays” check box if you want to use the Mirroring method to display the same content on both monitors. Uncheck the “Mirror Displays” check box if you want to use the Extended Desktop method.
 6. Drag and drop the white menu bar onto the blue box that you want to serve as your primary monitor to use the Extended Desktop method. You can also drag the monitor icons left and right to change their relationship to one another.",https://support.microsoft.com/en-us/windows/how-to-use-multiple-monitors-in-windows-10-329c6962-5a4d-b481-7baa-bec9671f728a,https://smallbusiness.chron.com/use-two-monitors-mac-54351.html
-72,How to set up windows 10,,"1. Press the power button to turn on the computer. During the setup process, Windows 10 might take a long time to process an item without visual feedback on the screen to indicate progress. This is normal.
+71,How to set up windows 10,I don't know how to set up windows 10,"1. Press the power button to turn on the computer. During the setup process, Windows 10 might take a long time to process an item without visual feedback on the screen to indicate progress. This is normal.
    CAUTION: To avoid damaging the data on the computer, do not restart your computer during the setup process.
 2. Let's start with region. Is this correct? screen displays. Select your country or region from the list, and then click Yes.
 3.The Is this the right keyboard layout? screen displays. Select the desired keyboard layout, and then click Yes. 4. On the Do you want to add a second keyboard layout? screen, you can either follow the instructions for adding another keyboard layout or click Skip.
@@ -524,26 +702,26 @@ Do more across devices with activity history
 Choose privacy settings for your device
 9. On the registration screen, type your personal information, and then click Next. 10. On the Register and Protect screen, select your preferred privacy settings, and then click Next. 11. Read any introductory screens describing the features of your computer, make selections when prompted, and then click Next up on completing each.
 You are now done with the initial setup process.",,https://support.hp.com/us-en/document/c04941742,
-73,How to set up a Macbook,,,"Step 1: Make sure that there is an internet connection
+72,How to set up a Macbook,I don't know how to set up my Mac,,"Step 1: Make sure that there is an internet connection
 Step 2: Switch on your new Mac Step 3: Run Setup Assistant Step 4: The first screen displays a map of the world. Select your country and press Continue. This will ensure that the clock inside your Mac is correct. Step 5: Select your keyboard. Step 6: Next you need to connect to a network. Step 7: If you're upgrading from an old Mac you can use your Time Machine backup. Step 8: You will also see a Data & Privacy pop-up window that warns you that you will get a notification when ever personal information about you is requested. Just click Continue. Step 9: Next you need to sign in with your Apple ID and Password. Step 10: If you have two-factor authentication set up you will receive an alert on another of your devices that someone is logging in with your ID (it's you, even if it says in London and you are elsewhere in the country). You will be sent a code on another device to enter on the new Mac. Step 11: Next there is a window that allows you to Enable Siri, which will let you use the voice activated assistant to do various tasks on your Mac. Read: Things to ask Siri on the Mac. You can set this up now or skip the step and do it later. Step 12: The next step involves setting up iCloud. Step 13: If your Mac has Touch ID (MacBook Air 2018 or MacBook Pro) you might be offered the opportunity to set this up next. (Again, you can skip this step and do it later). Step 13: Since MacOS Mojave launched in 2018 it's been possible to choose whether your interface is Dark or Light. You can choose which here - but you can easily change it later in Settings. Step 14: That's it. The final screen will simply say Thank You! Click Continue and start using your Mac.",,https://www.macworld.co.uk/how-to/set-up-3589654/
-74,How do I check how much memory my computer has,,"Open settings > system > about >  look for the Device Specifications section. You should see a line named ""Installed RAM""—this will tell you how much you currently have.","1. Open your Finder, located in the dock at the bottom of your screen.
+73,How do I check how much memory my computer has,How do I check my computer's ram,"Open settings > system > about >  look for the Device Specifications section. You should see a line named ""Installed RAM""—this will tell you how much you currently have.","1. Open your Finder, located in the dock at the bottom of your screen.
 2. On the left sidebar, select ""Applications"" and then scroll down and open the ""Utilities"" folder.  3. Double click on ""Activity Monitor.""  4. Toggle over to the ""Memory"" section, located toward the top of the Activity Monitor window.
 5. Look at the bottom of the window to see your current memory usage information.","https://www.pcmag.com/how-to/how-much-ram-do-i-have-pc#:~:text=If%20you're%20using%20a,how%20much%20you%20currently%20have.",https://www.businessinsider.com/how-to-check-memory-on-mac
-75,How do I change mouse speed/DPI,,"1. Click on the ""Start"" menu and select the ""Settings"" icon. 2. On the Settings page, click on ""Devices."" 3. On the Devices page, click on ""Mouse."" 4. On the Mouse page, click on ""Additional mouse options"" under ""Related settings."" 5. In the ""Mouse Properties"" pop-up, click on ""Pointer Options."" 6. Use the slider under ""Select a pointer speed"" to adjust DPI. Sliding it to the left lowers DPI while sliding it to the right increases DPI. 7. When the slider is where you want it, click ""Apply"" at the bottom. When the ""Apply"" button turns gray, meaning there are no additional changes to confirm, click on the ""X"" in the top right corner to close it.","1. Open the System Preferences app. The easiest way to find it is to click the Apple icon in the top-left corner of your screen, and then select ""System Preferences"" 2. In the menu that opens, click ""Mouse."" 3. You'll see a number of sliders and options. The slider that controls your mouse's DPI is ""Tracking Speed."" Move the slider to the position you want and test it out. When you're done, you can just close the window to save it. 4. ","https://www.businessinsider.com/how-to-change-mouse-dpi#:~:text=On%20the%20Mouse%20page%2C%20click,%22%20under%20%22Related%20settings.%22&text=In%20the%20%22Mouse%20Properties%22%20pop,pointer%20speed%22%20to%20adjust%20DPI.","https://www.businessinsider.com/how-to-change-mouse-dpi#:~:text=On%20the%20Mouse%20page%2C%20click,%22%20under%20%22Related%20settings.%22&text=In%20the%20%22Mouse%20Properties%22%20pop,pointer%20speed%22%20to%20adjust%20DPI."
-76,How do I clean my keybaord,,"1. Take a photo of your entire keyboard. We're about to take off all the keys, so you'll want this photo as a reference for reassembly. 2. Gently pry up the keycaps using a small flat-head screwdriver. 3. Blow away dirt using compressed air, or suck up the dirt using a small vacuum. Be careful as to not damage any exposed mechanics or electronics. 4. Wipe the keyboard base using isopropyl alcohol and a cotton swab or lint-free cloth. 5. Scrub each removed keycap with a toothbrush and isopropyl alcohol. 6. Replace the keycaps when you're satisfied with the keyboard's cleanliness. Reference that photo you took earlier so that you can get each key back where it belongs. 7.","1. Disconnect the keyboard or shut down the laptop.
+74,How do I change mouse speed,How do I adjust my Mouse DPI,"1. Click on the ""Start"" menu and select the ""Settings"" icon. 2. On the Settings page, click on ""Devices."" 3. On the Devices page, click on ""Mouse."" 4. On the Mouse page, click on ""Additional mouse options"" under ""Related settings."" 5. In the ""Mouse Properties"" pop-up, click on ""Pointer Options."" 6. Use the slider under ""Select a pointer speed"" to adjust DPI. Sliding it to the left lowers DPI while sliding it to the right increases DPI. 7. When the slider is where you want it, click ""Apply"" at the bottom. When the ""Apply"" button turns gray, meaning there are no additional changes to confirm, click on the ""X"" in the top right corner to close it.","1. Open the System Preferences app. The easiest way to find it is to click the Apple icon in the top-left corner of your screen, and then select ""System Preferences"" 2. In the menu that opens, click ""Mouse."" 3. You'll see a number of sliders and options. The slider that controls your mouse's DPI is ""Tracking Speed."" Move the slider to the position you want and test it out. When you're done, you can just close the window to save it. 4. ","https://www.businessinsider.com/how-to-change-mouse-dpi#:~:text=On%20the%20Mouse%20page%2C%20click,%22%20under%20%22Related%20settings.%22&text=In%20the%20%22Mouse%20Properties%22%20pop,pointer%20speed%22%20to%20adjust%20DPI.","https://www.businessinsider.com/how-to-change-mouse-dpi#:~:text=On%20the%20Mouse%20page%2C%20click,%22%20under%20%22Related%20settings.%22&text=In%20the%20%22Mouse%20Properties%22%20pop,pointer%20speed%22%20to%20adjust%20DPI."
+75,How do I clean my keybaord,Proper way to clean a keyboard,"1. Take a photo of your entire keyboard. We're about to take off all the keys, so you'll want this photo as a reference for reassembly. 2. Gently pry up the keycaps using a small flat-head screwdriver. 3. Blow away dirt using compressed air, or suck up the dirt using a small vacuum. Be careful as to not damage any exposed mechanics or electronics. 4. Wipe the keyboard base using isopropyl alcohol and a cotton swab or lint-free cloth. 5. Scrub each removed keycap with a toothbrush and isopropyl alcohol. 6. Replace the keycaps when you're satisfied with the keyboard's cleanliness. Reference that photo you took earlier so that you can get each key back where it belongs. 7.","1. Disconnect the keyboard or shut down the laptop.
 2. Press each key to ensure that the keycaps are properly seated and snapped in place. This is also a good way to ensure that the action on the keys is consistent and that key travel isn't hindered by hidden debris.
 3. Turn the laptop or MacBook key-side down and give it a good shake. To dislodge any loose debris from between the keys, tap the edges of the keyboard or laptop. The object is to shake out as much of the dry and loose debris as possible.
 4.Hold the keyboard at an angle (Apple recommends 75 degrees for laptops). Then, spray the canned air in short bursts in the space between each row of keys. Work left to right, top to bottom, in a zigzag pattern.  5. Turn the keyboard 90 degrees to the right and blow compressed air in short bursts from edge to edge. 6. Use a canister or shop vac with a soft brush attachment to gently brush along the keyboard or laptop to remove any remaining debris. 7. Remove surface dirt and grime using the instructions above.","https://www.windowscentral.com/how-clean-your-keyboard#:~:text=Blow%20away%20dirt%20using%20compressed,a%20toothbrush%20and%20isopropyl%20alcohol.","https://www.lifewire.com/clean-your-mac-keyboard-4586910#:~:text=Turn%20the%20keyboard%20or%20laptop,that%20accumulated%20on%20the%20keys."
-77,How do I clean my monitor,,"1. Turn off the monitor and the computer, and then disconnect the power cables. Make sure the monitor has cooled down before going to the next step.
+76,How do I clean my monitor,Proper way to clean a monitor,"1. Turn off the monitor and the computer, and then disconnect the power cables. Make sure the monitor has cooled down before going to the next step.
 2. Using a clean microfiber cloth, gently wipe the monitor’s screen to remove dust and fingerprints. Do not press on the screen while cleaning. You can also use compressed air to remove dust from the screen.
 3. Dampen the cloth with a small amount of distilled water. If there is a touch stain (such as food) on the monitor, you can also try using a mixture of 50 percent distilled water and 50 percent white vinegar. Make sure you wring out any excess liquid from the cloth before using it.
 4. Gently wipe the monitor with the dampened microfiber cloth. Do not press on the screen while cleaning.
 5. When you are finished, allow the monitor to dry and then reconnect the power cables.","1.Shut down your Mac and disconnect its power cord and any connected devices.
 
 2. Dampen a clean, soft, lint-free cloth with water, then wipe the screen.",https://www.samsung.com/us/support/answer/ANS00086622/,https://support.apple.com/guide/mac-help/clean-your-computer-screen-mchlp2657/mac
-78,How do I free up space on my hard drive,,1. Choose Start→Control Panel→System and Security and then click Free Up Disk Space in the Administrative Tools. 2. Choose the drive you want to clean up from the drop-down list and click OK. 3. Select additional files in the list to delete by clicking next to them. 4.  Click OK. 5. Click the Close button.,"1. Click on your Downloads folder, open it in the Finder, and select the contents, or any files you don't need, right-click and choose Move to Bin/Trash.
+77,How do I free up space on my hard drive,How do I free up storage ,1. Choose Start→Control Panel→System and Security and then click Free Up Disk Space in the Administrative Tools. 2. Choose the drive you want to clean up from the drop-down list and click OK. 3. Select additional files in the list to delete by clicking next to them. 4.  Click OK. 5. Click the Close button.,"1. Click on your Downloads folder, open it in the Finder, and select the contents, or any files you don't need, right-click and choose Move to Bin/Trash.
 2. Open the Finder and navigate to your Home folder (press Shift-command-H). Now press Command-F to open a new Find window. Click on the drop down beside 'Kind' and choose 'Other'. Scroll down until you see 'File Size' and check the box next to it. Click OK. Now in the next dropdown choose 'is greater than'. Change file size to MB and type 100 into the box besides that. Now select anything that you don't need that's bigger than 100MB and chose Move to Bin/Trash.",https://www.dummies.com/computers/for-seniors-how-to-free-up-disk-space-on-your-computer/,https://www.macworld.co.uk/how-to/free-space-mac-3504803/
-79,How do I update my Bios,,"1. Open Start Image titled Windowsstart.png. Click the Windows logo in the bottom-left corner of the screen.
+78,How do I update my Bios,I dont know how to update my Bios,"1. Open Start Image titled Windowsstart.png. Click the Windows logo in the bottom-left corner of the screen.
 2. Open System Information. Type msinfo into the Start window, then click System Information at the top of the Start window.
 3. Check your computer's model name. Next to the ""System Model"" heading, you'll see a list of numbers and letters; this is your computer's model name. You'll need this information when you search for the BIOS update file.
 -Skip this step if you have a custom-built computer. 
@@ -584,7 +762,7 @@ In many cases, you'll select the Boot tab, ensure that your USB flash drive show
 Sometimes, pressing the BIOS key while a USB drive is plugged in will bring up a unique menu that allows you to select an Update option and follow the on-screen instructions. This is common on Dell computers.[2] 
 16. Allow your computer's BIOS to update. This process can take a few minutes to over an hour depending on your computer and the depth of the BIOS update. Once your BIOS is finished updating, your computer should restart itself, though you may be prompted to confirm this decision.
 Do not turn off your computer while the BIOS is updating. Doing so can cause the BIOS to become corrupted, meaning that your computer will be unable to start, complete the BIOS installation, or otherwise run at all.",,https://www.wikihow.com/Update-Your-Computer%27s-BIOS,
-80,Should I leave my computer on or turn it off,,"Reasons to leave it on : You’re using the PC as a server, or you want to access it remotely.
+79,Should I leave my computer on or turn it off,Can I leave my computer on sleep all the time,"Reasons to leave it on : You’re using the PC as a server, or you want to access it remotely.
 There are background updates, virus scans, or other activities you’d like to occur while you’re away.
 You never want to wait for it to start up. Reasons to turn it off: Leaving it on wastes electricity and can slightly increase your power bill.
 You don’t want to be disturbed by notifications or fan noise.
@@ -593,7 +771,7 @@ There are background updates, virus scans, or other activities you’d like to o
 You never want to wait for it to start up. Reasons to turn it off: Leaving it on wastes electricity and can slightly increase your power bill.
 You don’t want to be disturbed by notifications or fan noise.
 Computer performance generally benefits from an occasional reboot.","https://www.digitaltrends.com/computing/should-you-turn-off-your-computer-at-night/#:~:text=%E2%80%9CIf%20you%20use%20your%20computer,%2C%20then%20turn%20it%20off.%E2%80%9D&text=Computers%20also%20heat%20up%20when,have%20a%20limited%20life%20cycle.","https://www.digitaltrends.com/computing/should-you-turn-off-your-computer-at-night/#:~:text=%E2%80%9CIf%20you%20use%20your%20computer,%2C%20then%20turn%20it%20off.%E2%80%9D&text=Computers%20also%20heat%20up%20when,have%20a%20limited%20life%20cycle."
-81,How do I reformat a hard disk,,"1. Plug in the drive and open Windows Explorer.
+80,How do I reformat a hard disk,I dont know how to reformat my hard disk,"1. Plug in the drive and open Windows Explorer.
 2. Right-click the drive and choose Format from the drop-down menu.
 3. Select the file system you want, give your drive a name under Volume label, and make sure the Quick Format box is checked.
 4. Click Start, and the computer will reformat your drive.
@@ -603,7 +781,7 @@ When you’ve completed the process, you can open the external drive in Windows 
 4. Give your drive a name and select the file system you want from the Format drop-down.
 5. Click Erase, and the system will reformat your drive.
 When you’ve completed the process, you can open the external drive by clicking on the drive’s icon on the desktop of your Mac.",,
-82,How do I add more ram to my computer,,"Step 1 - Gathering Supplies
+81,How do I add more ram to my computer,How do I upgrade my Ram,"Step 1 - Gathering Supplies
 Clear off your installation space and make sure you’re working in a static-safe environment. Remove any plastic bags or papers from your workspace. Then, you’ll need the following items:
 Your desktop computer
 desktop memory
@@ -622,8 +800,8 @@ Choose Apple menu   > About This Mac, click Memory, then click Memory Upgrade In
 Choose Apple menu   > About This Mac, click Support, then click Hardware Support.
 
 Note: This option is only available on Mac computers with upgradable RAM.",https://www.crucial.com/articles/about-memory/how-to-upgrade-desktop-memory,https://support.apple.com/guide/activity-monitor/check-if-your-mac-needs-more-ram-actmntr34865/mac
-83,How do I know if my battery is damaged,,"1. Right-click on the Start icon and select Windows PowerShell (Admin) from the menu that appears. A pop-up window may ask for permission to make changes to your device; say yes. 2. The blue PowerShell command window will appear, allowing you to enter commands to automate certain tasks within Windows 10. Type or paste powercfg /batteryreport /output ""C:\battery-report.html"" into the window and press Enter to run the command. 3. PowerShell will then tell you the name of the generated battery life report HTML file and where it has been saved on your computer. In this case, it is called battery-report.html and it has been saved to the C drive. You can now safely close PowerShell. 4. Open Windows File Explorer and access the C drive. There you should find the battery life report saved as an HTML file. Double-click the file to open it in your preferred web browser. 5. The report will outline the health of your laptop battery, how well it has been doing, and how much longer it might last. At the top of the Battery Report, you will see basic information about your computer, followed by the battery's specs."," Click on the battery level in your top menu bar to bring down a drop-down. At the top of the menu, you’ll find the TL;DR version of your battery’s current condition. If it says “Replace Soon,” “Replace Now,” or “Service Battery,” it’s time to look into a replacement.",https://www.pcmag.com/how-to/how-to-check-your-laptops-battery-health-in-windows-10,"https://www.ifixit.com/News/9856/how-to-tell-if-your-mac-laptop-needs-a-new-battery#:~:text=Battery%20Service%20Warning&text=Click%20on%20the%20battery%20level,to%20look%20into%20a%20replacement."
-84,"My speakers are not working, what is wrong",,"1.Open the Control Panel.
+82,How do I know if my battery is damaged,Signs of a damaged battery ,"1. Right-click on the Start icon and select Windows PowerShell (Admin) from the menu that appears. A pop-up window may ask for permission to make changes to your device; say yes. 2. The blue PowerShell command window will appear, allowing you to enter commands to automate certain tasks within Windows 10. Type or paste powercfg /batteryreport /output ""C:\battery-report.html"" into the window and press Enter to run the command. 3. PowerShell will then tell you the name of the generated battery life report HTML file and where it has been saved on your computer. In this case, it is called battery-report.html and it has been saved to the C drive. You can now safely close PowerShell. 4. Open Windows File Explorer and access the C drive. There you should find the battery life report saved as an HTML file. Double-click the file to open it in your preferred web browser. 5. The report will outline the health of your laptop battery, how well it has been doing, and how much longer it might last. At the top of the Battery Report, you will see basic information about your computer, followed by the battery's specs."," Click on the battery level in your top menu bar to bring down a drop-down. At the top of the menu, you’ll find the TL;DR version of your battery’s current condition. If it says “Replace Soon,” “Replace Now,” or “Service Battery,” it’s time to look into a replacement.",https://www.pcmag.com/how-to/how-to-check-your-laptops-battery-health-in-windows-10,"https://www.ifixit.com/News/9856/how-to-tell-if-your-mac-laptop-needs-a-new-battery#:~:text=Battery%20Service%20Warning&text=Click%20on%20the%20battery%20level,to%20look%20into%20a%20replacement."
+83,"My speakers are not working, what is wrong",How to fix computer speakers,"1.Open the Control Panel.
 2.Click or double-click the Hardware and Sound or Sound icon.
 I3.n Windows XP and older, click Manage audio devices under Sound.
 4.In the Sound window, on the Playback tab, find the entry for the speakers connected to your computer.
@@ -642,7 +820,7 @@ I3.n Windows XP and older, click Manage audio devices under Sound.
 4. If the Output volume slider is set low, move the slider to the right and test again.
 5. If the Mute checkbox is selected, deselect it and test again.
 6. If you still don’t hear any sound, contact Apple Support.","https://www.computerhope.com/issues/ch000034.htm#:~:text=If%20your%20computer%20has%20the,default%20device%20for%20sound%20output.&text=In%20the%20Sound%20window%2C%20on,select%20Set%20as%20Default%20Device.",https://support.apple.com/en-us/HT203186
-85,How do I connect bluetooth speakers to my computer,,"1. Turn on your Bluetooth audio device and make it discoverable. The way you make it discoverable depends on the device. Check the device or visit the manufacturer's website to learn how. 
+84,How do I connect bluetooth speakers to my computer,Bluetooth speaker not connecting to my computer,"1. Turn on your Bluetooth audio device and make it discoverable. The way you make it discoverable depends on the device. Check the device or visit the manufacturer's website to learn how. 
 
 2. On your PC, select Start > Settings  > Devices  > Bluetooth & other devices > Add Bluetooth or other device > Bluetooth. Choose the device and follow additional instructions if they appear, then select Done. 
 
@@ -653,13 +831,13 @@ Your Bluetooth device and PC will usually automatically connect anytime the two 
 3.Select the device in the list, then click Connect.
 
 If asked, click Accept (or enter a series of numbers, then press Enter).","https://support.microsoft.com/en-us/windows/pair-a-bluetooth-device-in-windows-2be7b51f-6ae9-b757-a3b9-95ee40c3e242#:~:text=Select%20Start%20%3E%20type%20Bluetooth%20%3E%20select,you're%20done%20and%20connected.",https://support.apple.com/guide/mac-help/connect-a-bluetooth-device-blth1004/mac
-86,How do I download the latest update,,"If you want to install the update now, select Start  > Settings  > Update & Security  > Windows Update , and then select Check for updates. If updates are available, install them.","1.Choose System Preferences from the Apple menu , then click Software Update to check for updates.
+85,How do I download the latest update,Can't install the latest software update,"If you want to install the update now, select Start  > Settings  > Update & Security  > Windows Update , and then select Check for updates. If updates are available, install them.","1.Choose System Preferences from the Apple menu , then click Software Update to check for updates.
 2. If any updates are available, click the Update Now button to install them. Or click “More info” to see details about each update and select specific updates to install. You might be asked to enter your administrator password. 3. To automatically install future updates, including for apps that you got from the App Store, select “Automatically keep my Mac up to date.” Your Mac will notify you when updates require it to restart, so you can always choose to install those later.","https://support.microsoft.com/en-us/windows/get-the-windows-10-may-2021-update-7d20e88c-0568-483a-37bc-c3885390d212#:~:text=If%20you%20want%20to%20install,updates%20are%20available%2C%20install%20them.","https://support.apple.com/en-us/HT201541#:~:text=Choose%20System%20Preferences%20from%20the,select%20specific%20updates%20to%20install."
-87,How do I run a diagnostics test on my computer,,"1. Type “Control Panel” on Windows search bar. Click on “Control panel”. 2. Search and Hit on “System and Security”. 3. Hit on “Administrative Tools”. 4. Click on “Windows Memory Diagnostic”.
+86,How do I run a diagnostics test on my computer,How do I check my computer for problems,"1. Type “Control Panel” on Windows search bar. Click on “Control panel”. 2. Search and Hit on “System and Security”. 3. Hit on “Administrative Tools”. 4. Click on “Windows Memory Diagnostic”.
 Short Trick: Press Windows Key + R and type mdsched.exe
 5. Select “Restart now and check problems” option.
 ",,https://quickdata.org/blog/how-to-run-diagnostics-on-windows-10/,https://macpaw.com/how-to/perform-apple-diagnostics
-88,"My monitor won't turn on, what do I do",,"1.Check the Power LED on the Monitor if you are using an external monitor. 2. Unplug the monitor from the wall.
+87,"My monitor won't turn on, what do I do",Why is my monitor not turning on,"1.Check the Power LED on the Monitor if you are using an external monitor. 2. Unplug the monitor from the wall.
 3. Unplug the cord from the back of the monitor.
 4. Wait one minute
 5. Plug the monitor cord back into the Monitor and a known-good wall outlet.
@@ -667,17 +845,81 @@ Short Trick: Press Windows Key + R and type mdsched.exe
 7. If this still does not work, try with known-good power cord. Typically a Desktop power cord is the same as a Monitor power cord 
 8. Confirm that a power cable is connected to the monitor and a power outlet.
 9. Ensure the video cable is connected to the correct video source..",,https://www.dell.com/support/kbdoc/en-us/000132240/desktop-monitor-blank-black-screen-or-is-not-turning-on,https://support.apple.com/en-us/HT210905
-89,My screen is frozen,,"Hit CTRL + ALT + Delete, then click “End Task” to force-quit any or all applications.",,https://www.asurion.com/connect/tech-tips/what-to-do-if-your-computer-has-frozen/,https://www.asurion.com/connect/tech-tips/what-to-do-if-your-computer-has-frozen/
-90,My computer is slow,,"1. Reboot your computer. 2. Delete background programs. 3. Delete temp files. 4. Free hard drive space. 5. Check the hard drive for errors run ScanDisk, chkdsk, or something equivalent to verify there is nothing physically wrong with the computer's hard drive. 6. Make sure hard drive is not fragmented
+88,My screen is frozen,Why is my screen frozen,"Hit CTRL + ALT + Delete, then click “End Task” to force-quit any or all applications.",,https://www.asurion.com/connect/tech-tips/what-to-do-if-your-computer-has-frozen/,https://www.asurion.com/connect/tech-tips/what-to-do-if-your-computer-has-frozen/
+89,My computer is slow,How to make my computer faster,"1. Reboot your computer. 2. Delete background programs. 3. Delete temp files. 4. Free hard drive space. 5. Check the hard drive for errors run ScanDisk, chkdsk, or something equivalent to verify there is nothing physically wrong with the computer's hard drive. 6. Make sure hard drive is not fragmented
 Run Defrag to help ensure that data is arranged in the best possible order. 7. Scan for viruses 8. Scan for malware. 9. Update the operating system. 10. Disable browser plug-ins. 11. Update your drivers. 12. Reboot the computer again. 13. Run a registry cleaner. 14. Memory and hard drive upgrade. 15. Computer or processor is overheating. 16. Increase or upgrade the processor speed. 17. Erase computer and start over.
 ",,https://www.computerhope.com/issues/ch000179.htm,https://www.cnet.com/how-to/fix-your-slow-mac-once-and-for-all/
-91,My computer is overheating,,"1. Check if the fan is working or not. 2. Avoid blocking the vents. 3. Clean up the PC; turn off the PC, open the cover and you should be able to see visible dust., Blow the main PC components with air, use cotton buds to clean up the narrow spaces. 4. Stop overclocking (if this applies to you) 5. Speed up fan speed",,https://www.hongkiat.com/blog/cool-down-heating-pc/,https://www.businessinsider.com/why-is-my-macbook-hot
-92,My computer keeps dropping internet connection,,,,,
-93,How do I troubleshoot my computer,,,,,
-94,My mouse is not smooth it is jumpy,,,,,
-95,How do I sync my phone to my computer,,,,,
-96,My computer won't turn on,,,,,
-97,How do I connect a bluetooth printer,,,,,
-98,My computer's fan isn't working,,,,,
-99,My printer isn't printing,,,,,
-100,Why is my computer automatically restarting,,,,,
+90,My computer is overheating,My computer is getting hot,"1. Check if the fan is working or not. 2. Avoid blocking the vents. 3. Clean up the PC; turn off the PC, open the cover and you should be able to see visible dust., Blow the main PC components with air, use cotton buds to clean up the narrow spaces. 4. Stop overclocking (if this applies to you) 5. Speed up fan speed",,https://www.hongkiat.com/blog/cool-down-heating-pc/,https://www.businessinsider.com/why-is-my-macbook-hot
+91,My computer keeps dropping internet connection,My computer does not have a stable internet connection,"1.Right-click on the Start Menu and choose Device Manager.
+2.Expand the list below Network Adapters.
+3.Right-click on your network adapter.
+4.Select Properties.
+5.Click on the Power Management tab.
+6.Unmark the checkbox next to Allow the computer to turn off this device to save power","1.Check for software issues
+2.Check Wi-Fi recommendations given by macOS
+3.Find out if your broadband provider has any issues
+4.Reboot your router
+5.Reboot your Mac
+6.Turn Bluetooth off
+7.Forget your network then reconnect
+8.Make sure your router is cool, check it's location and make 9.sure nothing is blocking the signal
+10.Use Apple's Wireless Diagnostics
+11.Check for competition from other networks, change your network name, change your Wi-Fi channel - consider using the 5GHz band
+12.Check your security settings
+13.Run Apple Diagnostics
+14.Reset your SMC, PRAM or NVRAM and change the DNS setting for your network","https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/#:~:text=If%20you%20find%20Windows%2010,the%20adapter%20to%20save%20power.",https://www.macworld.co.uk/how-to/fix-wifi-problems-3605043/#provider
+92,How do I troubleshoot my computer,Troubleshoot,"1. Select Start  > Settings  > Update & Security  > Troubleshoot, or select the Find troubleshooters shortcut at the end of this topic. 2. Select the type of troubleshooting you want to do, then select Run the troubleshooter. ","1.Desktop systems (iMac, Mac Pro): Disconnect the power cord, wait 15 seconds, plug it back in, and then wait a further five seconds before turning the Mac on again.  2.Laptops with non-removable batteries (newer MacBook systems): With the system plugged to a power supply, press and hold SHIFT and OPTION and CONTROL and then press the power button (it helps if you have three arms or an assistant). The simultaneously release all the buttons before starting the Mac normally.
+3.Laptops with removable batteries (older MacBook systems): Disconnect the system from the power supply and remove the battery. Then press and hold down the power button for five seconds. Refit the battery and restart the Mac.
+4. Reset PRAM (Parameter RAM)
+To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Keep holding down the four buttons until you hear your Mac emit the ""WALLe"" startup chime for the second time. 
+5. Run Disk Utility
+Hold down Command + R while booting your Mac (for older systems running Snow Leopard or earlier, you'll need to dig out your installation disc and pop that into the optical drive, and reboot your computer while holding down C).
+From the startup screen select Disk Utility.
+Select the hard drive and choose Verify and allow that to run.
+If problems are detected, next choose Repair Disk. If no problems are detected, choose Repair Permissions.
+Try rebooting the system again. 
+6. Run Apple Diagnostics. Boot up your Mac while holding down D, and keep holding it down until asked to choose a language. Note that if this doesn't work, reboot your system while holding down Option + D to carry out start Apple Diagnostics over the internet.
+The utility will automatically check your system.
+If any problems are found the test will show you reference codes and suggest solutions.",https://support.microsoft.com/en-us/windows/use-a-fix-it-tool-with-windows-10-cc3cb85b-91d7-7e56-8ce1-db50b4d18d0b,https://www.zdnet.com/article/mac-troubleshooting-tips/
+93,My mouse is not smooth it is jumpy,Why is my mouse lagging,"1. Clean the Mouse and Mousepad. 2. Check the Batteries. 3. Try Another USB Port. 4. Update or Download Drivers. 
+5.Enable / Disable Scroll Inactive Windows
+6.Change Palm Check Threshold
+7.Set the touchpad to No Delay
+8.Turn off Cortana
+9.Disable NVIDIA High Definition Audio
+10.Change your mouse frequency
+11.Disable Fast Startup
+12.Change your Clickpad settings
+13.Roll back your drivers
+14.Connect your mouse receiver to USB 2.0 port
+15.Disconnect other USB devices
+16.Use USB extender
+Change Power management options","1. Examine Mouse and Mouse Pad. 2. Replace Batteries. 3. Restart Mac. 4. Unplug USB Connected Devices. 5. Change USB Port. 6. Disable Handoff Feature.  7.Disable Bluetooth. 8. Adjust Tracking & Scrolling Speed. 
+9. Is Your Mouse Defective? Plug another Wireless/Bluetooth Mouse into your Mac and see if the New Mouse works perfectly fine on your Mac. 10. Reset NVRAM",https://windowsreport.com/mouse-lag-windows-10/,https://www.techbout.com/fix-laggy-slow-mouse-on-mac-28718/
+94,How do I sync my phone to my computer,How do I connect my phone to my computer,"1. To link your phone, open the Settings app on your computer and click or tap Phone. 2. Sign in to your Microsoft account if you aren't already and then click Add a phone. 3. Enter your phone number and click or tap Send. 4. You might rightly expect to receive a confirmation code texted to your phone to make the connection, but Microsoft throws you a curveball and instead sends you a link to install Edge. To establish the link between phone and PC, you will need to install Edge and then sign into your Microsoft account.  5. Restart your PC and you'll see your phone listed on the Phone page in Settings, showing you that it's linked.","1. Connect your device to your Mac. You can connect your device using a USB or USB-C cable or using a Wi-Fi connection.
+2. In the Finder  on your Mac, select the device in the Finder sidebar. 3. Select a type of content you want to sync in the button bar. 4. Select the “Sync [content type] onto [device name]” checkbox to turn on syncing for that type of item. For example, select the “Sync movies onto [device name]” checkbox to sync your movies. 5. Repeat steps 3 and 4 for each type of content you want to sync 6.  When you’re ready to sync, click Apply.",https://www.cnet.com/how-to/how-to-connect-your-phone-to-your-windows-10-pc/,"https://support.apple.com/guide/mac-help/sync-music-books-and-more-between-devices-mchlde9a31f1/mac#:~:text=The%20first%20time%20you%20set,select%20which%20items%20to%20sync."
+95,My computer won't turn on,How to fix a computer that won't turn on,"Step 1: Check Your Cables. Step 2: Try a different power source. 3. Try a different power cable 4. If you are on a laptop, Let the battery charge. 5. Decrypt the beep codes. 6. Check your display. 7. Check your BIOS or UEFI settings. 8. Disconnect everything non-essential. 9. Make sure nothing has come loose.",1.  Check your power connection 2.  Try a different power cable or adapter. 3. Disconnect all accessories. 4. Perform a Power Cycle (non-M1 Macs). 5. Check your display. 6. Boot up your Mac in Safe Boot. 7. Reset the PRAM / NVRAM. 8. Reset the SMC. 9. Run Disk Utility in Recovery Mode. 10. Make a Genius Bar appointment,https://www.businessinsider.com/why-wont-my-pc-turn-on,https://www.macworld.co.uk/how-to/wont-turn-on-boot-3423817/
+96,How do I connect a bluetooth printer,How to set up a bluetooth printer,"1. Open the Windows Start menu.  2. Then click to Settings.  3. Then click on Devices. 4. Next, select Printers & Scanners. 5. Then click Add a Printer. 6. Click “The printer that I want isn’t listed.”               7. Choose “Add a local printer or network printer with manual settings,” and click next. 8. Click on “Create a New Port” and select Standard TCP/IP from the drop-down box. 9. Type in your printer’s IP address and click next. 10. Select the appropriate device type. 11. Install the print driver. 12. Select “Use the driver that is currently installed (recommended)” and click next. 13. Set up optional preferences.  14. Print a test page. ","1. On your Mac, choose Apple menu  > System Preferences, then click Printers & Scanners.
+2. Click the Add button , then click the Default button .
+3. Select the printer in the Printers list, then click Add. If the printer you expect to see is not in the list, enter its name in the search field, then press Return.
+4. If your printer doesn’t appear in the list, make sure you have the latest Bluetooth driver for the printer installed. Check with the manufacturer for the latest driver.",https://www.hellotech.com/guide/for/how-to-add-printer-in-windows-10,https://support.apple.com/guide/mac-help/use-a-bluetooth-enabled-printer-blth24/mac
+97,My computer's fan isn't working,Computer fan stopped working,1. Restart your computer. 2. Clean your fan. 3. Repair or replace your power supply unit. 4. Replace your fan and motherboard,"1.Shut down your computer
+2.Keep the MagSafe adapter (or power cable) plugged in.
+3. Press at the same time shift+option+control (on the left side of the keyboard) and the power button
+4.Let go
+5.Turn your computer back on with the power button. 6. Make an Appointment with Apple","https://windowsreport.com/cpu-fan-not-spinning/#:~:text=There%20are%20three%20main%20reasons,fan%20up%20and%20running%20again.",https://apple.stackexchange.com/questions/261954/macbook-pro-fan-is-not-running-on-default-settings-regardless-of-how-hot-it-gets
+98,My printer isn't printing,My printer doesn't work anymore,"1. Check if your printer is compatible with Windows 10
+2. Check printer power and connection
+3. Uninstall your printer, then reinstall again
+4. Update drivers
+5. Reboot your computer
+6. Run the printing troubleshooter
+7. Disable Print in background
+8. Print in clean boot mode
+9. Boot in Safe Mode then test printing",1. Check the Print dialog box. 2. Check the Print Queue. 3. Check the printer itself. 4. Check for printer software updates. 5. Delete and re-add the printer. 6. Check the error log for clues. 7. Reset Printing System,"https://windowsreport.com/printer-wont-print-windows-10/#:~:text=If%20your%20printer%20won't%20print%20in%20Windows%2010%2C%20or,printer%20into%20the%20power%20supply&text=Check%20the%20USB%20connection%20if,and%20run%20the%20printing%20troubleshooter",https://www.macworld.com/article/220491/mac-troubleshooting-what-to-do-when-you-cant-print.html
+99,Why is my computer automatically restarting,Computer keeps turning off and on by itself. ,1 Boot the PC into Safe Mode if Necessary. 2 Disable Automatic Restart. 3 Disable Fast Startup. 4 Uninstall Latest Updates. 5 Uninstall Recently Installed Apps. 6 Unplug Unnecessary Peripherals.                7 Revert Windows to an Earlier System Restore Point.  8 Reset Windows to its Original State. ,"1: Check the peripheral devices connected to your Mac. 2: Check the internal RAM and third-party hardware on your Mac. 3: Reinstall operating system on your Mac.           4: Use macOS Recovery to start your Mac.
+5: Use Disk Utility to back up your disk image to an external drive with enough free space.
+6: Wipe the internal drive via Disk Utility.
+7: Install OS X and start your Mac from the internal drive.
+8: Go to App Store > Updates to install all updates on your Mac.
+9: Reinstall the third-party Apps on your Mac and copy the user data from the backup you have just created.",https://www.support.com/how-to/how-to-fix-a-windows-pc-that-keeps-rebooting-12992,https://www.easeus.com/ios-tips/mac-keeps-restarting.html

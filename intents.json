@@ -68,7 +68,7 @@
                 "tag": 7,
                 "queries": [
                     "Why is important to use special characters, alphabets and numbers in a password ",
-                    "Whats the role of a password being complex with mixture of different characters? "
+                    ""
                 ],
                 "answer": "Security experts agree that upper and lowercase alphanumerical characters & special characters are good practices for increasing passwords strength and making it capable of resisting guessing and brute-force attacks. In order to add complexity without compromising ease-of-use, users could modify passphrases by inserting spaces, punctuation and misspellings",
                 "source": "https://resources.infosecinstitute.com/topic/password-security-complexity-vs-length/"
@@ -166,7 +166,7 @@
             {
                 "tag": 18,
                 "queries": [
-                    "why to use automated password reset",
+                    "Why to use automated password reset",
                     "What are the advantages for automated password reset?"
                 ],
                 "answer": "It will help combat the following: It\u2019s time-consuming for both users and help desk staff. During non-business hours, help desk services may not be available \u2013 keeping users from their apps, data and other tools. Costs add up quickly due to the large number of tickets. Technicians may become bored or frustrated with spending so much of their time on elementary tasks \u2013 leading to high staff turnover.\n",
@@ -175,56 +175,56 @@
             {
                 "tag": 19,
                 "queries": [
-                    "",
-                    ""
+                    "How do I know if someone accessed my account and what do to about it",
+                    "How to find out who had unauthorised access to my gmail? What to do about it?"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Here's what to do: 1. Log in into your gmail account. 2. Scroll to the bottom of the page and click details. 3. Review the results. It will bring up a popup saying what devices are logged in, the ip address of those devices and where the devices are located. 4. Secure your account. To sign out all of these devices, click \"Sign out all other sessions.\" 5. Change your password for future security. If you are still unsure whether anyone might have unauthorized access to your account, change your Google password.\n",
+                "source": "https://www.wikihow.com/Find-Out-Who-Had-Unauthorised-Access-to-a-Gmail-Account#:~:text=1%20Log%20into%20your%20Gmail%20account.%202%20Scroll,to%20your%20account%2C%20change%20your%20Google%20password%20."
             },
             {
                 "tag": 20,
                 "queries": [
-                    "",
-                    ""
+                    "I dont want 2FA anymore ",
+                    "How to disable 2 Factor Authentication on Instagram?"
                 ],
-                "answer": "",
+                "answer": "You log in from any oter device (or even desktop) with the code that Instagram would send to your phone or email. You may have your account saved on your laptop.\nIn this way, you can easily go to Privacy and Security, scroll down to find the two-factor authentication section, open it, and switch the authentication on or off.   ",
                 "source": ""
             },
             {
                 "tag": 21,
                 "queries": [
-                    "",
-                    ""
+                    "I want a new password",
+                    "How to change Instagram password"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Here are the steps: 1. After opening the Instagram app, tap the three horizontal lines in the upper righthand corner of your screen. 2. At the bottom of the page, click \"Settings.\" 3. Tap \"Password\" in the middle of the page. 4. Enter your current password, then enter your new password twice to confirm its accuracy.",
+                "source": "https://learn.g2.com/change-instagram-password"
             },
             {
                 "tag": 22,
                 "queries": [
-                    "",
-                    ""
+                    "I cant find my autosaved passwords",
+                    "Where to find autosaved passwords on Chrome? "
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Find Auto Saved Password in Google Chrome: In your Chrome browser, see the control panel button on right top. Click on Chrome Control Panel Button > Settings (chrome://settings/) > Show advanced settings\u2026 > Passwords and forms > Offer to save your web passwords > Manage passwords  See the box with history of website name, username and password that your browser saved in your local machine. You can click on the password column of the required site row to reveal the password.",
+                "source": "https://mashtips.com/find-auto-saved-passwords-ie-chrome-firefox-safari/"
             },
             {
                 "tag": 23,
                 "queries": [
-                    "",
-                    ""
+                    "I cant find my autosaved passwords",
+                    "Where to find autosaved passwords on Safari? "
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Find Auto Saved Password in Safari:  These steps are based on the MAC OS for Safari browser. On MAC top menu, click on Safari > Preferences > Passwords > You can see all stored passwords with websites, username and password column. Select any row and select the check box to Show passwords for selected websites. When you forgot your password that you were using for your online accounts, you don\u2019t need to immediately reset your account password. Instead of that, you can go to your browser setting and check for the password from the saved account list.\n\n",
+                "source": "https://mashtips.com/find-auto-saved-passwords-ie-chrome-firefox-safari/"
             },
             {
                 "tag": 24,
                 "queries": [
-                    "",
-                    ""
+                    "I cant find my autosaved passwords",
+                    "Where to find autosaved passwords on IE? "
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Find Auto Saved Password in Internet Explorer: Go to your windows start button to get the control panel. Click on Start Button> Control Panel > Icon view > Credential Manager > Web Credentials > Expand Listed Websites > Password > Show You have to click on top of the masked password area to see the stored password for the required website from this Windows Vault window.",
+                "source": "https://mashtips.com/find-auto-saved-passwords-ie-chrome-firefox-safari/"
             },
             {
                 "tag": 25,
@@ -232,8 +232,8 @@
                     "I don't know how to make a high-securitty password.",
                     "What are the tips to create a high-security password"
                 ],
-                "answer": "Make it long. This is the most critical factor. Choose nothing shorter than 15 characters, more if possible.\nUse a mix of characters. The more you mix up letters (upper-case and lower-case), numbers, and symbols, the more potent your password is, and the harder it is for a brute force attack to crack it.\nAvoid common substitutions. Password crackers are hip to the usual substitutions. Whether you use DOORBELL or D00R8377, the brute force attacker will crack it with equal ease. These days, random character placement is much more effective than common leetspeak* substitutions. (*leetspeak definition: an informal language or code used on the Internet, in which standard letters are often replaced by numerals or special characters.)\nDon\u2019t use memorable keyboard paths. Much like the advice above not to use sequential letters and numbers, do not use sequential keyboard paths either (like qwerty). These are among the first to be guessed.",
-                "source": "https://blog.avast.com/strong-password-ideas"
+                "answer": "Avoid using common words and combinations in your password; never reuse old passwords; your password should contain at least 8 characters; use 2 factors authentications but avoid text message codes; use special characters such as @,!, etc.",
+                "source": "https://www.cnet.com/how-to/9-rules-for-strong-passwords-how-to-create-and-remember-your-login-credentials/"
             },
             {
                 "tag": 26,
@@ -544,11 +544,11 @@
             {
                 "tag": 60,
                 "queries": [
-                    "why do i need to reset my password",
-                    ""
+                    "why do people forget their passwords",
+                    "why cant i remember my password"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": " It's well-known that text-based passwords are hard to remember and people prefer simple, unsecure passwords. The study found evidence that human memory naturally adapts based on an estimate of how often a password will be needed.",
+                "source": "https://www.securitymagazine.com/articles/89384-study-explores-why-and-how-people-forget-passwords#:~:text=Why%20do%20people%20frequently%20forget%20passwords%20to%20their%20accounts%20and%20websites%3F&text=It's%20well%2Dknown%20that%20text,a%20password%20will%20be%20needed."
             },
             {
                 "tag": 61,
@@ -652,20 +652,20 @@
             {
                 "tag": 72,
                 "queries": [
-                    "",
-                    ""
+                    "How do I reset my msu netid password",
+                    "I want to reset my msu netid password"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "If you have forgotten your NetID password or otherwise need to change it, visit netid.msu.edu/password/index.html.\n\nLook for the green boxes toward the bottom of the page and select the option you need:\n\n\u201cReset a Forgotten Password\u201d or \u201cChange a Password.\u201d\n\nFollow the steps listed.",
+                "source": "https://msu.teamdynamix.com/TDClient/1815/Portal/KB/ArticleDet?ID=63014"
             },
             {
                 "tag": 73,
                 "queries": [
-                    "",
-                    ""
+                    "how to reset my outlook password ",
+                    "outlook reset"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Go to Microsoft account security and select Password security.\nAs a security measure, you might be prompted to verify your identity with a security code. Decide if you want to receive the security code by email or phone. ...\nEnter your current password, enter your new password, and then select Save.\n",
+                "source": "https://support.microsoft.com/en-us/office/change-your-password-in-outlook-com-2138d690-811c-4545-b2f3-e4dbe80c9735"
             },
             {
                 "tag": 74,
@@ -823,11 +823,11 @@
             {
                 "tag": 91,
                 "queries": [
-                    "",
-                    "What should I do when my password is changed without my knowledge ?"
+                    "Twitter Password",
+                    "How to reset a lost or forgotten twitter password?"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "1. From your desktop, click on the More  icon in the navigation bar and select Settings and privacy.\n2. From the Your account tab, click on Change your password.\n3. Enter your Current password.\n4. Choose your New password.\n5. Save your changes by clicking Save.",
+                "source": "https://help.twitter.com/en/managing-your-account/forgotten-or-lost-password-reset"
             },
             {
                 "tag": 92,
@@ -1809,16 +1809,16 @@
                 "tag": 0,
                 "queries": [
                     "What are the top rated antivirus software available?",
-                    ""
+                    "Which antivirus should I get."
                 ],
-                "answer": "Bitdefender, Kaspersky, Webroot, and NortonLifeLock",
+                "answer": "The top antivirus brands include: Bitdefender, Kaspersky, Webroot, and NortonLifeLock",
                 "source": "usnews.com"
             },
             {
                 "tag": 1,
                 "queries": [
                     "How do I make a strong password?",
-                    ""
+                    "What's the best way to create a password?"
                 ],
                 "answer": "1) make the password at least 12 characters long\n2) include a combination of letters, numbers, and symbols\n3) don't use accented characters",
                 "source": "support.google.com"
@@ -1827,7 +1827,7 @@
                 "tag": 2,
                 "queries": [
                     "How do I know if someone is spying on my cell phone?",
-                    ""
+                    "Signs that my phone has been hacked."
                 ],
                 "answer": "1) check if your phone has been using unusually high amounts of data\n2) see if your phone shows signs of activity in standby mode\n3) if your phone unexpectedly reboots\n4) if you hear odd sounds during phone calls\n5) if you are getting weird or offensive text OR your friends are receiving them from you\n6) your battery life is deteriorating \n7) when your phone is idly standing by and the temperature of your battery is increasing\n8) it takes longer for you phone to shutdown\n9) for phone is running slower and slower",
                 "source": "https://pixelprivacy.com/resources/spying-on-your-cell-phone/"
@@ -1836,7 +1836,7 @@
                 "tag": 3,
                 "queries": [
                     "How do I know if a social media account is fake?",
-                    ""
+                    "Signs a social media account is fake."
                 ],
                 "answer": "1) Check the updates posted on the profile. Make sure the account is communiicating with other members.\n2) Keep an eye out if the account often sends out spam.\n3) If the profile claims to be a high-profile user check for the social media's verification symbol \n4) Check is the account is made for fake reviews. Signs of such would be if they comment on the brand as a whole \nand not a specific product",
                 "source": "https://safeonline.ng/social-media/how-to-spot-fake-social-media-account/"
@@ -1854,7 +1854,7 @@
                 "tag": 5,
                 "queries": [
                     "How do I know if an email is a phishing attempt?",
-                    ""
+                    "How do I know when an email is a scam?"
                 ],
                 "answer": "1) Note that such emails may look like they come from companies you trust\n2) The emails above often try to provide a story that will convince you to click on a link including...\n    - suspicious activity or log in attemps\n    - say there is a problem with yout payment information\n    - say you must conform personal information\n    - include a fake invoice\n    - click on a link to make a payment\n    - say you are eligable for a gonvernment refund\n    - offering a free cupon ",
                 "source": "https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
@@ -1863,7 +1863,7 @@
                 "tag": 6,
                 "queries": [
                     "Can someone spy on me through my phone camera?",
-                    ""
+                    "Is my phone protected from spies?"
                 ],
                 "answer": "Yes, you can be spied on through your camera. There are several applications that can be found online that allows \nsomeone to spy on you through your phone.",
                 "source": "https://www.gadgetsnow.com/faqs/how-do-i-know-if-someone-is-monitoring-my-phone/articleshow/76994253.cms#:~:text=Can%20someone%20spy%20through%20a,through%20their%20cell%20phone%20camera."
@@ -1881,7 +1881,7 @@
                 "tag": 8,
                 "queries": [
                     "What personal information should I protect?",
-                    ""
+                    "Which information should I not disclose?"
                 ],
                 "answer": "Low Sensitivity\n     - full name, address, and phone number\nMedium Snesitivity\n     - date of birth, place of birth, mothers maiden name\nHigh Sensitivity\n     - bank account number, social security number, pin numbers, credit/debit card numbers, and passwords",
                 "source": "https://us.norton.com/internetsecurity-privacy-what-personal-information-should-you-safeguard.html"
@@ -1890,7 +1890,7 @@
                 "tag": 9,
                 "queries": [
                     "What are the dangers of using a mobile hotspot?",
-                    ""
+                    "Are modile hot spots safe to use?"
                 ],
                 "answer": "1) IT admins tend to lose control of what could be streaming over the internet connection\n2) Could expose a user's corprate login credentials",
                 "source": "https://searchmobilecomputing.techtarget.com/answer/What-are-the-dangers-of-mobile-hotspot-tethering#:~:text=Mobile%20hotspot%20tethering%2C%20a%20standard,another%20device's%20cellular%20data%20network.&text=The%20problem%20is%20that%20mobile,worse%2C%20to%20breaches%20and%20hacking."
@@ -1908,7 +1908,7 @@
                 "tag": 11,
                 "queries": [
                     "What are some ways to shop safe online?",
-                    ""
+                    "How can I be safe when shopping online?"
                 ],
                 "answer": "1) Shop with reputable retailers\n2) Vet new-to-you businesses\n3)Beware amazing deals\n4) Don't browze on public Wi-Fi\n5) Use a VPN\n6) Pick a strong Password\n7) Check site security before you buy\n8) Don't fall for email scams\n9) Guard your personal Information\n10) Pay with credit not debit\n11) Add extra secirity with a virtutal credit card\n12)Keep an eye out for fraud\n13) Mind the details\n14) Track you stuff\n15) Report Scammers",
                 "source": "https://www.lifelock.com/learn-internet-security-safe-online-shopping.html"
@@ -1917,7 +1917,7 @@
                 "tag": 12,
                 "queries": [
                     "How can I know if an online shop is legit? ",
-                    ""
+                    "What are some signs that an online shop isn't \nreal?"
                 ],
                 "answer": "1) Check to see if there is contact information \n2) Check the customer feedback on the product or company. It also wouldn't hurt to search the name of the company and\nthe word \"scam\" or \"fake\"\n3) Use Whois. You can type in the webaddress and this website will let you know if the site is registered. \n4) See if the website is using encription measures by looking for \"https://www.\" at the beginning of the webaddress\n5) Use google Safe Browsing\n6) Pay attention to the look and feel of the website, does it look professional?",
                 "source": "https://justaskthales.com/en/can-i-tell-ecommerce-website-genuine/"
@@ -1926,7 +1926,7 @@
                 "tag": 13,
                 "queries": [
                     "Should I let my web browser remember my passwords?",
-                    ""
+                    "Is letting my browser rememer my password a\ngood idea"
                 ],
                 "answer": "No you should not. It is fairly easy to view passwords on your web browser, therefore it would be quite easy for anyone to view your passwords. ",
                 "source": "https://www.techrepublic.com/article/why-you-should-never-allow-your-web-browser-to-save-your-passwords/"
@@ -1935,7 +1935,7 @@
                 "tag": 14,
                 "queries": [
                     "Should I answer online security questions truthfully?",
-                    ""
+                    "What is the bets way to answer online security\nquestions"
                 ],
                 "answer": "The Identity Theft Resource Center encourages to use alternative answers as it would be nearly impossible to research or\nguess the answer.",
                 "source": "https://www.idtheftcenter.org/choose-strong-security-questions-answers-for-online-accounts/"
@@ -1944,7 +1944,7 @@
                 "tag": 15,
                 "queries": [
                     "Is online banking safe?",
-                    ""
+                    "Is it ok to do online banking?"
                 ],
                 "answer": "It is safe when secure technology on the back end is met with alert consumers on the front end.",
                 "source": "https://www.nerdwallet.com/article/banking/online-banking-security"
@@ -1953,7 +1953,7 @@
                 "tag": 16,
                 "queries": [
                     "How do I improve my online banking security?",
-                    ""
+                    "Is there a way for me better my banking \nsecurity?"
                 ],
                 "answer": "1) Choose an insitution that uses industry-standard security \n2) Skip public Wi-Fi private banking \n3) Keep anti-virus software current\n4) Change passwords regulary\n5) Ask for text alerts when a large transaction has been made",
                 "source": "https://www.nerdwallet.com/article/banking/online-banking-security"
@@ -1962,7 +1962,7 @@
                 "tag": 17,
                 "queries": [
                     "Should I use my personal phone number for business?",
-                    ""
+                    "Is it ok to use my personal number for business?"
                 ],
                 "answer": "No, your personal information is under constant threat from hackers, scammers, and pranksters; thus, you should not make it easier to gain your information by providing your real phone number for business.",
                 "source": "https://www.mightycall.com/blog/avoid-using-a-personal-cell-phone-number-as-a-business-line/#:~:text=In%20a%20nutshell,phone%20system%20to%20combat%20this."
@@ -1971,7 +1971,7 @@
                 "tag": 18,
                 "queries": [
                     "Should I use my credit or debit card when shopping online?",
-                    ""
+                    "Is it better to use my credit or debit card when \ndoing online shopping?"
                 ],
                 "answer": "From a legal perspective, credit cards generally provide more protection against fraudulent activity.",
                 "source": "https://www.nerdwallet.com/article/credit-cards/credit-card-vs-debit-card-safer-online-purchases"
@@ -1989,7 +1989,7 @@
                 "tag": 20,
                 "queries": [
                     "What are the most common hacking techniques",
-                    ""
+                    "What are some ways I can get hacked?"
                 ],
                 "answer": "Common ways could include:\n1) Fake WAP\n2) Bait and Switch\n3) Credential Reuse\n4) SQL Injection\n5) Browser Locker",
                 "source": "https://nordvpn.com/blog/hacking/"
@@ -1998,7 +1998,7 @@
                 "tag": 21,
                 "queries": [
                     "Which countries account for the most hacking traffic?",
-                    ""
+                    "Where is hacking most common?"
                 ],
                 "answer": "China, United States of America, Turkey, Russia, Taiwan, Brazil, Rome",
                 "source": "https://abcnews.go.com/Technology/slideshow/top-hacking-countries-19844818/image-19845656"
@@ -2007,7 +2007,7 @@
                 "tag": 22,
                 "queries": [
                     "What does it mean when my camera is on, but I'm not using my camera?",
-                    ""
+                    "Am I being spied on if my camera is on, but \nI'm not using it?"
                 ],
                 "answer": "If your webcam indicator light is on or it\u2019s acting abnormally (you see a blinking LED) even though you haven\u2019t turned the \nwebcam on, it\u2019s a sign that something might not be right.",
                 "source": "https://nordvpn.com/blog/tell-if-laptop-camera-hacked/"
@@ -2016,7 +2016,7 @@
                 "tag": 23,
                 "queries": [
                     "Can my smartwatch be hacked?",
-                    ""
+                    "Is my wearbale technology hackable?"
                 ],
                 "answer": "A smartwatch can be hacked causing API issues. This could lead to a hacker making phone calls, spying on users,\n sending fake messages, and more.",
                 "source": "https://www.zdnet.com/article/smartwatch-tracker-for-the-vulnerable-can-be-hacked-to-send-medication-reminders/#:~:text=ZDNet%20Academy-,Smartwatch%20tracker%20for%20the%20vulnerable%20can%20be%20hacked%20to%20send,send%20fake%20messages%2C%20and%20more."
@@ -2025,7 +2025,7 @@
                 "tag": 24,
                 "queries": [
                     "Is it possible for an electronic personal assistant to get hacked?",
-                    ""
+                    "Is my electronic personal assistant safe from \nhackers?"
                 ],
                 "answer": "Similar to other computer programs, the fundamental issue with these digital assistants is that they are vulnerable\n to technical and process failures. Digital assistants can also be hacked remotely, resulting in breaches of users\u2019 privacy.",
                 "source": "https://theconversation.com/the-dark-side-of-alexa-siri-and-other-personal-digital-assistants-126277#:~:text=Similar%20to%20other%20computer%20programs,in%20breaches%20of%20users'%20privacy."
@@ -2475,7 +2475,7 @@
                 "tag": 74,
                 "queries": [
                     "How do I know how secure a website is?",
-                    ""
+                    "How secure is a website?"
                 ],
                 "answer": "1. In Chrome, open a page.\n2. To check a site's security, to the left of the web address, look at the security status:\nLock Secure\nView site information Info or Not secure\nDangerous Not secure or Dangerous\n3. To see the site's details and permissions, select the icon. You'll see a summary of how private Chrome thinks the connection is.",
                 "source": "https://support.google.com/chrome/answer/95617?hl=en"
@@ -2484,7 +2484,7 @@
                 "tag": 75,
                 "queries": [
                     "How can I tell if my connection is secure?",
-                    ""
+                    "Is my connection secure?"
                 ],
                 "answer": "You can tell if a website is using HTTPS by looking at the URL. The URL should start with \"HTTPS\" if it is encrypted.",
                 "source": "https://www.makeuseof.com/tag/3-ways-check-security-internet-connection/#:~:text=You%20can%20tell%20if%20a,know%20your%20data%20is%20encrypted."
@@ -2493,7 +2493,7 @@
                 "tag": 76,
                 "queries": [
                     "How do I know if my VPN is actually encrypted?",
-                    ""
+                    "Is my VPN encrypted?"
                 ],
                 "answer": "You should check your IP address through visiting whatismyipaddress.com. If you get information which is similar to your real IP address and location, then your VPN connection probably contains vulnerabilities.",
                 "source": "https://www.beencrypted.com/vpn/check-vpn-connection-actually-encrypted/"
@@ -2502,7 +2502,7 @@
                 "tag": 77,
                 "queries": [
                     "How do I hide traffic on my network?",
-                    ""
+                    "What can I do to hide traffic on my Wi-Fi?"
                 ],
                 "answer": "Ensure that your Wi-Fi network is protected with a password so that unauthorized users cannot gain access. To ensure that your browsing history is private, use a VPN.",
                 "source": ""
@@ -2511,7 +2511,7 @@
                 "tag": 78,
                 "queries": [
                     "How do I find out my IP address?",
-                    ""
+                    "What is my IP address?"
                 ],
                 "answer": "Using a site like https://whatismyipaddress.com/ you can find your publicly accessible IP address.",
                 "source": "https://bonkersabouttech.com/how-to-check-if-network-traffic-is-encrypted/"
@@ -2520,7 +2520,7 @@
                 "tag": 79,
                 "queries": [
                     "How do I know if my computer's security has been compromised?",
-                    ""
+                    "Is my computer secure?"
                 ],
                 "answer": "Run antivirus software. To learn how to install antivirus software, ask \"How do I install antivirus software?\"",
                 "source": ""
@@ -2529,7 +2529,7 @@
                 "tag": 80,
                 "queries": [
                     "How can I tell if a business is legitimate?",
-                    ""
+                    "What do I do to know if a business is legitimate?"
                 ],
                 "answer": "Check the Better Business Bureau at https://www.bbb.org/ to see reviews and complaints for businesses before revealing credit card information or personal information.",
                 "source": ""
@@ -2538,7 +2538,7 @@
                 "tag": 81,
                 "queries": [
                     "Should I install software from an unknown location?",
-                    ""
+                    "Is software from an unknown source safe?"
                 ],
                 "answer": "If you have antivirus software enabled, the software should be scanned automatically. If there are any issues found, delete the program and run your antivirus software to remove any malware that may have infected your computer. For more information, ask \"How do I remove a virus from my computer?\"",
                 "source": ""
@@ -2547,7 +2547,7 @@
                 "tag": 82,
                 "queries": [
                     "How do I know if an email is safe to open?",
-                    ""
+                    "What makes an email safe to open?"
                 ],
                 "answer": "Check the sender and make sure that you know who sent the email. If you do not trust the source of the email, do not open any attachments or click on any links. For more information on how to determine if an email is safe to open, visit https://www.cose.org/en/Mind-Your-Business/Operations/Is-This-Email-OK-to-Open-9-Warning-Signs-to-Watch.",
                 "source": ""
@@ -2556,7 +2556,7 @@
                 "tag": 83,
                 "queries": [
                     "What file extensions could indicate a virus?",
-                    ""
+                    "What are dangerous file extensions?"
                 ],
                 "answer": "Never run files with any type of executable extension on it, or at least use extreme caution. These file types can contain malware and viruses in their coding. Watch for the following file extensions: .ade  .adp  .asf  .bas  .bat  .chm  .cmd  .com  .cpl  .crt  .exe  .hlp  .hta  .inf  .ins  .isp  .jar  .js  .jse  .lnk  .mdb  .mde  .mov  .msc  .msi  .msp  .mst  .pcd  .pif  .psc1  .reg  .scr  .sct  .shs  .swf  .url  .vb  .vbe  .vbs  .wsc  .wsf  .wsh",
                 "source": "https://www.support.com/blog/how-to-tell-if-email-attachments-are-safe-or-a-virus-13386"
@@ -2565,7 +2565,7 @@
                 "tag": 84,
                 "queries": [
                     "Is it safe to use public Wi-Fi?",
-                    ""
+                    "Is public Wi-Fi safe?"
                 ],
                 "answer": "Exercise caution when using public Wi-Fi. Most network traffic is encrypted, but to be safe, refrain from making bank transactions or using accessing any confidential information on public networks. If this is unavoidable, you can take steps to secure your device by doing the following: enable two-factor authentication, use a VPN, and encrypt your device.",
                 "source": ""
@@ -2574,7 +2574,7 @@
                 "tag": 85,
                 "queries": [
                     "Are all websites encrypted?",
-                    ""
+                    "How many websites are encrypted?"
                 ],
                 "answer": "A recent study by researchers in Italy and Austria found that about 5.5 percent of the top 10,000 websites secured by HTTPS had TLS security flaws that could make them vulnerable to man-in-the-middle attacks or allow an attacker to at least partly decrypt them.",
                 "source": "https://www.consumerreports.org/digital-security/is-using-public-wifi-still-a-bad-idea/#:~:text=It%20depends%2C%20security%20experts%20say,safer%20but%20not%20risk%2Dfree.&text=Security%20experts%20have%20long%20advised,the%20risk%20of%20being%20hacked.&text=Most%20sensitive%20data%20is%20now%20sent%20through%20encrypted%20channels."
@@ -2583,7 +2583,7 @@
                 "tag": 86,
                 "queries": [
                     "How do I check my current antivirus software?",
-                    ""
+                    "What is my current antivirus software?"
                 ],
                 "answer": "Select Start > Settings > Update & Security > Windows Security and then Virus & threat protection. Open Windows Security settings.\nApple:\nMac computers have built-in antivirus and malware scanning software.",
                 "source": "https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963"
@@ -2592,7 +2592,7 @@
                 "tag": 87,
                 "queries": [
                     "How do I update my operating system?",
-                    ""
+                    "What do I do to update my operating system?"
                 ],
                 "answer": "Select Start > Settings > Update & Security > Windows Update.\nApple:\nChoose System Preferences from the Apple menu, then click Software Update to check for updates.",
                 "source": "https://support.microsoft.com/en-us/windows/update-windows-10-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a, https://support.apple.com/en-us/HT201541"
@@ -2601,7 +2601,7 @@
                 "tag": 88,
                 "queries": [
                     "Are apps downloaded from an official app store safe?",
-                    ""
+                    "Are apps secure?"
                 ],
                 "answer": "Microsoft verifies that apps in the store are safe and adhere to privacy, content, and security standards.\nApple:\nApple provides layers of protection to help ensure that apps are free of known malware and haven\u2019t been tampered with.",
                 "source": "https://support.apple.com/guide/security/app-security-overview-sec35dd877d0/web, https://community.windows.com/en-us/stories/get-the-apps-you-need-in-microsoft-store"
@@ -2610,7 +2610,7 @@
                 "tag": 89,
                 "queries": [
                     "Is my data really gone when I delete it?",
-                    ""
+                    "How do I know if my data is really deleted?"
                 ],
                 "answer": "A deleted file still exists on the hard drive and could easily be retrieved with recovery software. So, just because you can\u2019t see a file in the directory after it\u2019s been deleted doesn\u2019t mean that it\u2019s not there. This is a security issue most computer users do not take seriously until it\u2019s too late. To permanently delete your data, use eraser software or data shredding software.",
                 "source": "https://us.norton.com/internetsecurity-privacy-is-personal-data-really-gone-when-it-is-deleted.html#:~:text=The%20file%20still%20exists%20on,seriously%20until%20it's%20too%20late."
@@ -2619,7 +2619,7 @@
                 "tag": 90,
                 "queries": [
                     "When should I wipe my hard drive?",
-                    ""
+                    "When do I need to wipe my hard drive?"
                 ],
                 "answer": "If you are doing the any of the following: selling a computer, recycling a computer, giving a computer away, donating a computer, or cleaning out unnecessary files",
                 "source": "https://us.norton.com/internetsecurity-privacy-is-personal-data-really-gone-when-it-is-deleted.html#:~:text=The%20file%20still%20exists%20on,seriously%20until%20it's%20too%20late."
@@ -2628,7 +2628,7 @@
                 "tag": 91,
                 "queries": [
                     "What do I do to delete my data permanently before returning a computer?",
-                    ""
+                    "How do I wipe my hard drive?"
                 ],
                 "answer": "1. Back up the data you wish to keep\n2. Use data shredding software to clear your computer\n3. Perform a factory reset",
                 "source": "https://computing.which.co.uk/hc/en-gb/articles/208270025-How-to-factory-reset-a-computer#:~:text=If%20you're%20getting%20rid,and%20profile%20setup%20all%20removed."
@@ -2637,7 +2637,7 @@
                 "tag": 92,
                 "queries": [
                     "How do I factory reset my device?",
-                    ""
+                    "How do I do a factory reset?"
                 ],
                 "answer": "Click the Start menu and select the gear icon in the lower left to open up the Settings window. You can also select the Settings app from the app list. Under Settings, click Update & Security > Recovery, then select Get started under Reset this PC.\nApple:\n1. Restart your computer: hold the power button > select Restart when it appears 2. While the computer restarts, hold down the \u2018Command\u2018 and \u2018R\u2018 keys 3. Once you see the Apple logo appear, release the \u2018Command and R keys\u2019 4. When you see a Recovery Mode menu, select Disk Utility 5. Make sure the \u2018Macintosh HD\u2019 startup disk is highlighted in your Disk Utility window > select Erase 6. A pop-up window should appear. Change the Format to macOS Extended (Journaled) > select Erase again 7. Select Quit Disk Utility in the Disk Utilities menu. 8. A window will then appear giving you the option to reinstall macOS > select Install macOS 9. After the new macOS is installed, your computer has been successfully factory reset",
                 "source": "https://www.gearpatrol.com/tech/a695665/factory-reset-apple-devices/, "
@@ -2646,7 +2646,7 @@
                 "tag": 93,
                 "queries": [
                     "How can I kick unauthorized users off of my accounts?",
-                    ""
+                    "How do I sign out other users on my account?"
                 ],
                 "answer": "Change your password to an application or website to forcefully sign out unauthorized users.",
                 "source": ""
@@ -2655,7 +2655,7 @@
                 "tag": 94,
                 "queries": [
                     "Is Bluetooth secure?",
-                    ""
+                    "How secure is Bluetooth?"
                 ],
                 "answer": "Like most technology, bluetooth has security vulnerabilities. However, these vulnerabilities are closely monitored and fixed when they arise. Be cautious and do not connect to unknown devices.",
                 "source": ""
@@ -2664,7 +2664,7 @@
                 "tag": 95,
                 "queries": [
                     "How do I secure app accounts?",
-                    ""
+                    "What can I do to make my app accounts secure?"
                 ],
                 "answer": "Enable two-factor authentication, use strong passwords, and enable security questions/checks. In addition, change your password regularly to make your accounts more secure.",
                 "source": ""
@@ -2673,7 +2673,7 @@
                 "tag": 96,
                 "queries": [
                     "How do I remove a keylogger?",
-                    ""
+                    "What can I do to remove a keylogger?"
                 ],
                 "answer": "The best method of detecting and removing a keylogger is by using a combination of a strong anti-keylogger and anti-rootkit software that can find and eliminate keyloggers than your antivirus or antimalware utility.",
                 "source": "https://helpdeskgeek.com/featured-posts/hdg-explains-what-is-a-keylogger-how-do-i-remove-it-from-my-computer/"
@@ -2682,7 +2682,7 @@
                 "tag": 97,
                 "queries": [
                     "Can I keep my Wi-Fi default password?",
-                    ""
+                    "Is a default Wi-Fi password safe?"
                 ],
                 "answer": "Be sure to change your Wi-Fi network's default password as hackers will check a list of factory-default passwords when trying to break into a system.",
                 "source": ""
@@ -2691,7 +2691,7 @@
                 "tag": 98,
                 "queries": [
                     "Do I need to update my device?",
-                    ""
+                    "When do I need to update my device?"
                 ],
                 "answer": "Device updates, as long as they are from an official source, should be done regularly as they patch security issues and remove problematic bugs.",
                 "source": ""
@@ -2700,7 +2700,7 @@
                 "tag": 99,
                 "queries": [
                     "Do I need to update my antivirus software?",
-                    ""
+                    "When do I need to update my security software?"
                 ],
                 "answer": "Update your antivirus software as often as possible. When new bugs are found, antivirus software definitions are updated which provides greater security protection.",
                 "source": ""
@@ -2944,133 +2944,133 @@
             {
                 "tag": 26,
                 "queries": [
-                    "What if the IP address is already in use? ",
+                    "What if the network has slow connectivity?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "1. The most common error is transfer of large files, so a limit should be placed on the size. ",
+                "source": "https://ophtek.com/what-are-the-most-common-computer-network-problems/"
             },
             {
                 "tag": 27,
                 "queries": [
-                    "",
+                    "What if I have an IP conflict? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "1. Each PC has a personal IP address on your network. Sometimes however two pcs can be assigned to the same IP address. If this occurs the best option is to reset the router and assign new IP addresses to every pc on the network.",
+                "source": "https://ophtek.com/what-are-the-most-common-computer-network-problems/"
             },
             {
                 "tag": 28,
                 "queries": [
-                    "",
+                    "Why am I unable to connect to the local printer? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "1. This problem is often caused by a sharing issue whereby different security settings between PCs and the printers fail to agree with each other. 2. When this occurs it\u2019s recommended that you check firewall settings and that your Windows network adapters have printer sharing enabled. ",
+                "source": "https://ophtek.com/what-are-the-most-common-computer-network-problems/"
             },
             {
                 "tag": 29,
                 "queries": [
-                    "",
+                    "How do I connect to the wifi? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "1. Select network icon on taskbar. 2. Choose wifi network you want to connect to. Then connect. 3. Type the network password and click next. ",
+                "source": "https://support.microsoft.com/en-us/windows/connect-to-a-wi-fi-network-in-windows-10-1f881677-b569-0cd5-010d-e3cd3579d263"
             },
             {
                 "tag": 30,
                 "queries": [
-                    "",
+                    "What is wifi?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Wi-Fi is a wireless networking technology that allows devices such as computers (laptops and desktops), mobile devices (smart phones and wearables), and other equipment (printers and video cameras) to interface with the Internet.",
+                "source": "https://www.cisco.com/c/en/us/products/wireless/what-is-wifi.html#:~:text=Wi%2DFi%20is%20a%20wireless,to%20interface%20with%20the%20Internet.&text=Internet%20connectivity%20occurs%20through%20a%20wireless%20router."
             },
             {
                 "tag": 31,
                 "queries": [
-                    "",
+                    "What is bluetooth? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Bluetooth is a wireless technology that allows the exchange of data between different devices.",
+                "source": "https://www.businessinsider.com/what-is-bluetooth"
             },
             {
                 "tag": 32,
                 "queries": [
-                    "",
+                    "What is an IP address? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "An IP address is a unique address that identifies a device on the internet or a local network.",
+                "source": "https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address"
             },
             {
                 "tag": 33,
                 "queries": [
-                    "",
+                    "What is a computer network?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Computer networking refers to connected computing devices (such as laptops, desktops, servers, smartphones, and tablets) and an ever-expanding array of IoT devices (such as cameras, door locks, doorbells, refrigerators, audio/visual systems, thermostats, and various sensors) that communicate with one another.",
+                "source": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html"
             },
             {
                 "tag": 34,
                 "queries": [
-                    "",
+                    "What is the OSI model?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "OSI model stands for Open System Interconnection. It\u2019s a reference model which describes that how different applications will communicate to each other over the computer network.",
+                "source": "https://www.educba.com/computer-network-interview-questions/"
             },
             {
                 "tag": 35,
                 "queries": [
-                    "",
+                    "What is a hub? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Hub will broadcast all data to every port. It has a common connection point for all devices.",
+                "source": "https://www.educba.com/computer-network-interview-questions/"
             },
             {
                 "tag": 36,
                 "queries": [
-                    "",
+                    "What is a switch?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Switch will create the dynamic connection and provide information to the requesting port.",
+                "source": "https://www.educba.com/computer-network-interview-questions/"
             },
             {
                 "tag": 37,
                 "queries": [
-                    "",
+                    "What is HTTP? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "HTTP stands for Hyper Text Transfer Protocol and the port for this is 80. This protocol is responsible for web content.",
+                "source": "https://www.educba.com/computer-network-interview-questions/"
             },
             {
                 "tag": 38,
                 "queries": [
-                    "",
+                    "What is Firewall?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Firewall is a concept of a security system that will helps computers to protect it with unauthorized access or any cyber-attack.",
+                "source": "https://www.educba.com/computer-network-interview-questions/"
             },
             {
                 "tag": 39,
                 "queries": [
-                    "",
+                    "What is a node? ",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "A node is a basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes.",
+                "source": "https://en.wikipedia.org/wiki/Node_(computer_science)"
             },
             {
                 "tag": 40,
                 "queries": [
-                    "",
+                    "What is data storage?",
                     ""
                 ],
                 "answer": "",
@@ -3079,29 +3079,29 @@
             {
                 "tag": 41,
                 "queries": [
-                    "",
+                    "Should I change the automatic/default network settings on my computer?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Misconfiguration is the cause of as many as 80% of unplanned network outages on a device. Do not alter default settings without consulting multiple sources.",
+                "source": "https://www.prescientsolutions.com/blog/prevent-7-common-causes-network-failures/"
             },
             {
                 "tag": 42,
                 "queries": [
-                    "",
+                    "What are the advantages of using a VPN?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "A VPN will secure your network so that applications and websites cannot keep track of your online activity and target you with ads. A VPN can also encrypt the sensitive data you enter on websites (such as credit card numbers, etc.) so that hackers cannot intercept it. Additionally, a VPN will protect your computer when using a public WiFi network (hackers connected to the same WiFi network will not be able to access your computer). Finally, a VPN will thwart geo-blockers.",
+                "source": "https://www.fortinet.com/resources/cyberglossary/benefits-of-vpn"
             },
             {
                 "tag": 43,
                 "queries": [
-                    "",
+                    "What are the different types of VPN?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "VPNs come in two main types, remote acess VPNs and site-to-site VPNs. A remote access VPN permits a user to connect to a private network remotely. This is often the VPN an employee will use when working from home to access company files and resources from a private company network. Additionally, private or home users will use this type of VPN to bypass regional internet restrictions by appearing from another location or to enhance internet security and privacy. A site-to-site VPN is generally used by businesses to connect the network of one office location to the network of another office location.",
+                "source": "https://www.geeksforgeeks.org/types-of-virtual-private-network-vpn-and-its-protocols/"
             },
             {
                 "tag": 44,
@@ -3160,7 +3160,7 @@
             {
                 "tag": 50,
                 "queries": [
-                    "My wifi isn't working",
+                    "My Wi-Fi isn't working",
                     ""
                 ],
                 "answer": "Reboot your router. Turn your router off. Disconnect it from power for at least 30 seconds. Then, plug it back in and turn it on. If rebooting your router did not work, try rebooting your Mac. Power off your Mac, then power back on and try reconnecting. If this is unsuccessful, try forgetting your current network.\nOn a Mac, go to System>Preferences > Network. Select Wifi and then Advanced. Press (-) and select Remove. Try connecting to the network and entering the network password again.",
@@ -3187,200 +3187,200 @@
             {
                 "tag": 53,
                 "queries": [
-                    "",
+                    "What do I do when the VPN won't connect?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Here are a few things you can do to increase the strength of internet connection:\n1. Check your internet connection\n2. Check your login credentials\n3. Change the VPN server connection (VPNs often offer a group of servers you can connect to - try connecting to a different server)\n4. Restart the VPN software                                                       5. Check that your VPN software is up-to-date",
+                "source": "https://www.lifewire.com/vpn-not-connecting-2377980"
             },
             {
                 "tag": 54,
                 "queries": [
-                    "",
+                    "How do I connect to a hotspot with my Mac?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "On your Mac, choose the Apple (\uf8ff) menu > System Preferences, then click Bluetooth and make sure Bluetooth is on. Select the device providing Personal Hotspot, click Connect, then follow the onscreen instructions.",
+                "source": "https://support.apple.com/en-us/HT203302#:~:text=On%20your%20Mac%2C%20choose%20Apple,then%20follow%20the%20onscreen%20instructions."
             },
             {
                 "tag": 55,
                 "queries": [
-                    "",
+                    "Who is using my wifi and causing connectivity problems?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "To find out who\u2019s on your network, log in to your router\u2019s interface (use your cell phone if you can\u2019t get Wi-Fi on your computer) and look for a list labeled with a term like \u201cDHCP clients,\u201d \u201cconnected devices,\u201d or \u201cattached devices.\u201d Usually the name of the devices being used are included on the list (example: \u201cPeter\u2019s iPhone,\u201d \u201cRebecca\u2019s Macbook.\")",
+                "source": "https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide"
             },
             {
                 "tag": 56,
                 "queries": [
-                    "",
-                    ""
+                    "Where do I put my modem?",
+                    "Best location for modem"
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Keep it visible. Do not place inside or behind cabinets or furniture, and make sure modem vents are not blocked to prevent overheating. Also, position your modem upright with the space around the vents cleared. Allow at least 4 ft of space between your modem and other wireless devices, appliances, electronics, and metal, concrete, or glass.",
+                "source": "https://www.rogers.com/customer/support/article/where-to-place-your-modem"
             },
             {
                 "tag": 57,
                 "queries": [
-                    "",
+                    "What is my IP address?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Google \"What is my IP address.\" Google will return your public IP address.",
+                "source": "https://www.google.com/search?q=what+is+my+ip+address&oq=what+is+my+ip+address&aqs=chrome..69i57.5616j0j4&sourceid=chrome&ie=UTF-8"
             },
             {
                 "tag": 58,
                 "queries": [
-                    "",
+                    "My internet/wifi, TV, and phone aren't working",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Call your Internet Service Provider to see if there is an outage in your area.",
+                "source": "N/A"
             },
             {
                 "tag": 59,
                 "queries": [
-                    "",
+                    "How do I make my Mac remember a Wifi network?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Open System Preferences from the \uf8ff Apple menu. Go to \u201cNetwork\u201d, then choose \u201cWi-Fi\u201d from the menu. Choose the \"Advanced\u201d button in the corner. Then, within the \u201cWi-Fi\u201d tab, check the setting for \u201cRemember networks this computer has joined.\u201d Choose to Apply the settings, then close System Preferences",
+                "source": "https://osxdaily.com/2012/02/15/fix-for-mac-os-x-not-remembering-wireless-networks/"
             },
             {
                 "tag": 60,
                 "queries": [
-                    "",
+                    "How do I change my network password?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Use an internet browser on Mac or PC to open your router's configuration page by typing in your router's default IP address (often written along the underside of the router). Then log into your router using its username and password (often found along the underside of the router or from the router's manufacturer or your internet service provider). Click on the \"Wireless\" or \"Wireless Security\" option. Then, in the \"Wi-Fi Password\" or \"Key\" box, type in the password you want to set. Scroll down and click \"Save.\"",
+                "source": "https://www.businessinsider.com/how-to-change-wifi-password"
             },
             {
                 "tag": 61,
                 "queries": [
-                    "",
+                    "How do I change the name of my network?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Use an internet browser on Mac or PC to open your router's configuration page by typing in your router's default IP address (often written along the underside of the router). Then log into your router using its username and password (often found along the underside of the router or from the router's manufacturer or your internet service provider). Click on the \"Wireless\" or \"Wireless Security\" option. Then, in the \"Wi-Fi Network Name\" or \"SSID\" box, type in the WiFi name you want to set. Scroll down and click \"Save.\"",
+                "source": "https://www.businessinsider.com/how-to-change-wifi-password"
             },
             {
                 "tag": 62,
                 "queries": [
-                    "",
+                    "What internet service provider should I use?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Common internet service providers include Xfinity, AT&T Internet, Verizon, Spectrum, CenturyLink, Frontier, Cox, Suddenlink, Sparklight, Mediacom, Windstream, WOW, Optimum, Earthlink, Rise Broadband, Consolodated Communications, TDS Telecom, Google Fiber, HughesNet, and Viasat",
+                "source": "https://www.practicalecommerce.com/20-Top-Internet-Service-Providers"
             },
             {
                 "tag": 63,
                 "queries": [
-                    "",
+                    "Does an Ethernet cord make a faster internet connection than Wi-Fi?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Yes, an Ethernet cord will provide you with a faster, more consistent internet connection. Ethernet connections can reach speeds of up to 10 Gb/s and even the most common Ethernet cord provides a consistent internet speed of up to 1 Gb/s. Most WiFi connections have maximum speeds of 866.7 Mb/s or 150 Mb/s (based on 802.11ac or 802.11n standards, respectively).",
+                "source": "https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/"
             },
             {
                 "tag": 64,
                 "queries": [
-                    "",
+                    "What are the advantages of using an Ethernet connection?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Ethernet connections will allow for faster internet speeds than Wi-Fi connections. Additionally, Wi-Fi signals may experience interference and drop at times. Ethernet connections will allow for consistent internet access.",
+                "source": "https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/"
             },
             {
                 "tag": 65,
                 "queries": [
-                    "",
+                    "What is an Ethernet connection?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Ethernet cables allow you to physically connect a device to a network. This allows for faster internet speeds and more reliable connectivity.",
+                "source": "https://www.comms-express.com/blog/what-does-an-ethernet-cable-do/#:~:text=Ethernet%20is%20a%20way%20of,devices%20in%20a%20physical%20space.&text=Ethernet%20cables%20are%20a%20type,internet%20and%20network%2Denabled%20devices."
             },
             {
                 "tag": 66,
                 "queries": [
-                    "",
+                    "What is a VPN?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "A VPN (Virtual Private Network) allows you to preserve online privacy and anonymity by creating a private network from a public internet connection. VPNs create a data tunnel between your local network and an exit node in another location, which could be thousands of miles away, making it seem as if you\u2019re in another place. They also encrypt your data.",
+                "source": "https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html"
             },
             {
                 "tag": 67,
                 "queries": [
-                    "",
+                    "What is an IP address?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "An IP address is a unique address that identifies a device on the internet or a local network. IP stands for \"Internet Protocol,\" which is the set of rules governing the format of data sent via the internet or local network. IP addresses contain location information and make devices accessible for communication.",
+                "source": "https://www.kaspersky.com/resource-center/definitions/what-is-an-ip-address"
             },
             {
                 "tag": 68,
                 "queries": [
-                    "",
+                    "What is a router?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Your modem is a box that connects your home network to the wider Internet. A router is a box that lets all of your wired and wireless devices use that Internet connection at once and also allows them to talk to one another without having to do so over the Internet.",
+                "source": "https://www.nytimes.com/wirecutter/blog/modem-vs-router/"
             },
             {
                 "tag": 69,
                 "queries": [
-                    "",
+                    "What is a modem?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Your modem is a box that connects your home network to the wider Internet. A router is a box that lets all of your wired and wireless devices use that Internet connection at once and also allows them to talk to one another without having to do so over the Internet.",
+                "source": "https://www.nytimes.com/wirecutter/blog/modem-vs-router/"
             },
             {
                 "tag": 70,
                 "queries": [
-                    "",
+                    "What do I need to set up Wi-Fi in my house?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "In order to set up Wi-Fi in your house, you will need to select an internet service provider, modem, router, Ethernet cables, and surge protectors/extension cords.",
+                "source": "https://www.mymove.com/broadband/guides/wifi-for-home-move/"
             },
             {
                 "tag": 71,
                 "queries": [
-                    "",
+                    "Does a hotspot use cellular data?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Some cell carriers will simply count your hotspot data use against your cell phone plan's overall data limit.  Alternatively, many plans include a limited amount of designated high-speed hotspot data that isn't counted against your overall data. Usually, this applies to unlimited plans offered by the major carriers. You might see hotspot data limits ranging anywhere between 20GB to 100GB per month. Once you hit your limit, your hotspot data speeds will be slowed. In either scenario, your mobile hotspot doesn't cost any extra unless your plan has a data cap. If your hotspot usage puts you over your monthly data limit, you'll pay for the extra data you use.",
+                "source": "https://www.whistleout.com/CellPhones/Guides/How-Much-Data-Does-Hotspot-Use#:~:text=as%20a%20hotspot.-,How%20Much%20Data%20Do%20Hotspots%20Use%3F,doing%20on%20your%20other%20devices."
             },
             {
                 "tag": 72,
                 "queries": [
-                    "",
+                    "Does having Bluetooth on drain my laptop's battery?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Bluetooth only uses your device's battery when it is actively being used.",
+                "source": "https://chipolo.net/en-us/blogs/bluetooth-drains-your-phone-battery-myth-or-fact#:~:text=This%20widespread%20misinterpretation%20has%20a,it%20is%20being%20actively%20used."
             },
             {
                 "tag": 73,
                 "queries": [
-                    "",
+                    "How fast should my internet be if I'm working online?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "You should have at least 10 Mbps of download speed and 1 Mbps of upload speed of dedicated internet bandwidth for each person working from home.",
+                "source": "https://www.highspeedinternet.com/resources/how-much-internet-speed-to-work-from-home#:~:text=What%20is%20a%20good%20internet,the%20same%20time%20without%20interruptions."
             },
             {
                 "tag": 74,
                 "queries": [
-                    "",
+                    "How do I check my internet speed?",
                     ""
                 ],
-                "answer": "",
-                "source": ""
+                "answer": "Google \"check my internet speed.\"\nGoogle will check your internet speed in under 30 seconds through Measurement Lab.",
+                "source": "https://www.google.com/search?q=check+my+internet+speed&ei=bSmwYIKpNK2F9PwP8KKvEA&oq=check+my+internet+speed&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAguEMcBEKMCOgUIABCxAzoLCC4QsQMQxwEQowI6CAgAELEDEIMBOgIILjoFCAAQyQM6BwgAELEDEEM6BQgAEJIDOgUIABCRAlCMPliSVWDbVWgAcAJ4AIABc4gBhw-SAQQyMi4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjCk6KhgOvwAhWtAp0JHXDRCwIQ4dUDCA4&uact=5"
             },
             {
                 "tag": 75,
@@ -3876,46 +3876,46 @@
             {
                 "tag": 24,
                 "queries": [
-                    "",
+                    "Where to find my computer's serial number?",
                     ""
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "Open a Command Prompt window to get started. Press Windows + R, type \u201ccmd\u201d into the Run dialog, and then press Enter.\nAt the Command Prompt, type the following command and then press Enter:\n    wmic bios get serialnumber\nYou\u2019ll see the computer\u2019s serial number displayed beneath the text \u201cSerialNumber\u201d. This command uses the Windows Management Instrumentation Command-line (WMIC) tool to pull the system\u2019s serial number from its BIOS.\nIf you don\u2019t see your PC\u2019s serial number, blame your PC\u2019s manufacturer. The number will only appear here if the PC manufacturer saved it to your computer\u2019s BIOS or UEFI firmware. PC manufacturers don\u2019t always fill in the number properly. In that case, you\u2019ll see something like \u201c0\u201d or \u201cTo be filled by O.E.M.\u201d instead of an actual serial number.\nThis is also true if you built your own PC because the PC itself won\u2019t have a serial number. However, you can look up the serial number of your motherboard and other components.\n",
+                "m_answer": "If your Mac is working properly, finding the serial number is easy. Just click the Apple menu icon at the top of the screen and select \u201cAbout This Mac\u201d\nYou\u2019ll see the serial number displayed along with your Mac\u2019s model number, hardware specifications, and the version of macOS you have installed.",
+                "w_source": "https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/",
+                "m_source": "https://www.howtogeek.com/294665/how-to-find-your-macs-serial-number-even-if-you-dont-have-your-mac/#:~:text=If%20your%20Mac%20is%20working,select%20%E2%80%9CAbout%20This%20Mac%E2%80%9D.&text=You'll%20see%20the%20serial,of%20macOS%20you%20have%20installed."
             },
             {
                 "tag": 25,
                 "queries": [
-                    "",
+                    "How to activate airplane mode?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "1. Click on the Start button, and then select Settings from the Start menu.\n2. In the Settings window, click on Network & Internet.\n3. In the Network & Internet window, select Airplane mode.\n4. In the Airplane mode area, click on the button to turn on airplane mode. (Note:  In the Wireless devices area, Wi-Fi and Bluetooth are automatically turned off when you turn on Airplane mode.)",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://uis.georgetown.edu/airplane-mode-2/",
                 "m_source": ""
             },
             {
                 "tag": 26,
                 "queries": [
-                    "",
-                    ""
+                    "I can't hear any sound",
+                    "Computer speakers not working"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. Check your cables and volume. Verify your speakers or headphones are plugged into the proper jacks and the volume is turned up. Then, check your volume levels within Windows by right-clicking the speaker icon in your system tray, then select Volume Mixer from the list of options.\n2. Verify that the current audio device is the system default. If your speakers or headphones use a USB or HDMI port, you might need to make that device your default. To do that:\n- Type sound in the Windows 10 search box, then select Sound from the list of results.\n- Select the Playback tab then select your audio device.\n- Select Set Default.\n3. Restart your PC after an update. A lot of Windows 10 updates require the restart your device after installation, and if you haven't done so yet it could cause your audio problem.\n4. Try a System Restore. If you still have no sound after installing the updates, you could try going back to a previous system restore point. Windows creates one whenever it installs an update for your device, just in case there's a problem.\n5. Run the Windows 10 Audio Troubleshooter. It can diagnose and fix a variety of common sound problems. To use it:\n- Type audio troubleshooter into the Windows 10 search box.\n- Select Find and fix audio playback problems.\n- When the troubleshooter appears, follow the on-screen prompts.\n6. Update your audio driver. If your sound still isn't working, updating your Windows 10 drivers could resolve the problem.\n7. Uninstall and reinstall your audio driver. If updating your Windows 10 audio driver doesn't work, try uninstalling and reinstalling it. Find your sound card in the Device Manager again, then right-click it and select Uninstall. Windows re-installs the driver at the next system reboot.\n",
+                "m_answer": "Unplug any headphones or external speakers.\nOn your Mac, choose Apple menu  > System Preferences, click Sound, then click Output. Make sure \u201cInternal Speakers\u201d is selected, the \u201cOutput volume\u201d slider is not all the way to the left, and the Mute checkbox is not selected.",
+                "w_source": "https://www.lifewire.com/fix-no-sound-windows-10-4587022#:~:text=Update%20your%20audio%20driver.,drivers%20could%20resolve%20the%20problem.&text=If%20updating%20your%20Windows%2010,click%20it%20and%20select%20Uninstall.",
+                "m_source": "https://support.apple.com/guide/mac-help/if-you-cant-hear-sound-from-your-speakers-mchlp1439/mac"
             },
             {
                 "tag": 27,
                 "queries": [
-                    "",
-                    ""
+                    "My microphone is not working",
+                    "Microphone not detecting sound"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "Make sure apps have access to the microphone\nIf your microphone isn't detected after updating Windows 10, you may need to give your apps permission to use it.\n- To let apps access the microphone, select Start  ,then select Settings  > Privacy  > Microphone  . Select Change, then turn on Allow apps to access your microphone.\n- After allowing access to the microphone, you can choose which Microsoft Store apps can access these features under Choose which Microsoft Store apps can access your microphone, and give access to non-Microsoft-Store desktop apps by ensuring that the switch beneath Allow desktop apps to access your microphone is set to On.\n\nOthers can't hear me\nTry the following solutions:\n- If your headset has a Mute button, make sure it isn't active.\n- Make sure that your microphone or headset is connected correctly to your computer.\n- Make sure that your microphone or headset is the system default recording device. Here's how to do this in Windows 10:\n    - Select Start , then select Settings  > System > Sound .\n    - In Input, ensure your microphone is selected in Choose your input device.\n    - To test your microphone, speak into it and check Test your microphone to make sure Windows is hearing you.\n\nThe microphone volume is too low or does not appear to be working at all\nTry the following solutions:\n- Make sure that the microphone or headset is connected correctly to your computer.\n- Make sure that the microphone is positioned correctly.\n- Increase the volume of your microphone. Here's how to do this in Windows 10:\n    - Select Start  , then select Settings  > System > Sound .\n    - In Input, ensure your microphone is selected under Choose your input device, then select Device Properties.\n    - On the Levels tab of the Microphone Properties window, adjust the Microphone and Microphone Boost sliders as needed, then select OK.\n    - Speak into your microphone while checking under Test your microphone to make sure your settings work. If you see the line moving from left to right, your microphone is working. If you see no change, the microphone is not picking up sound.",
+                "m_answer": "Check the Sound Input Settings\nA common cause of microphone problems is a misconfigured sound input. Head to System Preferences > Sound, and then click the \u201cInput\u201d tab. You should see a list of devices you can use as a sound source, including, (hopefully) the microphone you want to use.\nTo use a device, such as \u201cInternal Microphone,\u201d click it. If everything goes according to plan, you should see the bars fill up next to \u201cInput Level\u201d as you speak.\nIf you don\u2019t see anything, increase the \u201cInput Volume\u201d slider and try speaking again. If the slider is too low, your Mac won\u2019t detect any sound.\nIf you want to use your AirPods as your microphone, select \u201cAirPods\u201d from the list. If you\u2019re using an audio interface, select it from the list.\nYou might also see entries for other apps you have installed, like \u201cSoundflower\u201d or \u201cAggregate Device,\u201d but you don\u2019t want to use any of those right now.\nIf you see movement in the \u201cInput Level\u201d indicator, that\u2019s a good sign, but more troubleshooting might be necessary to get things working properly.\n\nAnother common cause of microphone problems is Apple\u2019s expanded permissions system. It prevents apps from accessing the microphone until you specifically allow it. When apps want to access the microphone, a notification should appear asking you to approve or deny the request.\nIf you deny the request, the app won\u2019t be able to access the computer\u2019s mic. It\u2019s often a good idea to deny apps access to your hardware until you\u2019re confident it needs it to function properly.\nHead to System Preferences > Security and Privacy > Privacy, and select \u201cMicrophone\u201d from the sidebar. You should see a list of apps that have requested access to your microphone. Any you have approved will have a checkmark next to them, while those you\u2019ve denied will not.",
+                "w_source": "https://support.microsoft.com/en-us/windows/fix-microphone-problems-5f230348-106d-bfa4-1db5-336f35576011#:~:text=Make%20sure%20that%20the%20microphone,connected%20correctly%20to%20your%20computer.&text=On%20the%20Levels%20tab%20of,make%20sure%20your%20settings%20work.",
+                "m_source": "https://www.howtogeek.com/682514/microphone-not-working-on-a-mac-heres-how-to-fix-it/#:~:text=A%20common%20cause%20of%20microphone,microphone%20you%20want%20to%20use.&text=If%20the%20slider%20is%20too,won't%20detect%20any%20sound."
             },
             {
                 "tag": 28,
@@ -3986,8 +3986,8 @@
             {
                 "tag": 34,
                 "queries": [
-                    "",
-                    ""
+                    "How do you delete partitions on your hard drive?",
+                    "delete partitions on hard drive"
                 ],
                 "w_answer": "",
                 "m_answer": "",
@@ -3997,197 +3997,197 @@
             {
                 "tag": 35,
                 "queries": [
-                    "",
-                    ""
+                    "How to eject a USB safely?",
+                    "How to take out USB from my computer safely?"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "Using Notification Area: 1) In the notification area of the taskbar, click the up arrow to view the items in the systray. Then, right-click the Eject Media icon. 2) A menu lists the removable media you can eject. Click the name of your USB flash drive. In this example, the option to eject the USB flash drive is named \"Eject Cruzer Glide.\" After clicking the eject option, wait for a message stating it is safe to remove the hardware before pulling the flash drive out of your computer.\nUsing FIle Explorer: 1) Open File Explored by Pressing Windows Key + E. 2) On the left, click This PC. 3) On the right, right-click your USB flash drive. 4) Select Eject.",
+                "m_answer": "In Mac: Eject a USB drive in Mac OS. With Command + E keyboard shortcut. 1) Locate the USB drive on your desktop. Click it once to select it. 2) On your keyboard, press command + E to eject the flash drive. Another way is through In Finder. Open the FInder Utility. On the left, locate your USB flash drive under Devices. Click the eject icon to the right of the flash drive.",
+                "w_source": "https://www.computerhope.com/issues/ch001943.htm#:~:text=Open%20File%20Explorer%20by%20pressing,Select%20Eject.",
+                "m_source": "https://www.computerhope.com/issues/ch001943.htm#:~:text=Open%20File%20Explorer%20by%20pressing,Select%20Eject."
             },
             {
                 "tag": 36,
                 "queries": [
-                    "",
-                    ""
+                    "Have to take out CMOS battery in order to start computer, why is that?",
+                    "Computer won't start unless CMOS Battery is Taken Out and Put Back In"
                 ],
-                "w_answer": "",
+                "w_answer": " It does sound like a CMOS battery issue or maybe the battery connection on the motherboard. I would start by replacing the battery for sure. It should have a number on it so you can get the right type to replace it with. It wouldn't be hard drive related since you don't need to have a hard drive installed to POST your computer. Once you replace the battery go into the BIOS and make sure all your date and time settings are correct and make sure your hard drive is detected properly etc. If replacing the battery doesn't help then it may be something with the motherboard itself that may require you to replace it.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a",
                 "m_source": ""
             },
             {
                 "tag": 37,
                 "queries": [
-                    "",
-                    ""
+                    "Recently when turn on the pc I am getting a message \"chassis is open and to Press F1 to continue or Press del to enter bios. I tried it the in bios but problem is not solved.",
+                    "How to fix the \"Chassis is open\" Error?"
                 ],
-                "w_answer": "",
+                "w_answer": "On some computers there will be a switch that is tripped when the case is open to alert you of the fact. If you go into the BIOS there should be a setting to reset the alarm. Double check all of your BIOS settings to find the section for the alarm. If you cannot find it you will need to contact the manufacturer to find out where the correct area is.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-aa",
                 "m_source": ""
             },
             {
                 "tag": 38,
                 "queries": [
-                    "",
+                    "When I hit the switch to turn my computer on it goes on for 1 second and then it seems like it looses power and goes off, is there a problem with the power supply, or is it something else?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "It could be a power supply or possibly the power switch or even the motherboard. You can bypass the power switch by finding where the 2 pin wire connects on the motherboard and unplug it. Then take a flathead screwdriver and short the connection. That is make contact with both pins on the motherboard at the same time to start the computer and see if it stays running. If so you most likely have a bad switch on the case.\n\nNext I would try the power supply. They are cheap and easy to replace. If that doesn't work it may be that you have a bad motherboard.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a",
                 "m_source": ""
             },
             {
                 "tag": 39,
                 "queries": [
-                    "",
-                    ""
+                    "How do I connect TV cable to my computer so I can watch TV on it?",
+                    "How can I connect my computer to my TV?"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "To connect your TV to your computer you will need a TV tuner video card or a video card with a TV input which is is a regular video card but it will also have a coaxial cable connector that you can plug your TV cable into. It will usually come with software that you can use to watch TV on your computer. Just make sure whatever card you get supports TV in rather than TV out or has both features.",
+                "m_answer": "Connect one end of the video cable (or an adapter, if necessary) to the computer\u2019s Thunderbolt port , HDMI port, or DVI port , then connect the other end of the cable to the TV\u2019s video input port.\n\nIf you need to adjust the resolution on your TV, choose Apple menu  > System Preferences, click Displays, then click Display. Select \u201cDefault for display\u201d to automatically use the best resolution, or select Scaled to manually select a resolution.\n\nIf you want your HDTV to play audio as well as video from your Mac, choose Apple menu > System Preferences, click Sound, then click Output.\n\nSelect your HDTV in the list of devices. If you want to play audio on a different device (such as your computer\u2019s speakers or an AV receiver that\u2019s part of your sound system), select it instead.\n\nNote: If your Mac has a Mini DisplayPort , make sure you use a cable (and adapter, if necessary) that supports both audio and video.",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a",
+                "m_source": "https://support.apple.com/guide/mac-help/use-your-tv-as-a-display-mchlp1206/mac#:~:text=Connect%20your%20Mac%20to%20your%20TV,the%20TV's%20video%20input%20port."
             },
             {
                 "tag": 40,
                 "queries": [
-                    "",
+                    "My computer has started to hum extremely loudly and vibrate. It is usually very quiet when running.",
                     ""
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "When a computer makes a loud humming sound and vibrates many times it is the CDROM spinning because it\u2019s reading a CD. If you have a CD in the drive you should take it out if you aren't using it because the computer will tend to read the CD in the drive for various reasons.\n\nIf that's not the case then you may have a fan that is getting noisy or about to go out. There are fans in the power supply, on the processor and usually mounted inside the case. It\u2019s hard to say which one it is without being able to look inside. You may want to open the case and run the computer to see where the noise is coming from. Other than that there are no other moving parts inside the computer except for the hard drive platters which shouldn't be able to vibrate your case.",
+                "m_answer": "Get a replacement fan from Apple",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a",
+                "m_source": "https://discussions.apple.com/thread/1661607"
             },
             {
                 "tag": 41,
                 "queries": [
-                    "",
-                    ""
+                    "How do I reset a BIOS password?",
+                    "BIOS Password Reset"
                 ],
-                "w_answer": "",
+                "w_answer": "There are a couple of ways to try and reset the password. The first thing you can try is to remove the CMOS battery and leave it out for about 20 min and then put it back in. This will clear all the settings and should clear the password too. You will most likely have to reset the system time etc in the BIOS.\n\nAnother option is to see if there is a generic password for your brand of computer that you can use to get into the settings and clear the password. Many companies use a standard password just in case something like this happens.\n\nIf you can find the motherboard manual then there might be a jumper you can short to clear the BIOS password.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a",
                 "m_source": ""
             },
             {
                 "tag": 42,
                 "queries": [
-                    "",
+                    "Upon startup I get a message saying low battery voltage, push F1 to continue. I push F1 and everything appears to be OK. Whats the problem?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "It sounds like it's a message about your CMOS battery which is on your motherboard. It stores information such as the date and time and your hardware configuration. They are pretty cheap and easy to replace. You can find them at electronic stores or sites like amazon.com. You can look at it to get the part number and buy a new one and then take it out and replace it. Just make sure the computer is off and unplugged before doing so. Keep in mind that you may have to reset the date and time in the BIOS afterward.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a?start=25",
                 "m_source": ""
             },
             {
                 "tag": 43,
                 "queries": [
-                    "",
+                    "How dangerous is it to have a physically dirty computer?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "The main thing to worry about with a dirty computer is dust on the inside that will cause it to overheat. Dust can act like an insulator keeping the heat in. It can also get into your fans and cause them to fail over time. If you have dirt blocking the case vent holes that that can cause overheating too. If dirt gets into slots like PCI slots then it can affect the connectivity of your components causing problems as well. You should clean your computer once in awhile to keep it running efficiently and to avoid potential problems down the road.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a?start=25",
                 "m_source": ""
             },
             {
                 "tag": 44,
                 "queries": [
-                    "",
+                    "I have problems with starting my PC and it starts with a really loud fan. Usually the loud fan stops but now it just keeps going. Why is that?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "On many computers the fan spins up much faster during startup and the quiets down in a few seconds or so. If your computer is running hot then the fan may spin faster to try and keep it cool. This may be caused by things such as the environment you are using it in, being really dusty on the inside or if one of the other fans stops working. I would boot up into the BIOS and see if you have a temperature setting that you can watch while the computer is running to see how hot it gets. Or you can use Speccy within Windows to see the temperature. If the temperature stays at a reasonable level but the fan stays on high then it could be a problem with the fan or the controller for the fan's speed and one or the other may need to be replaced.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a?start=25",
                 "m_source": ""
             },
             {
                 "tag": 45,
                 "queries": [
-                    "",
+                    "Why doesn't my card reader show up in My Computer in Windows unless it has pictures on it?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "By default, Windows will hide removable media drives that don't have anything on them such as card readers. This is most likely done to avoid cluttering up your Explorer view with a bunch of empty card reader slots that aren't being used.\n\nThere is a setting you can change so that your card reader drives are always shown in Windows Explorer whether they are empty or not. To do this you need to go to your Folder Options settings. To get there open Windows Explorer or Computer and go to the Tools menu and then choose Folder Options. If you don't have the Tools menu shown then you can click on Organize and then click Layout and check Menu bar to have the menus show up in Windows Explorer.\n\nOnce you are in the Folder Options section, click on the View tab and uncheck the box that says Hide empty drives in the Computer folder. You can change other options here to such as having hidden files and folders shown as well as having Windows show file extensions for all files which is very handy. After you make your selections click on Apply to Folders to have the setting applied to all folders you open in the future. And now you should be able to see your card reader drives even when there is nothing in them.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://www.onlinecomputertips.com/q-a/hardware-q-a?start=255",
                 "m_source": ""
             },
             {
                 "tag": 46,
                 "queries": [
-                    "",
+                    "What do I need in order to burn my own CDs?",
                     ""
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "To create or \"burn\" your own CDs, you need three things: 1) an operating system or program that supports CD burning, 2) a CD-burner, and 3) recordable CDs.\n\nOf the three, it is most likely that you already have the first one. All recent versions of Microsoft Windows and Apple's Mac OS support CD burning. Programs like iTunes and Toast can be used if the operating system does not include CD burning functions.\n\nSecondly, you need a CD burner. Technically, this is either a CD-R or CD-RW drive. A basic CD-ROM drive will not burn CDs. CD-R drives can record data on recordable CDs, while CD-RW drives can write and rewrite data onto rewritable CDs as well as record once on regular CD-R discs. CD burners can be either internal (inside the computer) or external devices. If you buy an internal drive, it may be wise to have an authorized technician install it.\n\nOnce you have installed the CD burner hardware, you need discs to use with the CD burner. As described earlier, CD-R discs can be recorded once while CD-RW discs can be erased and rewritten multiple times. CD-RW discs can only be used with CD-RW drives. Once you have some blank CD-Rs, just insert one of the discs into your CD burner and follow you operating system's instructions for creating either a data or audio CD.",
+                "m_answer": "Insert a blank disc into your optical drive.\n\nIf you see a dialogue, click the pop-up menu, then choose Open Finder. Select \u201cMake this action the default\u201d if you want to open the Finder every time you insert a blank disc.\n\nThe disc appears on your desktop.\n\nDouble-click the disc to open its window, then drag the files and folders you want to burn to the window.\n\nAliases to the files are placed in the disc\u2019s window. The original files are not moved or deleted.\n\nNote: If you want to burn the same files to discs multiple times, use a burn folder.\n\nArrange and rename the files.\n\nWhen the disc is burned, the items on the disc have the same names and locations that they have in the disc window. After the disc is burned, you can\u2019t change the items.\n\nChoose File > Burn [disc], then follow the instructions.\n\nThe files that the aliases point to are burned to the disc. In addition, if the folders you add to the disc contain aliases, the files those aliases point to are also burned to the disc.\n\nNote: If you eject the disc without burning it, a burn folder with the items you copied to the disc is created and placed on your desktop. To complete the burn process, click the Burn icon  next to the folder in the Finder sidebar, or press and hold the Control key as you click any disc, then choose Burn Disc from the shortcut menu.",
+                "w_source": "https://pc.net/helpcenter/answers/cd_burning_requirements",
+                "m_source": "https://support.apple.com/en-gb/guide/mac-help/mchl8addfd95/mac"
             },
             {
                 "tag": 47,
                 "queries": [
-                    "",
+                    "What are the Alt (Option) and Control (Ctrl) keys for?",
                     ""
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "These keys on the keyboard are called \"modifier keys.\" They are typically used in conjunction with another key on the keyboard to perform a specific function. For example, in Windows, Alt-F4 (press and hold Alt, then press F4) is often a shortcut to close the active window. Control-C is usually a shortcut to copy selected text or a selected object. Control-V is the shortcut for pasting the copied data.",
+                "m_answer": "On the Macintosh, the Command (or Apple) key typically has the same function as the Control key in Windows. The Control key on the Mac can be pressed while clicking the mouse button to perform a right-click. Many programs on both Macs and PCs use mutliple modifier keys for shortcuts for certain operations.",
+                "w_source": "https://pc.net/helpcenter/answers/alt_and_control_keys",
+                "m_source": "https://pc.net/helpcenter/answers/alt_and_control_keys"
             },
             {
                 "tag": 48,
                 "queries": [
-                    "",
+                    "Why is my mouse jumpy?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "If the cursor on your screen isn't following the movement of your hand, there's a good chance you've got a dirty mouse. No matter how hard you try, it is basically impossible to keep your mouse pad dust and dirt free. And after hours and hours of rolling on a dirty surface, your mouse ball is bound to pick up some gunk. This grime gets twisted around the rollers inside your mouse and prevents them from rolling smoothly against the mouse ball. Since these rollers are what tell your computer what the mouse is doing, it's not good when they don't roll.\n\nSo if your cursor isn't moving how you want it to, before you decide to throw your mouse against the wall, check to see how dirty it is. To check the mouse, twist off the cover on the bottom that holds the ball in. Then take out the ball and examine the rollers. If you can see stuff on them, it's time to clean 'em. To clean the inside of your mouse, you can use a Q-tip or even your fingernails to get the dirt off the rollers. Make sure you clean all the way around them. Then blow inside the mouse to make sure everything gets out.\n\nFinally, wash off the mouse ball with soap and water and dry it. It is also a good idea to clean off your mouse pad. Once you've done all this, you can put the clean ball back in your clean mouse and experience smooth rolling freedom once again.\n\nOf course, if you have an optical mouse, this should never be a problem. =)",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://pc.net/helpcenter/answers/jumpy_mouse",
                 "m_source": ""
             },
             {
                 "tag": 49,
                 "queries": [
-                    "",
+                    "What does it mean when a computer is \"low on resources?\"",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "The resources a computer has are mainly processing speed, hard disk storage, and memory. The phrase \"low on resources\" usually means the computer is running out of memory. The best way to prevent this error from coming up is to install more RAM on your machine. Upgrading your RAM is the best performance booster you can give your computer, and it usually doesn't cost a lot.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://pc.net/helpcenter/answers/low_on_resources",
                 "m_source": ""
             },
             {
                 "tag": 50,
                 "queries": [
-                    "",
+                    "Why won't my scanner work?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "The drivers may have not been installed correctly (this is the most likely problem). Try reinstalling the software that came with the scanner.\nThe SCSI ID the scanner is using is already in use. Each SCSI device must have a unique ID or conflicts will happen. To change the ID, select a new number (most likely on the the back of the scanner).\nThe scanner or scanner software is incompatible with the computer. Check to see if the computer meets the scanner requirements. Also check for the latest version of drivers at the manufacturer's web site.\nYou don't have a good software program to control and import the scans. If the scanner didn't come with any software programs, the best program to use is Adobe Photoshop. If you just need a simple program that won't empty the bank, try Adobe Photoshop LE, Adobe PhotoDeluxe, or Jasc Paintshop Pro.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://pc.net/helpcenter/answers/scanner_wont_work",
                 "m_source": ""
             },
             {
                 "tag": 51,
                 "queries": [
-                    "",
+                    "Why do videos run slow on my computer?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "First of all, make sure you have the latest driver software for your video card. To get the latest version, you can go to the video card company's web site and download the driver update for free. I would suggest defragmenting the hard drive, since excessive hard disk scanning can prevent smooth audio and video playback.\n\nIf neither of these options do the trick, try upgrading to the latest version of the software you are using to play the movies. Finally, if that doesn't work, you might just not have enough hardware power to play the video smoothly. That means you need to actually go buy a new video card if you want smooth, high-quality video.",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://pc.net/helpcenter/answers/videos_run_slowly",
                 "m_source": ""
             },
             {
                 "tag": 52,
                 "queries": [
-                    "",
+                    "What does scalable mean, in reference to a computer?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "Scalable is synonymous with expandable. A computer with a scalable architecture is able to be upgraded easily and for a long time. When buying network equipment, it is especially important that it is scalable so that it can work with the newer systems that may be added on later. The less scalable your equipment is, the sooner you'll be forced to upgrade.",
                 "m_answer": "",
                 "w_source": "",
                 "m_source": ""
@@ -4195,46 +4195,46 @@
             {
                 "tag": 53,
                 "queries": [
-                    "",
+                    "Can I change my computer's MAC address?",
                     ""
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "Windows users can change the local MAC address of some network cards by opening the Network Connections control panel, right-clicking the current network connection, and selecting \"Properties\". When the Properties window opens, press the \"Configure...\" button, click the Advanced tab, and select the \"Locally Administered Address\" option. You can then enter a new MAC address in the \"Value\" field. Advanced users can also change the local MAC address by manually editing the Windows registry. Once the MAC address has been modified, you will need to restart your computer for the changes to take effect.",
+                "m_answer": "Macintosh users can change their local MAC address by running ifconfig in the Terminal application or using a program like ChangeMAC.",
+                "w_source": "https://pc.net/helpcenter/answers/changing_a_mac_address",
+                "m_source": "https://pc.net/helpcenter/answers/changing_a_mac_address"
             },
             {
                 "tag": 54,
                 "queries": [
-                    "",
+                    "How to connect my fax machine to my computer?",
                     ""
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "Step 1\nLocate the telephone line port on your all-in-one fax machine, commonly found on the side or rear of the device. You can also refer to your fax machine\u2019s user manual for a diagram displaying the location of the telephone line port. Insert the telephone cord in the port.\n\nStep 2\nInsert the other end of the telephone cord in a standard RJ-11 telephone jack.\n\nStep 3\nConnect a USB cable to the USB port of the printer. Connect the other end of the USB cable to your computer\u2019s USB port. If you are connecting the fax machine to a broadband router, connect an Ethernet cable to your fax\u2019s Ethernet port.\n\nStep 4\nPlug in the fax device and turn it on. Power up your host PC.\n\nStep 5\nInsert the driver disc supplied with your fax in your host PC\u2019s CD tray. Your computer will begin an installation process. You must follow the prompts of the installation wizard to install the fax\u2019s operating software on your PC.\n\nStep 6\nInsert the fax\u2019s driver disc in each computer on your office network that will use the fax and follow the installation wizard prompts for installation. Open the fax\u2019s operating program on each computer. You have connected your computer to your fax machine and can send faxes from your PC with the fax program\u2019s user interface.\n\n",
+                "m_answer": "Do one of the following:\nMac OS X 10.6/10.7: In the Apple menu or the Dock, select System Preferences. Select Print & Fax or Print & Scan, select the FAX option for your product, and select Options & Supplies. Select Utility and select Open Printer Utility.\nMac OS X 10.4/10.5: In the Apple menu or the Dock, select System Preferences. Select Print & Fax, select the FAX option for your product, and select Open Print Queue or Print Queue. Select Utility.\nDouble-click FAX Utility. Select your FAX product in the Printer list.\nSelect Fax Settings.\nFollow the prompts that appear on the screen to enter your fax header information and select your fax settings.\n",
+                "w_source": "https://yourbusiness.azcentral.com/connect-fax-pc-2230.html",
+                "m_source": "https://files.support.epson.com/htmldocs/wf545_/wf545_ug/source/faxing/tasks/setup_fax_mac.html"
             },
             {
                 "tag": 55,
                 "queries": [
-                    "",
+                    "How to connect your phone to a computer?",
                     ""
                 ],
-                "w_answer": "",
+                "w_answer": "In the search box on the taskbar, type your phone, and then select the Your Phone app from the results.\n\nSelect Android from the list of phone models.\n\nYou\u2019ll be asked to sign in to your Microsoft account. (You'll need to be signed in to the same Microsoft account on both your Android device and PC in order to link your devices.)\n\nOnce you're signed in, you'll be prompted to install or open the companion app on your Android device. To do this, open a web browser on your Android device and then enter the link that's displayed on your PC (www.aka.ms/yourpc). \n\nFor Surface Duo and select Samsung devices, this link will open the Link to Windows app you have preinstalled on your device. For other Android devices, you'll be directed to your app store to download the Your Phone Companion app (companion app). \n\nSign in to the companion app with the same Microsoft account that you're signed in to on your PC. The app will then open to a screen that displays a QR code for you to scan \u2014 we'll come back to that in a second. \n\nOnce you've signed in, go back to your PC and select the I have the Your Phone Companion app installed on my phone check box. Then select the Pair with QR code button. \n\nNote: If you'd like to pair your device without using a QR code, select the Pair manually button on your PC instead. On your Android device, you'll be prompted to enter the code displayed on your PC.\n\nA QR code will appear on your PC screen. On your Android device, the companion app should be open to a screen with a camera on it. Use this screen to scan the QR code that's displayed on your PC.\n\nOnce your devices are linked, your Android device will prompt you with several device permissions. These permissions help you access content from your phone on your PC. ",
                 "m_answer": "",
-                "w_source": "",
+                "w_source": "https://support.microsoft.com/en-us/topic/your-phone-app-requirements-and-set-up-cd2a1ee7-75a7-66a6-9d4e-bf22e735f9e3",
                 "m_source": ""
             },
             {
                 "tag": 56,
                 "queries": [
-                    "",
+                    "How to connect my IPhone to the computer(Apple)?",
                     ""
                 ],
                 "w_answer": "",
-                "m_answer": "",
+                "m_answer": "Connect your device to your Mac.\n\nYou can connect your device using a USB or USB-C cable or using a Wi-Fi connection. To turn on Wi-Fi syncing, see Sync content between your Mac and iPhone or iPad over Wi-Fi.\n\nIn the Finder  on your Mac, select the device in the Finder sidebar.\n\nA device selected in the Finder sidebar.\nIf you connect your device to your Mac using a USB cable and don\u2019t see the device in the Finder sidebar, see If your device doesn\u2019t appear in the sidebar when syncing.\n\nSelect a type of content you want to sync in the button bar.\n\nThe button bar showing the General button and buttons for contents such as music, movies, TV shows, and more.\nNote: If you use iCloud Photos and Apple Music, your photos and music are synced automatically using iCloud. When you click Music or Photos, no options appear for syncing.\n\nSelect the \u201cSync [content type] onto [device name]\u201d checkbox to turn on syncing for that type of item. For example, select the \u201cSync movies onto [device name]\u201d checkbox to sync your movies.\n\n\u201cSync Movies onto [device]\u201d checkbox is selected and the \u201cAutomatically include\u201d checkboxes is selected and \u201call\u201d appears chosen in the pop-up menu.\nWith the checkbox selected, syncing is set to transfer all items of that type to your device.\n\nRepeat steps 3 and 4 for each type of content you want to sync.\n\nThe bar at the bottom of the window shows how much free space remains on your device after you sync. Move the pointer over the bar to view details about the content you\u2019re syncing.\n\nWhen you\u2019re ready to sync, click Apply.",
                 "w_source": "",
-                "m_source": ""
+                "m_source": "https://support.apple.com/guide/mac-help/sync-music-books-and-more-between-devices-mchlde9a31f1/mac"
             },
             {
                 "tag": 57,
@@ -4339,7 +4339,7 @@
                 "tag": 66,
                 "queries": [
                     "How to safely eject a hard drive",
-                    ""
+                    "How to safely remove a flash drive"
                 ],
                 "w_answer": "First close any applications currently using your external storage device including any open windows that displays its contents, then locate the \"Safely Remove Hardware\" icon located next to the system clock on the taskbar by the system tray. You may have to expand it by clicking on the arrow. Click on the \"Safely Remove Hardware\" icon to launch the hardware pop-up window, then click your external hard drive's icon or assigned disk letter. Alternatively, if you do not see or are not able to locate the \"Safely Remove Hardware\" icon in the system tray, navigate to the Computer or My Computer from the desktop or Start Menu. When the Computer or My Computer window opens, locate your external storage device. Left-click once to highlight it  then right-click. On the resulting pop-up window, click on Eject. Lastly, Wait for the \"Safe to Remove Hardware\" message to come up and then remove your external storage device.",
                 "m_answer": "First, locate your external storage device\u2019s icon on the desktop. Drag the icon to the Trash bin, which will change to an Eject icon. Alternatively, hold the \"Ctrl\" key and left-click your mouse on the external drive\u2019s icon. Click Eject on the pop-up menu. You have safely ejected your external storage device if its icon is no longer visible on the desktop. Disconnect your external storage device from your Mac",
@@ -4350,7 +4350,7 @@
                 "tag": 67,
                 "queries": [
                     "How do I connect a local printer to my computer",
-                    ""
+                    "How do I connect my printer to my computer"
                 ],
                 "w_answer": "1. Connect the printer to your computer using the USB cable and turn it on. 2. Open the Settings app from the Start menu. 3. Click Devices. 4. Click Add a printer or scanner. 5. If Windows detects your printer, click on the name of the printer and follow the on-screen instructions to finish the installation. And you're done. If Windows doesn't find your connected printer, click on \"The printer that I want isn't listed\" link. Then let the Windows troubleshooting guide help you find your printer. It will search for available printers and help you download the drivers for them. If that doesn't work, head to your printer manufacturer's website and download the drivers and installation tools for your printer.",
                 "m_answer": "1. On your Mac, update your software: Choose Apple menu  > System Preferences, click Software Update, then install any software updates listed. Even if no updates appear, this ensures that macOS has the latest information about printer software it can download from Apple. If you don\u2019t do this, you may see a message that software isn\u2019t available when you connect your printer. 2. Prepare your printer: Use the instructions that came with your printer to unpack the printer, install ink or toner, and add paper. Turn on the printer and make sure it\u2019s not displaying any errors. 3. Connect your printer: Connect the USB cable to your Mac. If you see a message prompting you to download new software, make sure to download and install it.",
@@ -4361,7 +4361,7 @@
                 "tag": 68,
                 "queries": [
                     "How to do screen mirroring ",
-                    ""
+                    "How do I enable screen sharing"
                 ],
                 "w_answer": "1. Select Start  > Settings  > System  > Projecting to this PC .\n2. Under Add the \u201cWireless Display\u201d optional feature to project this PC, select Optional features. \n3. Select Add a feature, then enter \u201cwireless display.\u201d \n4. Select it from the list of results, then select Install. \n5. After \u201cWireless Display\u201d is installed, manage your projecting preferences on the Projecting to this PC page in Settings. 6. On the PC you\u2019re projecting to, launch the Connect app by entering \u201cConnect app\u201d in the search box on the taskbar. 7. On the device you\u2019re projecting from, go to the screen mirroring settings (sometimes called cast settings), and select your PC to connect to it. If you\u2019re projecting from a PC, you can also select Windows key (  )+ K and select the PC you\u2019d like to connect to.",
                 "m_answer": "1.Open System Preferences, which you can do by clicking the Apple symbol in the menu bar at the top of your screen and selecting \"System Preferences\" in the drop-down\n2. In System Preferences, find and select the icon for \"Displays,\" which looks like a computer monitor. \n3.  Check the box next to \"Show mirroring options in the menu bar when available.\"\n4.In the menu bar at the top of your Mac's screen, click the AirPlay icon, which looks like a rectangle with an arrow at the bottom. \n5. In the drop-down, choose the device you want to AirPlay to. 6. A passcode might appear on your device's screen. Enter it in the pop-up on your Mac.  7.  Your Mac should then begin mirroring its screen to the device you selected. ",
@@ -4372,7 +4372,7 @@
                 "tag": 69,
                 "queries": [
                     "How to download photos from my phone on to my computer",
-                    ""
+                    "How do I transfer photos from my phone to my computer"
                 ],
                 "w_answer": "1. Turn your phone on and unlock it. Your PC can\u2019t find the device if the device is locked.\n2. On your PC, select the Start  button and then select Photos to open the Photos app.\n3. Select Import > From a USB device, then follow the instructions. You can pick the items you want to import and select where to save them. Allow a few moments for detection and transfer.",
                 "m_answer": "1. Connect your iPhone to your Mac computer with a USB cable. You may be prompted to unlock it with its passcode (your iPhone won't accept Face or Touch ID for this). If a pop-up appears asking if you \"trust\" the computer, choose \"Trust This Computer.\" \n2. The Photos app on your computer should open. If it doesn't, open it manually.\n3. On your Mac, if the screen showing your iPhone photos doesn't open automatically, in the sidebar on the left, under \"Devices,\" select your iPhone. You should see an import screen in Photos that shows the photos you have on your iPhone.\n4. Choose where you want to store your imported photos. At the top of the import window in the center, you'll find a drop-down menu that lets you add the new photos to one of your albums or create a new album for your import. If you do nothing, the transferred photos will go into your Photos library.  5. There are two buttons on the upper-left of the import window. \"Import All New Items\" will transfer every photo you have taken since your last import. To upload only certain photos, click on each photo you want to copy onto your computer and click the \"Import Selected\" button.",
@@ -4383,7 +4383,7 @@
                 "tag": 70,
                 "queries": [
                     "How to set up multiple displays on my computer",
-                    ""
+                    "How do I add another monitor to my computer"
                 ],
                 "w_answer": "1. Select Start > Settings > System > Display. Your PC should automatically detect your monitors and show your desktop. If you don't see the monitors, select Detect.\n2. In the Multiple displays section, select an option from the list to determine how your desktop will display across your screens.\n3. Once you've selected what you see on your displays, select Keep changes.",
                 "m_answer": "1. Connect the two monitors to your Mac and turn them on.\n2. Click the \u201cApple\" menu and select \u201cSystem Preferences.\u201d The Apple menu is located in the top corner of your Mac\u2019s screen and is represented by the Apple logo.\n3. Click \u201cView\u201d or \u201cDisplays\u201d under the Hardware heading, depending on which version of OS X you are using.\n4. Click the \u201cArrangement\u201d tab, which displays two blue boxes, one representing each of your monitors.\n5. Click the \u201cMirror Displays\u201d check box if you want to use the Mirroring method to display the same content on both monitors. Uncheck the \u201cMirror Displays\u201d check box if you want to use the Extended Desktop method.\n6. Drag and drop the white menu bar onto the blue box that you want to serve as your primary monitor to use the Extended Desktop method. You can also drag the monitor icons left and right to change their relationship to one another.",
@@ -4394,7 +4394,7 @@
                 "tag": 71,
                 "queries": [
                     "How to set up windows 10",
-                    ""
+                    "I don't know how to set up windows 10"
                 ],
                 "w_answer": "1. Press the power button to turn on the computer. During the setup process, Windows 10 might take a long time to process an item without visual feedback on the screen to indicate progress. This is normal.\n   CAUTION: To avoid damaging the data on the computer, do not restart your computer during the setup process.\n2. Let's start with region. Is this correct? screen displays. Select your country or region from the list, and then click Yes.\n3.The Is this the right keyboard layout? screen displays. Select the desired keyboard layout, and then click Yes. 4. On the Do you want to add a second keyboard layout? screen, you can either follow the instructions for adding another keyboard layout or click Skip.\n5. On the Let's connect you to a network screen, select from the available networks, type in your user name and password if necessary, and then click Connect. 6. After a few introductory setup screens that require no action, the Windows 10 License Agreement screen displays. After reading the license agreement, to proceed, click Accept to continue. 7. After the license agreement, the Sign in with Microsoft screen displays. Sign in with your Microsoft account or click Create account and follow the prompts to create a new Microsoft account. 8. After signing in the following setup screens display. Follow the on-screen instructions to customize Windows.\nLink your Android or iPhone to this PC\nProtect your files with OneDrive\nSet up your Office\nMake Cortana your personal assistant?\nDo more across devices with activity history\nChoose privacy settings for your device\n9. On the registration screen, type your personal information, and then click Next. 10. On the Register and Protect screen, select your preferred privacy settings, and then click Next. 11. Read any introductory screens describing the features of your computer, make selections when prompted, and then click Next up on completing each.\nYou are now done with the initial setup process.",
                 "m_answer": "",
@@ -4405,7 +4405,7 @@
                 "tag": 72,
                 "queries": [
                     "How to set up a Macbook",
-                    ""
+                    "I don't know how to set up my Mac"
                 ],
                 "w_answer": "",
                 "m_answer": "Step 1: Make sure that there is an internet connection\nStep 2: Switch on your new Mac Step 3: Run Setup Assistant Step 4: The first screen displays a map of the world. Select your country and press Continue. This will ensure that the clock inside your Mac is correct. Step 5: Select your keyboard. Step 6: Next you need to connect to a network. Step 7: If you're upgrading from an old Mac you can use your Time Machine backup. Step 8: You will also see a Data & Privacy pop-up window that warns you that you will get a notification when ever personal information about you is requested. Just click Continue. Step 9: Next you need to sign in with your Apple ID and Password. Step 10: If you have two-factor authentication set up you will receive an alert on another of your devices that someone is logging in with your ID (it's you, even if it says in London and you are elsewhere in the country). You will be sent a code on another device to enter on the new Mac. Step 11: Next there is a window that allows you to Enable Siri, which will let you use the voice activated assistant to do various tasks on your Mac. Read: Things to ask Siri on the Mac. You can set this up now or skip the step and do it later. Step 12: The next step involves setting up iCloud. Step 13: If your Mac has Touch ID (MacBook Air 2018 or MacBook Pro) you might be offered the opportunity to set this up next. (Again, you can skip this step and do it later). Step 13: Since MacOS Mojave launched in 2018 it's been possible to choose whether your interface is Dark or Light. You can choose which here - but you can easily change it later in Settings. Step 14: That's it. The final screen will simply say Thank You! Click Continue and start using your Mac.",
@@ -4416,7 +4416,7 @@
                 "tag": 73,
                 "queries": [
                     "How do I check how much memory my computer has",
-                    ""
+                    "How do I check my computer's ram"
                 ],
                 "w_answer": "Open settings > system > about >  look for the Device Specifications section. You should see a line named \"Installed RAM\"\u2014this will tell you how much you currently have.",
                 "m_answer": "1. Open your Finder, located in the dock at the bottom of your screen.\n2. On the left sidebar, select \"Applications\" and then scroll down and open the \"Utilities\" folder.  3. Double click on \"Activity Monitor.\"  4. Toggle over to the \"Memory\" section, located toward the top of the Activity Monitor window.\n5. Look at the bottom of the window to see your current memory usage information.",
@@ -4426,8 +4426,8 @@
             {
                 "tag": 74,
                 "queries": [
-                    "How do I change mouse speed/DPI",
-                    ""
+                    "How do I change mouse speed",
+                    "How do I adjust my Mouse DPI"
                 ],
                 "w_answer": "1. Click on the \"Start\" menu and select the \"Settings\" icon. 2. On the Settings page, click on \"Devices.\" 3. On the Devices page, click on \"Mouse.\" 4. On the Mouse page, click on \"Additional mouse options\" under \"Related settings.\" 5. In the \"Mouse Properties\" pop-up, click on \"Pointer Options.\" 6. Use the slider under \"Select a pointer speed\" to adjust DPI. Sliding it to the left lowers DPI while sliding it to the right increases DPI. 7. When the slider is where you want it, click \"Apply\" at the bottom. When the \"Apply\" button turns gray, meaning there are no additional changes to confirm, click on the \"X\" in the top right corner to close it.",
                 "m_answer": "1. Open the System Preferences app. The easiest way to find it is to click the Apple icon in the top-left corner of your screen, and then select \"System Preferences\" 2. In the menu that opens, click \"Mouse.\" 3. You'll see a number of sliders and options. The slider that controls your mouse's DPI is \"Tracking Speed.\" Move the slider to the position you want and test it out. When you're done, you can just close the window to save it. 4. ",
@@ -4438,7 +4438,7 @@
                 "tag": 75,
                 "queries": [
                     "How do I clean my keybaord",
-                    ""
+                    "Proper way to clean a keyboard"
                 ],
                 "w_answer": "1. Take a photo of your entire keyboard. We're about to take off all the keys, so you'll want this photo as a reference for reassembly. 2. Gently pry up the keycaps using a small flat-head screwdriver. 3. Blow away dirt using compressed air, or suck up the dirt using a small vacuum. Be careful as to not damage any exposed mechanics or electronics. 4. Wipe the keyboard base using isopropyl alcohol and a cotton swab or lint-free cloth. 5. Scrub each removed keycap with a toothbrush and isopropyl alcohol. 6. Replace the keycaps when you're satisfied with the keyboard's cleanliness. Reference that photo you took earlier so that you can get each key back where it belongs. 7.",
                 "m_answer": "1. Disconnect the keyboard or shut down the laptop.\n2. Press each key to ensure that the keycaps are properly seated and snapped in place. This is also a good way to ensure that the action on the keys is consistent and that key travel isn't hindered by hidden debris.\n3. Turn the laptop or MacBook key-side down and give it a good shake. To dislodge any loose debris from between the keys, tap the edges of the keyboard or laptop. The object is to shake out as much of the dry and loose debris as possible.\n4.Hold the keyboard at an angle (Apple recommends 75 degrees for laptops). Then, spray the canned air in short bursts in the space between each row of keys. Work left to right, top to bottom, in a zigzag pattern.  5. Turn the keyboard 90 degrees to the right and blow compressed air in short bursts from edge to edge. 6. Use a canister or shop vac with a soft brush attachment to gently brush along the keyboard or laptop to remove any remaining debris. 7. Remove surface dirt and grime using the instructions above.",
@@ -4449,7 +4449,7 @@
                 "tag": 76,
                 "queries": [
                     "How do I clean my monitor",
-                    ""
+                    "Proper way to clean a monitor"
                 ],
                 "w_answer": "1. Turn off the monitor and the computer, and then disconnect the power cables. Make sure the monitor has cooled down before going to the next step.\n2. Using a clean microfiber cloth, gently wipe the monitor\u2019s screen to remove dust and fingerprints. Do not press on the screen while cleaning. You can also use compressed air to remove dust from the screen.\n3. Dampen the cloth with a small amount of distilled water. If there is a touch stain (such as food) on the monitor, you can also try using a mixture of 50 percent distilled water and 50 percent white vinegar. Make sure you wring out any excess liquid from the cloth before using it.\n4. Gently wipe the monitor with the dampened microfiber cloth. Do not press on the screen while cleaning.\n5. When you are finished, allow the monitor to dry and then reconnect the power cables.",
                 "m_answer": "1.Shut down your Mac and disconnect its power cord and any connected devices.\n\n2. Dampen a clean, soft, lint-free cloth with water, then wipe the screen.",
@@ -4460,7 +4460,7 @@
                 "tag": 77,
                 "queries": [
                     "How do I free up space on my hard drive",
-                    ""
+                    "How do I free up storage "
                 ],
                 "w_answer": "1. Choose Start\u2192Control Panel\u2192System and Security and then click Free Up Disk Space in the Administrative Tools. 2. Choose the drive you want to clean up from the drop-down list and click OK. 3. Select additional files in the list to delete by clicking next to them. 4.  Click OK. 5. Click the Close button.",
                 "m_answer": "1. Click on your Downloads folder, open it in the Finder, and select the contents, or any files you don't need, right-click and choose Move to Bin/Trash.\n2. Open the Finder and navigate to your Home folder (press Shift-command-H). Now press Command-F to open a new Find window. Click on the drop down beside 'Kind' and choose 'Other'. Scroll down until you see 'File Size' and check the box next to it. Click OK. Now in the next dropdown choose 'is greater than'. Change file size to MB and type 100 into the box besides that. Now select anything that you don't need that's bigger than 100MB and chose Move to Bin/Trash.",
@@ -4471,7 +4471,7 @@
                 "tag": 78,
                 "queries": [
                     "How do I update my Bios",
-                    ""
+                    "I dont know how to update my Bios"
                 ],
                 "w_answer": "1. Open Start Image titled Windowsstart.png. Click the Windows logo in the bottom-left corner of the screen.\n2. Open System Information. Type msinfo into the Start window, then click System Information at the top of the Start window.\n3. Check your computer's model name. Next to the \"System Model\" heading, you'll see a list of numbers and letters; this is your computer's model name. You'll need this information when you search for the BIOS update file.\n-Skip this step if you have a custom-built computer. \n4. Find your BIOS version number. Next to the \"BIOS Version/Date\" heading, you'll see a company name, your computer's model name, and a number after a period. The number after the period is your BIOS version.\nFor a computer with the model number \"Q553UB\" and a BIOS set to version 202, for example, you would see \"Q553UB.202\" here.\nIf you're using a custom-built computer, you'll need to find your motherboard's model instead of using the computer's model number. \n5. Open your BIOS manufacturer's support site. Generally, the easiest way to do this is by typing your computer's manufacturer name, your computer's model name, and \"drivers\" or \"BIOS\" into Google and then selecting the proper link. This process will vary depending on your computer's manufacturer, so you may have to click through a few different links before you find the correct one.\nIf you're using a custom-built computer, you'll need to look up your computer's motherboard name along with \"BIOS\" and \"update\" and then open the manufacturer's website. \n6. Find the BIOS update file. Depending on the website, you may have to open the \"Updates\", \"Support\", or \"Downloads\" section first, or click a \"BIOS\" heading. Once you've found the BIOS file, you can proceed.\nAgain, this may involve some trial and error. \n7. Make sure the update file is newer than your BIOS version. In the file's name, you should see a version number. If this version number is higher than your BIOS version number, your BIOS is outdated and thus can be updated.\nIf the version number on the website matches your BIOS version number, your BIOS is up-to-date and does not need updating.\nEven if your current BIOS version is a whole number (e.g., 301) and the file on the site is listed as a higher decimal (e.g., 301.1), the site's file is a higher version than your BIOS uses. \n8. Download the update file. Click the Download link, button, or icon to do so. Once your BIOS update file finishes downloading, you can proceed with updating your BIOS.\nIn some cases, you may have to click the file's name to prompt it to download.\nMost BIOS update files will download inside of a ZIP folder. \n9. Make sure your computer is plugged into a reliable power source. Since you can permanently ruin your BIOS if your computer turns itself off during the update process, you'll want to use a reliable power source.\nIf you're using a laptop, your computer's battery should be fully charged in addition to the laptop being plugged in. \n10. Extract your BIOS file. In most cases, you'll have to extract (or \"unzip\") the BIOS update file from within its folder:\nDouble-click the downloaded ZIP file to open it.\nClick the Extract tab at the top of the window.\nClick Extract all.\nClick Extract when prompted.\nWait for the extracted folder to open. \n11. Read your BIOS file's README document if applicable. If a text document labeled \"README\" or similar is available, double-click it to open it and read the entire document before proceeding.\nIf the README file's instructions for updating your BIOS contradict the instructions in the rest of this article, make sure you follow the README's instructions instead. \n12. Plug a USB flash drive into your computer. Since your BIOS won't be able to access your computer's files, you'll need to put the BIOS update file on a blank USB flash drive \n13. Copy the BIOS file onto the flash drive. Click once the BIOS file, press Ctrl+C to copy it, then open your flash drive and press Ctrl+V to paste in your copied file.\nYou need to leave the flash drive plugged into your computer for the duration of the update process. \n6. Access the BIOS page. Prompt your computer to restart by clicking Start Image titled Windowsstart.png, clicking Power Image titled Windowspower.png, and clicking Restart, then immediately begin pressing the key your computer's manufacturer assigned to the BIOS startup. If the BIOS doesn't launch, you'll need to restart again and try a different key.\nFor most computers, this key is one of the function keys (e.g., F12), though some computers use the Del key or the Esc key.\nIf you don't know your computer's BIOS key, look it up by typing your computer's manufacturer name, model name, and \"BIOS key\" into a search engine. \n14. Back up your BIOS if possible. If you see a \"Backup\" or \"Save\" option on the BIOS' main screen (or if you see a Backup tab at the top of the screen), select it and follow any on-screen instructions. This will ensure that you can restore your BIOS settings later if your BIOS update doesn't pair well with your computer.\nYou may instead be prompted to back up your BIOS once you initiate the backup process.\nNot all BIOS pages allow you to back up their settings. \n15. Enable and use your BIOS update tool. Each BIOS will have a slightly different way of accessing the BIOS update tool, so you may have to consult your BIOS manufacturer's support site for a direct explanation of how to do so.\nIn many cases, you'll select the Boot tab, ensure that your USB flash drive shows up, enable any backup or \"Flash\" options in the menu, and then select the Start Flash option from the Advanced tab.[1]\nSometimes, pressing the BIOS key while a USB drive is plugged in will bring up a unique menu that allows you to select an Update option and follow the on-screen instructions. This is common on Dell computers.[2] \n16. Allow your computer's BIOS to update. This process can take a few minutes to over an hour depending on your computer and the depth of the BIOS update. Once your BIOS is finished updating, your computer should restart itself, though you may be prompted to confirm this decision.\nDo not turn off your computer while the BIOS is updating. Doing so can cause the BIOS to become corrupted, meaning that your computer will be unable to start, complete the BIOS installation, or otherwise run at all.",
                 "m_answer": "",
@@ -4482,7 +4482,7 @@
                 "tag": 79,
                 "queries": [
                     "Should I leave my computer on or turn it off",
-                    ""
+                    "Can I leave my computer on sleep all the time"
                 ],
                 "w_answer": "Reasons to leave it on : You\u2019re using the PC as a server, or you want to access it remotely.\nThere are background updates, virus scans, or other activities you\u2019d like to occur while you\u2019re away.\nYou never want to wait for it to start up. Reasons to turn it off: Leaving it on wastes electricity and can slightly increase your power bill.\nYou don\u2019t want to be disturbed by notifications or fan noise.\nComputer performance generally benefits from an occasional reboot.",
                 "m_answer": "Reasons to leave it on : You\u2019re using the PC as a server, or you want to access it remotely.\nThere are background updates, virus scans, or other activities you\u2019d like to occur while you\u2019re away.\nYou never want to wait for it to start up. Reasons to turn it off: Leaving it on wastes electricity and can slightly increase your power bill.\nYou don\u2019t want to be disturbed by notifications or fan noise.\nComputer performance generally benefits from an occasional reboot.",
@@ -4493,7 +4493,7 @@
                 "tag": 80,
                 "queries": [
                     "How do I reformat a hard disk",
-                    ""
+                    "I dont know how to reformat my hard disk"
                 ],
                 "w_answer": "1. Plug in the drive and open Windows Explorer.\n2. Right-click the drive and choose Format from the drop-down menu.\n3. Select the file system you want, give your drive a name under Volume label, and make sure the Quick Format box is checked.\n4. Click Start, and the computer will reformat your drive.\nWhen you\u2019ve completed the process, you can open the external drive in Windows Explorer.",
                 "m_answer": "1. Plug in the drive and open the Finder.\n2. Click the Go menu, select Utilities from the drop-down menu, and open Disk Utility.\n3. Choose your external drive from the left sidebar, and click Erase.\n4. Give your drive a name and select the file system you want from the Format drop-down.\n5. Click Erase, and the system will reformat your drive.\nWhen you\u2019ve completed the process, you can open the external drive by clicking on the drive\u2019s icon on the desktop of your Mac.",
@@ -4504,7 +4504,7 @@
                 "tag": 81,
                 "queries": [
                     "How do I add more ram to my computer",
-                    ""
+                    "How do I upgrade my Ram"
                 ],
                 "w_answer": "Step 1 - Gathering Supplies\nClear off your installation space and make sure you\u2019re working in a static-safe environment. Remove any plastic bags or papers from your workspace. Then, you\u2019ll need the following items:\nYour desktop computer\ndesktop memory\nScrewdriver\nOwner\u2019s manual.  Step 2 - Shut Down Your Desktop Computer. Step 3 - Unplug the Power Cable\nThis includes any cables and accessories plugged into the computer. Step 4 - Hold the Power Button for Five Seconds. Step 5 - Open the Case\nFor instructions about opening your specific system, consult its owner\u2019s manual. You can also take pictures as you work through the process to see where cables or screws are attached to make it easier to put back together. Step 6 - Ground Yourself!\nTouch an unpainted metal surface \u2013 this is an extra safeguard that protects your computer memory and components from static damage during the installation process.  Step 7 - Remove Existing Memory Modules\nPress down on the clips on the sides of each module, the clip mechanism will push the memory module up. You can then pull the module completely out.  Step 8 - Install Memory\nHolding the modules along the edges, align the notches on the module with the ridge in the slot, then apply even pressure and firmly press the module in. It usually takes about 30 pounds of pressure to fully install the module. Step 9 - Close the Computer Case\nStep 10 - Plug the Power Cable in\nYour Memory is now Installed!",
                 "m_answer": "Do one of the following, depending on your Mac model:\n\nChoose Apple menu   > About This Mac, click Memory, then click Memory Upgrade Instructions.\n\nChoose Apple menu   > About This Mac, click Support, then click Hardware Support.\n\nNote: This option is only available on Mac computers with upgradable RAM.",
@@ -4515,7 +4515,7 @@
                 "tag": 82,
                 "queries": [
                     "How do I know if my battery is damaged",
-                    ""
+                    "Signs of a damaged battery "
                 ],
                 "w_answer": "1. Right-click on the Start icon and select Windows PowerShell (Admin) from the menu that appears. A pop-up window may ask for permission to make changes to your device; say yes. 2. The blue PowerShell command window will appear, allowing you to enter commands to automate certain tasks within Windows 10. Type or paste powercfg /batteryreport /output \"C:\\battery-report.html\" into the window and press Enter to run the command. 3. PowerShell will then tell you the name of the generated battery life report HTML file and where it has been saved on your computer. In this case, it is called battery-report.html and it has been saved to the C drive. You can now safely close PowerShell. 4. Open Windows File Explorer and access the C drive. There you should find the battery life report saved as an HTML file. Double-click the file to open it in your preferred web browser. 5. The report will outline the health of your laptop battery, how well it has been doing, and how much longer it might last. At the top of the Battery Report, you will see basic information about your computer, followed by the battery's specs.",
                 "m_answer": " Click on the battery level in your top menu bar to bring down a drop-down. At the top of the menu, you\u2019ll find the TL;DR version of your battery\u2019s current condition. If it says \u201cReplace Soon,\u201d \u201cReplace Now,\u201d or \u201cService Battery,\u201d it\u2019s time to look into a replacement.",
@@ -4526,7 +4526,7 @@
                 "tag": 83,
                 "queries": [
                     "My speakers are not working, what is wrong",
-                    ""
+                    "How to fix computer speakers"
                 ],
                 "w_answer": "1.Open the Control Panel.\n2.Click or double-click the Hardware and Sound or Sound icon.\nI3.n Windows XP and older, click Manage audio devices under Sound.\n4.In the Sound window, on the Playback tab, find the entry for the speakers connected to your computer.\n5.Right-click the speaker's entry and select Set as Default Device.\n6.Click OK at the bottom of the Sound window to save the settings change. If you are running Microsoft Windows, make sure the speaker setup is correct by following the steps below.\n\n1.Open the Control Panel.\n2.Select Hardware and sound or Sound in the Control Panel window.\n3.In Windows XP and older, click Manage audio devices under Sound.\n4.On the Playback tab, select your speakers, and click the Configure button.\n5.If the speakers still don't work after configuring and testing them, double-click the speakers on the Playback tab to bring up Speaker Properties.\n6.Verify all settings and then Test on the Advanced tab.\n7.After verifying all settings and making any changes, click Apply then OK in each of the appropriate windows before closing them. Your speakers may not work for the following reasons: Volume issues, Speakers are not connected properly, Corrupt Windows system files, Integrated or onboard audio disabled, Bad sound card, Bad speakers",
                 "m_answer": "1. From the Apple menu , choose System Preferences.\n2. Click Sound.\n3. Click the Output tab, then select the built-in speakers. If you don\u2019t see built-in speakers as an option in the Output window, contact Apple Support.\n4. If the Output volume slider is set low, move the slider to the right and test again.\n5. If the Mute checkbox is selected, deselect it and test again.\n6. If you still don\u2019t hear any sound, contact Apple Support.",
@@ -4537,7 +4537,7 @@
                 "tag": 84,
                 "queries": [
                     "How do I connect bluetooth speakers to my computer",
-                    ""
+                    "Bluetooth speaker not connecting to my computer"
                 ],
                 "w_answer": "1. Turn on your Bluetooth audio device and make it discoverable. The way you make it discoverable depends on the device. Check the device or visit the manufacturer's website to learn how. \n\n2. On your PC, select Start > Settings  > Devices  > Bluetooth & other devices > Add Bluetooth or other device > Bluetooth. Choose the device and follow additional instructions if they appear, then select Done. \n\nYour Bluetooth device and PC will usually automatically connect anytime the two devices are in range of each other with Bluetooth turned on.",
                 "m_answer": "1.Make sure the device is turned on and discoverable (see the device\u2019s documentation for details).\n\n2.On your Mac, choose Apple menu  > System Preferences, then click Bluetooth.\n\n3.Select the device in the list, then click Connect.\n\nIf asked, click Accept (or enter a series of numbers, then press Enter).",
@@ -4548,7 +4548,7 @@
                 "tag": 85,
                 "queries": [
                     "How do I download the latest update",
-                    ""
+                    "Can't install the latest software update"
                 ],
                 "w_answer": "If you want to install the update now, select Start  > Settings  > Update & Security  > Windows Update , and then select Check for updates. If updates are available, install them.",
                 "m_answer": "1.Choose System Preferences from the Apple menu \uf8ff, then click Software Update to check for updates.\n2. If any updates are available, click the Update Now button to install them. Or click \u201cMore info\u201d to see details about each update and select specific updates to install. You might be asked to enter your administrator password. 3. To automatically install future updates, including for apps that you got from the App Store, select \u201cAutomatically keep my Mac up to date.\u201d Your Mac will notify you when updates require it to restart, so you can always choose to install those later.",
@@ -4559,7 +4559,7 @@
                 "tag": 86,
                 "queries": [
                     "How do I run a diagnostics test on my computer",
-                    ""
+                    "How do I check my computer for problems"
                 ],
                 "w_answer": "1. Type \u201cControl Panel\u201d on Windows search bar. Click on \u201cControl panel\u201d. 2. Search and Hit on \u201cSystem and Security\u201d. 3. Hit on \u201cAdministrative Tools\u201d. 4. Click on \u201cWindows Memory Diagnostic\u201d.\nShort Trick: Press Windows Key + R and type mdsched.exe\n5. Select \u201cRestart now and check problems\u201d option.\n",
                 "m_answer": "",
@@ -4570,7 +4570,7 @@
                 "tag": 87,
                 "queries": [
                     "My monitor won't turn on, what do I do",
-                    ""
+                    "Why is my monitor not turning on"
                 ],
                 "w_answer": "1.Check the Power LED on the Monitor if you are using an external monitor. 2. Unplug the monitor from the wall.\n3. Unplug the cord from the back of the monitor.\n4. Wait one minute\n5. Plug the monitor cord back into the Monitor and a known-good wall outlet.\n6. Press the Monitor power button.\n7. If this still does not work, try with known-good power cord. Typically a Desktop power cord is the same as a Monitor power cord \n8. Confirm that a power cable is connected to the monitor and a power outlet.\n9. Ensure the video cable is connected to the correct video source..",
                 "m_answer": "",
@@ -4581,7 +4581,7 @@
                 "tag": 88,
                 "queries": [
                     "My screen is frozen",
-                    ""
+                    "Why is my screen frozen"
                 ],
                 "w_answer": "Hit CTRL + ALT + Delete, then click \u201cEnd Task\u201d to force-quit any or all applications.",
                 "m_answer": "",
@@ -4592,7 +4592,7 @@
                 "tag": 89,
                 "queries": [
                     "My computer is slow",
-                    ""
+                    "How to make my computer faster"
                 ],
                 "w_answer": "1. Reboot your computer. 2. Delete background programs. 3. Delete temp files. 4. Free hard drive space. 5. Check the hard drive for errors run ScanDisk, chkdsk, or something equivalent to verify there is nothing physically wrong with the computer's hard drive. 6. Make sure hard drive is not fragmented\nRun Defrag to help ensure that data is arranged in the best possible order. 7. Scan for viruses 8. Scan for malware. 9. Update the operating system. 10. Disable browser plug-ins. 11. Update your drivers. 12. Reboot the computer again. 13. Run a registry cleaner. 14. Memory and hard drive upgrade. 15. Computer or processor is overheating. 16. Increase or upgrade the processor speed. 17. Erase computer and start over.\n",
                 "m_answer": "",
@@ -4603,7 +4603,7 @@
                 "tag": 90,
                 "queries": [
                     "My computer is overheating",
-                    ""
+                    "My computer is getting hot"
                 ],
                 "w_answer": "1. Check if the fan is working or not. 2. Avoid blocking the vents. 3. Clean up the PC; turn off the PC, open the cover and you should be able to see visible dust., Blow the main PC components with air, use cotton buds to clean up the narrow spaces. 4. Stop overclocking (if this applies to you) 5. Speed up fan speed",
                 "m_answer": "",
@@ -4614,100 +4614,100 @@
                 "tag": 91,
                 "queries": [
                     "My computer keeps dropping internet connection",
-                    ""
+                    "My computer does not have a stable internet connection"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1.Right-click on the Start Menu and choose Device Manager.\n2.Expand the list below Network Adapters.\n3.Right-click on your network adapter.\n4.Select Properties.\n5.Click on the Power Management tab.\n6.Unmark the checkbox next to Allow the computer to turn off this device to save power",
+                "m_answer": "1.Check for software issues\n2.Check Wi-Fi recommendations given by macOS\n3.Find out if your broadband provider has any issues\n4.Reboot your router\n5.Reboot your Mac\n6.Turn Bluetooth off\n7.Forget your network then reconnect\n8.Make sure your router is cool, check it's location and make 9.sure nothing is blocking the signal\n10.Use Apple's Wireless Diagnostics\n11.Check for competition from other networks, change your network name, change your Wi-Fi channel - consider using the 5GHz band\n12.Check your security settings\n13.Run Apple Diagnostics\n14.Reset your SMC, PRAM or NVRAM and change the DNS setting for your network",
+                "w_source": "https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/#:~:text=If%20you%20find%20Windows%2010,the%20adapter%20to%20save%20power.",
+                "m_source": "https://www.macworld.co.uk/how-to/fix-wifi-problems-3605043/#provider"
             },
             {
                 "tag": 92,
                 "queries": [
                     "How do I troubleshoot my computer",
-                    ""
+                    "Troubleshoot"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. Select Start  > Settings  > Update & Security  > Troubleshoot, or select the Find troubleshooters shortcut at the end of this topic. 2. Select the type of troubleshooting you want to do, then select Run the troubleshooter. ",
+                "m_answer": "1.Desktop systems (iMac, Mac Pro): Disconnect the power cord, wait 15 seconds, plug it back in, and then wait a further five seconds before turning the Mac on again.  2.Laptops with non-removable batteries (newer MacBook systems): With the system plugged to a power supply, press and hold SHIFT and OPTION and CONTROL and then press the power button (it helps if you have three arms or an assistant). The simultaneously release all the buttons before starting the Mac normally.\n3.Laptops with removable batteries (older MacBook systems): Disconnect the system from the power supply and remove the battery. Then press and hold down the power button for five seconds. Refit the battery and restart the Mac.\n4. Reset PRAM (Parameter RAM)\nTo reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Keep holding down the four buttons until you hear your Mac emit the \"WALLe\" startup chime for the second time. \n5. Run Disk Utility\nHold down Command + R while booting your Mac (for older systems running Snow Leopard or earlier, you'll need to dig out your installation disc and pop that into the optical drive, and reboot your computer while holding down C).\nFrom the startup screen select Disk Utility.\nSelect the hard drive and choose Verify and allow that to run.\nIf problems are detected, next choose Repair Disk. If no problems are detected, choose Repair Permissions.\nTry rebooting the system again. \n6. Run Apple Diagnostics. Boot up your Mac while holding down D, and keep holding it down until asked to choose a language. Note that if this doesn't work, reboot your system while holding down Option + D to carry out start Apple Diagnostics over the internet.\nThe utility will automatically check your system.\nIf any problems are found the test will show you reference codes and suggest solutions.",
+                "w_source": "https://support.microsoft.com/en-us/windows/use-a-fix-it-tool-with-windows-10-cc3cb85b-91d7-7e56-8ce1-db50b4d18d0b",
+                "m_source": "https://www.zdnet.com/article/mac-troubleshooting-tips/"
             },
             {
                 "tag": 93,
                 "queries": [
                     "My mouse is not smooth it is jumpy",
-                    ""
+                    "Why is my mouse lagging"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. Clean the Mouse and Mousepad. 2. Check the Batteries. 3. Try Another USB Port. 4. Update or Download Drivers. \n5.Enable / Disable Scroll Inactive Windows\n6.Change Palm Check Threshold\n7.Set the touchpad to No Delay\n8.Turn off Cortana\n9.Disable NVIDIA High Definition Audio\n10.Change your mouse frequency\n11.Disable Fast Startup\n12.Change your Clickpad settings\n13.Roll back your drivers\n14.Connect your mouse receiver to USB 2.0 port\n15.Disconnect other USB devices\n16.Use USB extender\nChange Power management options",
+                "m_answer": "1. Examine Mouse and Mouse Pad. 2. Replace Batteries. 3. Restart Mac. 4. Unplug USB Connected Devices. 5. Change USB Port. 6. Disable Handoff Feature.  7.Disable Bluetooth. 8. Adjust Tracking & Scrolling Speed. \n9. Is Your Mouse Defective? Plug another Wireless/Bluetooth Mouse into your Mac and see if the New Mouse works perfectly fine on your Mac. 10. Reset NVRAM",
+                "w_source": "https://windowsreport.com/mouse-lag-windows-10/",
+                "m_source": "https://www.techbout.com/fix-laggy-slow-mouse-on-mac-28718/"
             },
             {
                 "tag": 94,
                 "queries": [
                     "How do I sync my phone to my computer",
-                    ""
+                    "How do I connect my phone to my computer"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. To link your phone, open the Settings app on your computer and click or tap Phone. 2. Sign in to your Microsoft account if you aren't already and then click Add a phone. 3. Enter your phone number and click or tap Send. 4. You might rightly expect to receive a confirmation code texted to your phone to make the connection, but Microsoft throws you a curveball and instead sends you a link to install Edge. To establish the link between phone and PC, you will need to install Edge and then sign into your Microsoft account.  5. Restart your PC and you'll see your phone listed on the Phone page in Settings, showing you that it's linked.",
+                "m_answer": "1. Connect your device to your Mac. You can connect your device using a USB or USB-C cable or using a Wi-Fi connection.\n2. In the Finder  on your Mac, select the device in the Finder sidebar. 3. Select a type of content you want to sync in the button bar. 4. Select the \u201cSync [content type] onto [device name]\u201d checkbox to turn on syncing for that type of item. For example, select the \u201cSync movies onto [device name]\u201d checkbox to sync your movies. 5. Repeat steps 3 and 4 for each type of content you want to sync 6.  When you\u2019re ready to sync, click Apply.",
+                "w_source": "https://www.cnet.com/how-to/how-to-connect-your-phone-to-your-windows-10-pc/",
+                "m_source": "https://support.apple.com/guide/mac-help/sync-music-books-and-more-between-devices-mchlde9a31f1/mac#:~:text=The%20first%20time%20you%20set,select%20which%20items%20to%20sync."
             },
             {
                 "tag": 95,
                 "queries": [
                     "My computer won't turn on",
-                    ""
+                    "How to fix a computer that won't turn on"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "Step 1: Check Your Cables. Step 2: Try a different power source. 3. Try a different power cable 4. If you are on a laptop, Let the battery charge. 5. Decrypt the beep codes. 6. Check your display. 7. Check your BIOS or UEFI settings. 8. Disconnect everything non-essential. 9. Make sure nothing has come loose.",
+                "m_answer": "1.  Check your power connection 2.  Try a different power cable or adapter. 3. Disconnect all accessories. 4. Perform a Power Cycle (non-M1 Macs). 5. Check your display. 6. Boot up your Mac in Safe Boot. 7. Reset the PRAM / NVRAM. 8. Reset the SMC. 9. Run Disk Utility in Recovery Mode. 10. Make a Genius Bar appointment",
+                "w_source": "https://www.businessinsider.com/why-wont-my-pc-turn-on",
+                "m_source": "https://www.macworld.co.uk/how-to/wont-turn-on-boot-3423817/"
             },
             {
                 "tag": 96,
                 "queries": [
                     "How do I connect a bluetooth printer",
-                    ""
+                    "How to set up a bluetooth printer"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. Open the Windows Start menu.  2. Then click to Settings.  3. Then click on Devices. 4. Next, select Printers & Scanners. 5. Then click Add a Printer. 6. Click \u201cThe printer that I want isn\u2019t listed.\u201d               7. Choose \u201cAdd a local printer or network printer with manual settings,\u201d and click next. 8. Click on \u201cCreate a New Port\u201d and select Standard TCP/IP from the drop-down box. 9. Type in your printer\u2019s IP address and click next. 10. Select the appropriate device type. 11. Install the print driver. 12. Select \u201cUse the driver that is currently installed (recommended)\u201d and click next. 13. Set up optional preferences.  14. Print a test page. ",
+                "m_answer": "1. On your Mac, choose Apple menu  > System Preferences, then click Printers & Scanners.\n2. Click the Add button , then click the Default button .\n3. Select the printer in the Printers list, then click Add. If the printer you expect to see is not in the list, enter its name in the search field, then press Return.\n4. If your printer doesn\u2019t appear in the list, make sure you have the latest Bluetooth driver for the printer installed. Check with the manufacturer for the latest driver.",
+                "w_source": "https://www.hellotech.com/guide/for/how-to-add-printer-in-windows-10",
+                "m_source": "https://support.apple.com/guide/mac-help/use-a-bluetooth-enabled-printer-blth24/mac"
             },
             {
                 "tag": 97,
                 "queries": [
                     "My computer's fan isn't working",
-                    ""
+                    "Computer fan stopped working"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. Restart your computer. 2. Clean your fan. 3. Repair or replace your power supply unit. 4. Replace your fan and motherboard",
+                "m_answer": "1.Shut down your computer\n2.Keep the MagSafe adapter (or power cable) plugged in.\n3. Press at the same time shift+option+control (on the left side of the keyboard) and the power button\n4.Let go\n5.Turn your computer back on with the power button. 6. Make an Appointment with Apple",
+                "w_source": "https://windowsreport.com/cpu-fan-not-spinning/#:~:text=There%20are%20three%20main%20reasons,fan%20up%20and%20running%20again.",
+                "m_source": "https://apple.stackexchange.com/questions/261954/macbook-pro-fan-is-not-running-on-default-settings-regardless-of-how-hot-it-gets"
             },
             {
                 "tag": 98,
                 "queries": [
                     "My printer isn't printing",
-                    ""
+                    "My printer doesn't work anymore"
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1. Check if your printer is compatible with Windows 10\n2. Check printer power and connection\n3. Uninstall your printer, then reinstall again\n4. Update drivers\n5. Reboot your computer\n6. Run the printing troubleshooter\n7. Disable Print in background\n8. Print in clean boot mode\n9. Boot in Safe Mode then test printing",
+                "m_answer": "1. Check the Print dialog box. 2. Check the Print Queue. 3. Check the printer itself. 4. Check for printer software updates. 5. Delete and re-add the printer. 6. Check the error log for clues. 7. Reset Printing System",
+                "w_source": "https://windowsreport.com/printer-wont-print-windows-10/#:~:text=If%20your%20printer%20won't%20print%20in%20Windows%2010%2C%20or,printer%20into%20the%20power%20supply&text=Check%20the%20USB%20connection%20if,and%20run%20the%20printing%20troubleshooter",
+                "m_source": "https://www.macworld.com/article/220491/mac-troubleshooting-what-to-do-when-you-cant-print.html"
             },
             {
                 "tag": 99,
                 "queries": [
                     "Why is my computer automatically restarting",
-                    ""
+                    "Computer keeps turning off and on by itself. "
                 ],
-                "w_answer": "",
-                "m_answer": "",
-                "w_source": "",
-                "m_source": ""
+                "w_answer": "1 Boot the PC into Safe Mode if Necessary. 2 Disable Automatic Restart. 3 Disable Fast Startup. 4 Uninstall Latest Updates. 5 Uninstall Recently Installed Apps. 6 Unplug Unnecessary Peripherals.                7 Revert Windows to an Earlier System Restore Point.  8 Reset Windows to its Original State. ",
+                "m_answer": "1: Check the peripheral devices connected to your Mac. 2: Check the internal RAM and third-party hardware on your Mac. 3: Reinstall operating system on your Mac.           4: Use macOS Recovery to start your Mac.\n5: Use Disk Utility to back up your disk image to an external drive with enough free space.\n6: Wipe the internal drive via Disk Utility.\n7: Install OS X and start your Mac from the internal drive.\n8: Go to App Store > Updates to install all updates on your Mac.\n9: Reinstall the third-party Apps on your Mac and copy the user data from the backup you have just created.",
+                "w_source": "https://www.support.com/how-to/how-to-fix-a-windows-pc-that-keeps-rebooting-12992",
+                "m_source": "https://www.easeus.com/ios-tips/mac-keeps-restarting.html"
             }
         ]
     }
